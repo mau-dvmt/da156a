@@ -1,0 +1,203 @@
+/*
+	Override Bootstrap CSS
+*/
+/* Background-color for the menu */
+.navbar {
+	background-color:#932823;
+	box-shadow:0 0 10px #999;
+}
+/* Color of menu items */
+.navbar-inverse .navbar-nav > li > a{
+	color:#ccc;
+}
+/* Color of web site title */
+.navbar-inverse .navbar-brand{
+	color:#fff;
+}
+a.list-group-item.active{
+	background-color: #932823;
+	border-color:#932823;
+}
+@media screen and (min-width: 768px){
+	.navbar-brand{
+		display:none;
+	}
+}
+@media screen and (max-width: 768px){
+	.pageTitle{
+		display:none;
+	}
+	.navbar-brand{
+		max-width:inherit;
+	}
+    .row{
+        margin:0px;
+    }
+}
+
+.row img{
+    max-width: 100%;
+}
+
+
+
+/* Page layout */
+body > .container{
+	margin-top:50px;
+}
+h5{
+	font-weight:bold;
+}
+.pageTitle h1{
+	height:120px;
+	line-height:120px;
+	float:left;
+	margin:0px;
+}
+.pageTitle img{
+	float:right;
+	height:100px;
+	margin: 10px 0;
+}
+.theContent{
+	border-top:2px solid #932823;
+	border-bottom:2px solid #932823;
+}
+.preview{
+	display:block;
+	width:50%;
+	margin:10px auto;
+	border:5px solid #fff;
+	box-shadow:0 0 5px #999;
+}
+iframe{
+	margin:10px 0;
+	display:block;
+	border:5px solid #fff;
+	box-shadow:0 0 5px #999;
+}
+
+iframe[title='Disqus']{
+	box-shadow:none;
+}
+
+.a{
+	position:absolute;
+	margin-top:-60px;
+}
+
+.desc{
+	float:right;
+	color:#999;
+}
+
+.bigPlan td, .bigPlan th{
+	text-align:center;
+	border:#eee 1px solid;
+}
+
+.modulArea{
+	font-size:12px;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li:hover{
+	background-color:#000 !important;
+	background-image:none !important;
+    color: #EEE;
+}
+
+.dropdown-menu a{
+	padding-top:7px !important;
+	padding-bottom:7px !important;
+}
+
+/*
+    Auto generated sub menu
+*/
+.size-H1{
+    font-size: 14px;
+}
+.size-H2{
+    padding-left: 10px;
+    font-size: 14px;
+}
+.size-H3{
+    padding-left: 20px;
+    font-size: 13px;
+}
+.size-H4{
+    padding-left: 30px;
+    font-size: 12px;
+}
+.size-H5{
+    padding-left: 40px;
+    font-size: 11px;
+}
+.size-H6{
+    padding-left: 50px;
+    font-size: 10px;
+}
+.link-fix{
+    position: absolute;
+    margin-top:-70px;
+}
+.smallerText li, .smallerText p{
+    font-size:12px;
+}
+.todo{
+    background-color: red;
+    color: white;
+    -webkit-transition:all 1s;
+    -moz-transition:all 1s;
+    -o-transition:all 1s;
+    transition:all 1s
+}
+.todo2{
+    background:white;
+    color:red;
+    -webkit-transition:all 1s;
+    -moz-transition:all 1s;
+    -o-transition:all 1s;
+    transition:all 1s
+}
+
+.figure-center{
+    text-align: center;
+    font-size: 12px;
+    margin-top: -5px;
+    font-style: italic;
+}
+
+#plan td[rowspan] {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+#plan .odd{
+    background-color: #eee;
+}
+#plan .even{
+    background-color: #fff;
+}
+
+#plan .lecture{
+    border-right: 5px solid #c1f0b7;
+}
+
+#plan .header{
+    border-right: 5px solid #eee;
+}
+
+#plan .tenta{
+    border-right: 5px solid #f04945;
+}
+
+#plan .laboration{
+    border-right: 5px solid #bfcef0;
+}
+
+#plan .assignment td:nth-child(4), #plan .assignment td:nth-child(3){
+    font-style: italic;
+}
