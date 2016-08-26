@@ -37,7 +37,7 @@
                 <tr>
                     <td>8/9</td>
                     <td>2.a. Mer HTML-element och 2.b. stilmallar</td>
-                    <td>Sofia, Jacob (, Anton)</td>
+                    <td>Jacob, Anton)</td>
                 </tr>
                 <tr>
                     <td>15/9</td>
