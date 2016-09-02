@@ -97,7 +97,7 @@
     <ul>
         <li>Hemkatalogen går även att komma åt via krypterad FTP. FTP är ett protokoll specialdesignat för att skicka och ta emot filer (därav namnet, File Transfer Protocol). Adressen är <code>ftpes://webshare.mah.se</code> och ditt vanliga datorid och lösenord används. <a href="http://filezilla-project.org/">FileZilla</a> (finns i datorsalarna) och <a href="http://cyberduck.ch/">Cyberduck</a> är två bra program som kan användas.</li>
         <li>
-            Det finns även <a href="access.mah.se">ett webbgränssnitt</a>.
+            Det finns även <a href="http://access.mah.se">ett webbgränssnitt</a>.
         </li>
     </ul>
 
