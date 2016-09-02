@@ -46,7 +46,7 @@
                 <tr class="laboration odd">
                     <td>8/9</td>
                     <td>8-12</td>
-                    <td>Laboration 2.a: Mer HTML-element och 2.b: Stilmallar</td>
+                    <td>Laboration <a href="/exercises.php?title=2">2.a: Mer HTML-element</a> och <a href="/exercises.php?title=2b">2.b: Stilmallar</a></td>
                 </tr>
 
                 <tr class="lecture even">

@@ -36,8 +36,8 @@
                 </tr>
                 <tr>
                     <td>8/9</td>
-                    <td>2.a. Mer HTML-element och 2.b. stilmallar</td>
-                    <td>Jacob, Anton)</td>
+                    <td><a href="/exercises.php?title=2">2.a. Mer HTML-element</a> och <a href="/exercises.php?title=2b">2.b. stilmallar</a></td>
+                    <td>Jacob, Anton</td>
                 </tr>
                 <tr>
                     <td>15/9</td>
