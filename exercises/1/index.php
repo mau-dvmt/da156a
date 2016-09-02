@@ -50,7 +50,7 @@
     <li>
         <p>En referens för att slå upp hur HTML skrivs.</p>
         <ul>
-            <li>I kursboken <a href="http://www.bokfynd.nu/0987090852.html">Build Your Own Website The Right Way Using HTML & CSS</a> görs detta bra.</li>
+            <li>I kursboken <a href="http://www.bokfynd.nu/9163609940.html">HTML och CSS-boken</a> görs detta bra.</li>
             <li>Sitepoint publicerar ett slags upppslagsverk för många aspekter kring HTML: <a href="http://reference.sitepoint.com/html">Sitepoint HTML Reference</a>.</li>
         </ul>
     </li>
