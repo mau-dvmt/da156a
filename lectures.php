@@ -44,7 +44,7 @@
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td>Vanliga och viktiga element i HTML</td>
+                    <td><a href="/lectures.php?nr=3">Vanliga och viktiga element i HTML</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>

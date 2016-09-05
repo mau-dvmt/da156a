@@ -36,7 +36,7 @@
                     <td rowspan="3">36</td>
                     <td>5/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 3: Vanliga och viktiga element i HTML</td>
+                    <td><a href="/lectures.php?nr=3">Föreläsning 3: Vanliga och viktiga element i HTML</a></td>
                 </tr>
                 <tr class="lecture odd">
                     <td>6/9</td>
