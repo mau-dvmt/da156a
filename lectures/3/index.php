@@ -48,7 +48,7 @@
 					&lt;td&gt;Introduktion till datavetenskap&lt;/td&gt;
 					&lt;td&gt;Introduktion till programmering&lt;/td&gt;
 					&lt;td colspan=&quot;2&quot;&gt;Systemutveckling och Projekt I&lt;/td&gt;
-                &lt;tr&gt;
+                &lt;/tr&gt;
 			&lt;/tbody&gt;
 		&lt;/table&gt;
 	&lt;/body&gt;
