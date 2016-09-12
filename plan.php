@@ -53,7 +53,7 @@
                     <td rowspan="3">37</td>
                     <td>12/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 5: Layout med HTML och CSS</td>
+                    <td><a href="/lectures.php?nr=5">Föreläsning 5: Layout med HTML och CSS</a></td>
                 </tr>
                 <tr class="lecture even">
                     <td>13/9</td>
