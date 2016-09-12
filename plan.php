@@ -63,7 +63,7 @@
                 <tr class="laboration even">
                     <td>15/9</td>
                     <td>8-12</td>
-                    <td>Laboration 3: Layout med CSS</td>
+                    <td><a href="/exercises.php?title=3">Laboration 3: Layout med CSS</a></td>
                 </tr>
 
                 <tr class="lecture odd">
@@ -85,7 +85,7 @@
                 <tr class="tenta assignment odd">
                     <td>25/9</td>
                     <td></td>
-                    <td>Deadline: Inlämningsuppgift 1</td>
+                    <td><a href="/assignments.php?nr=1">Deadline: Inlämningsuppgift 1</a></td>
                 </tr>
 
                 <tr class="lecture even">

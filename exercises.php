@@ -41,7 +41,7 @@
                 </tr>
                 <tr>
                     <td>15/9</td>
-                    <td>3. Layout med CSS</td>
+                    <td><a href="/exercises.php?title=3">3. Layout med CSS</a></td>
                     <td>Sofia, Jacob (, Anton)</td>
                 </tr>
                 <tr>
