@@ -59,7 +59,7 @@
                 </tr>
                 <tr>
                     <td>6</td>
-                    <td>Introduktion till JavaScript</td>
+                    <td><a href="/lectures.php?nr=6">Introduktion till JavaScript</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
