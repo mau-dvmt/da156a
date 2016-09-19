@@ -8,8 +8,6 @@
 
 <h3>Dagens exempel</h3>
 
-<p> Ni kan ladda ner hela webbplatsen i ZIP-format <a href="/lectures/6/Webbsite.zip">här</a></p>
-
 <h4>Ex. 1</h4>
 
 <h5>index.html</h4>

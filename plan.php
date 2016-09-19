@@ -80,7 +80,7 @@
                 <tr class="laboration odd">
                     <td>21/9</td>
                     <td>8-12</td>
-                    <td>Laboration 4: Interaktivitet med JavaScript</td>
+                    <td><a href="/exercises.php?title=4">Laboration 4: Interaktivitet med JavaScript</a></td>
                 </tr>
                 <tr class="tenta assignment odd">
                     <td>25/9</td>

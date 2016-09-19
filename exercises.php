@@ -46,7 +46,7 @@
                 </tr>
                 <tr>
                     <td>21/9</td>
-                    <td>4. Interaktivitet med JavaScript</td>
+                    <td><a href="/exercises.php?title=4">4. Interaktivitet med JavaScript</a></td>
                     <td>Sofia, Jacob (, Anton)</td>
                 </tr>
                 <tr>
