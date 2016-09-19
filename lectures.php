@@ -64,7 +64,7 @@
                 </tr>
                 <tr>
                     <td>7</td>
-                    <td>Loopar, if-satser, interaktiva webbsidor med JavaScript</td>
+                    <td><a href="/lectures.php?nr=7">Loopar, if-satser, interaktiva webbsidor med JavaScript</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>

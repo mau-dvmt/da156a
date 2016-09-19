@@ -1,4 +1,4 @@
-<h2>Föreläsning 5 - Introduktion till CSS</h2>
+<h2>Föreläsning 6 - Introduktion till JavaScript</h2>
 
 <hr>
 

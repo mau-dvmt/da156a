@@ -70,7 +70,7 @@
                     <td rowspan="4">38</td>
                     <td>19/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 7: Loopar, if-satser, interaktiva webbsidor med JavaScript</td>
+                    <td><a href="/lectures.php?nr=7">Föreläsning 7: Loopar, if-satser, interaktiva webbsidor med JavaScript</a></td>
                 </tr>
                 <tr class="lecture odd">
                     <td>20/9</td>
