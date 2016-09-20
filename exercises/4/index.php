@@ -114,6 +114,7 @@ window.onload = setUp;</code></pre>
 // Ändrar textrutans klass till 'formal'
 function setFormalStyle(){
 	var messageBox = document.getElementById(&quot;message&quot;);
+    // Ni kan även skriva: var messageBox = document.querySelector(&quot;#message&quot;);
 	messageBox.className = &quot;formal&quot;;
 }</code></pre>
 <p>
@@ -124,7 +125,8 @@ function setFormalStyle(){
 </p>
 <pre class="line-numbers language-javascript" data-type="html"><code class="language-javascript">
 // En knapp antas ha identiteten &#x27;formal&#x27;
-document.getElementById(&quot;formal&quot;).onclick = setFormalStyle;</code></pre>
+document.getElementById(&quot;formal&quot;).onclick = setFormalStyle;
+// Ni kan även skriva: document.querySelector(&quot;#formal&quot;).onclick = setFormalStyle;</code></pre>
 <p>
     När du lyckats se till att knapparna fungerar som de ska, så har du också lyckats med laborationen.
 </p>
@@ -158,6 +160,7 @@ function setStyle() {
 	var styleName = this.id;
 	// Textrutans klassnamn blir samma som knappens id:
 	document.getElementById(&quot;message&quot;).className = styleName;
+    // Ni kan även skriva: document.querySelector(&quot;#message&quot;).className = styleName;
 }</code></pre>
 
 <h3>3. Feedback</h3>
