@@ -69,7 +69,7 @@
                 </tr>
                 <tr>
                     <td>8</td>
-                    <td>Tillgänglighet, tillämpningar med JavaScript</td>
+                    <td><a href="/lectures.php?nr=8">Tillgänglighet, tillämpningar med JavaScript</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>

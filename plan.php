@@ -75,7 +75,7 @@
                 <tr class="lecture odd">
                     <td>20/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 9: Tillgänglighet, tillämpningar med JavaScript</td>
+                    <td><a href="/lectures.php?nr=8">Föreläsning 9: Tillgänglighet, tillämpningar med JavaScript</a></td>
                 </tr>
                 <tr class="laboration odd">
                     <td>21/9</td>
