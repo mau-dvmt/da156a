@@ -102,7 +102,7 @@
                 <tr class="laboration even">
                     <td>29/9</td>
                     <td>8-12</td>
-                    <td>Laboration 5: Media queries</td>
+                    <td><a href="/exercises.php?title=5">Laboration 5: Media queries</a></td>
                 </tr>
 
                 <tr class="lecture odd">

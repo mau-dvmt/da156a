@@ -51,7 +51,7 @@
                 </tr>
                 <tr>
                     <td>29/9</td>
-                    <td>5. Media Queries</td>
+                    <td><a href="/exercises.php?title=5">5. Media Queries</a></td>
                     <td>Sofia, Jacob (, Anton)</td>
                 </tr>
 			</table>
