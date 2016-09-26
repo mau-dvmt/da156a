@@ -92,7 +92,7 @@
                     <td rowspan="3">39</td>
                     <td>26/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 9: Media Queries och responsive design</td>
+                    <td><a href="/lectures.php?nr=9">Föreläsning 9: Media Queries och responsive design</a></td>
                 </tr>
                 <tr class="lecture even">
                     <td>27/9</td>

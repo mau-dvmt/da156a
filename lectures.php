@@ -74,7 +74,7 @@
                 </tr>
                 <tr>
                     <td>9</td>
-                    <td>Media Queries och responsive design</td>
+                    <td><a href="/lectures.php?nr=9">Media Queries och responsive design</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
