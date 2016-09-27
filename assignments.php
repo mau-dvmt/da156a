@@ -31,7 +31,7 @@
                     <td><a href="/assignments.php?nr=1">1. Inlämningsuppgift 1 - om standardbaserad webbutveckling, HTML och CSS för dokumentformatering</a></td>
 			    </tr>
 			    <tr>
-                    <td>2. Inlämningsuppgift 2 - om JavaScript och CSS för layout</td>
+                    <td><a href="/assignments.php?nr=2">2. Inlämningsuppgift 2 - om JavaScript och CSS för layout</a></td>
 			    </tr>
 			    <tr>
                     <td>3. Inlämningsuppgift 3 - användbar webbplats med HTML5 och CSS 3</td>
