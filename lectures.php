@@ -77,18 +77,23 @@
                     <td><a href="/lectures.php?nr=9">Media Queries och responsive design</a></td>
                     <td>Anton</td>
                 </tr>
+				<tr>
+					<td>10</td>
+					<td><a href="/lectures.php?nr=10">Mer om HTML och CSS</a></td>
+					<td>Anton</td>
+				</tr>
                 <tr>
-                    <td>10</td>
+                    <td>11</td>
                     <td>Introduktion till Användbarhet</td>
                     <td>Anton</td>
                 </tr>
                 <tr>
-                    <td>11</td>
+                    <td>12</td>
                     <td>Användbarhet med fokus på webben</td>
                     <td>Anton</td>
                 </tr>
                 <tr>
-                    <td>12</td>
+                    <td>13</td>
                     <td>HTML: Extra</td>
                     <td>Anton</td>
                 </tr>

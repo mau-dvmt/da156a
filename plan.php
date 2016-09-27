@@ -97,7 +97,7 @@
                 <tr class="lecture even">
                     <td>27/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 10: Mer om HTML 5 och CSS 3</td>
+                    <td><a href="/lectures.php?nr=10">Föreläsning 10: Mer om HTML 5 och CSS 3</a></td>
                 </tr>
                 <tr class="laboration even">
                     <td>29/9</td>
