@@ -84,7 +84,7 @@
 				</tr>
                 <tr>
                     <td>11</td>
-                    <td>Introduktion till Användbarhet</td>
+                    <td><a href="/lectures.php?nr=11">Introduktion till Användbarhet</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
