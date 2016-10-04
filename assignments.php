@@ -34,7 +34,7 @@
                     <td><a href="/assignments.php?nr=2">2. Inlämningsuppgift 2 - om JavaScript och CSS för layout</a></td>
 			    </tr>
 			    <tr>
-                    <td>3. Inlämningsuppgift 3 - användbar webbplats med HTML5 och CSS 3</td>
+                    <td><a href="/assignments.php?nr=3">3. Inlämningsuppgift 3 - användbar webbplats med HTML5 och CSS 3</a></td>
 			    </tr>
 			</table>
 		</div>

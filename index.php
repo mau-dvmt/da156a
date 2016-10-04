@@ -29,6 +29,7 @@ include "_header.php";
 		</div>
 		<h2>Senaste händelser</h2>
 		<div class="list-group">
+			<a href="/assignments.php?nr=3" class="list-group-item"><strong>2016-10-04</strong> - Inlämningsuppgift 3</a>
 			<a href="/lectures.php?nr=12" class="list-group-item"><strong>2015-10-04</strong> - Föreläsning 12</a>
 			<a href="/lectures.php?nr=11" class="list-group-item"><strong>2015-10-03</strong> - Föreläsning 11</a>
 			<a href="/assignments.php?nr=2" class="list-group-item"><strong>2016-09-27</strong> - Inlämningsuppgift 2</a>

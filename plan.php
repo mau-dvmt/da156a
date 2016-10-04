@@ -157,7 +157,7 @@
                     <td rowspan="1">44</td>
                     <td>6/11</td>
                     <td></td>
-                    <td>Deadline: Inlämningsuppgift 3</td>
+                    <td><a href="/assignments.php?nr=3">Deadline: Inlämningsuppgift 3</a></td>
                 </tr>
 
                 <tr class="tenta odd">
