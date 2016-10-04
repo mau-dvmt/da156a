@@ -114,7 +114,7 @@
 				<tr class="lecture odd">
 					<td>4/10</td>
 					<td>13-15</td>
-					<td>Föreläsning 12: Användbarhet med fokus på webben</td>
+					<td><a href="/lectures.php?nr=12">Föreläsning 12: Användbarhet med fokus på webben</a></td>
 				</tr>
                 <tr class="laboration odd">
                     <td>6/10</td>

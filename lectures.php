@@ -89,7 +89,7 @@
                 </tr>
                 <tr>
                     <td>12</td>
-                    <td>Användbarhet med fokus på webben</td>
+                    <td><a href="/lectures.php?nr=12">Användbarhet med fokus på webben</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
