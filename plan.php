@@ -126,7 +126,7 @@
                     <td rowspan="3">41</td>
                     <td>11/10</td>
                     <td>13-15</td>
-                    <td>Föreläsning 13: HTML: Extra</td>
+                    <td><a href="/lectures.php?nr=13">Föreläsning 13: HTML: Extra</a></td>
                 </tr>
                 <tr class="laboration even">
                     <td>13/10</td>

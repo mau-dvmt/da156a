@@ -94,7 +94,7 @@
                 </tr>
                 <tr>
                     <td>13</td>
-                    <td>HTML: Extra</td>
+                    <td><a href="/lectures.php?nr=13">HTML: Extra</a></td>
                     <td>Anton</td>
                 </tr>
             </table>
