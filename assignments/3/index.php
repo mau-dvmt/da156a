@@ -34,4 +34,4 @@
 </ul>
 
 <h3>3. Redovisning</h3>
-<p>Ditt resultat ska publiceras på WebShare och länken till startsidan ska lämnas in på it’s learning. Till inlämningen ska du även bifoga en kopia på webbplatsens alla filer samt ett dokument där du beskriver vad du gjort för användbarhetsförbättringar (och motivera varför). Deadline är 8/11, 23:55.</p>
+<p>Ditt resultat ska publiceras på WebShare och länken till startsidan ska lämnas in på it’s learning. Till inlämningen ska du även bifoga en kopia på webbplatsens alla filer samt ett dokument där du beskriver vad du gjort för användbarhetsförbättringar (och motivera varför). Deadline är 6/11, 23:55.</p>
