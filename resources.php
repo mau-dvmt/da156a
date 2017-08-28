@@ -7,13 +7,13 @@ include "_header.php";
 		<h2>Resurser</h2>
 		<h3>1. Kurslitteratur</h3>
 		<p>
-			Egentligen behövs inga speciella böcker för att komma igång med HTML, CSS och JavaScript. Men det kan vara bekvämt att få (nästan) all information samlad och förklarad, vilket är målet med kursens rekommenderade bok - <a href="http://www.bokfynd.nu/9163609940.html">HTML och CSS-boken</a>, av Rolf Staflin.
+			Egentligen behövs inga speciella böcker för att komma igång med HTML, CSS och JavaScript. Men det kan vara bekvämt att få (nästan) all information samlad och förklarad, vilket är målet med kursens rekommenderade bok - <a href="http://www.bokfynd.nu/1118871642.html">HTML and CSS: Design and Build Websites</a>, av Jon Duckett.
 		</p>
 		<p>
-			Staflins bok har en blandning &quot;hur&quot; och &quot;varför&quot;, med fokus på det första.
+			Duckets bok har en blandning &quot;hur&quot; och &quot;varför&quot;, med fokus på det första.
 		</p>
 		<p>
-			I just <a href="http://edu.mah.se/sv/Course/da156a#Syllabus">denna kurs</a> rekommenderas ytterligare tre böcker:
+			I just <a href="http://edu.mah.se/sv/Course/da156a#Syllabus">denna kurs</a> rekommenderas ytterligare två böcker:
 		</p>
 		<ul>
 			<li>
@@ -40,10 +40,10 @@ include "_header.php";
 				<a href="https://developer.mozilla.org/en-US/docs">Mozilla Developer Network</a> fyller samma syfte som SitePoint, men kan vara mer utförlig för avancerade ämnen.
 			</li>
 			<li>
-				<a href="http://dvwebb.mah.se/tsanti/HT2012/DA156A/index.html">JavaScriptföreläsningar</a> (på svenska) med exempel och övningar. Från grunderna till händelsehantering och DOM.
+				<a href="http://eloquentjavascript.net/">Eloquent JavaScript</a> är en gratisbok som introducerar och fördjupar inom programmering med JavaScript.
 			</li>
 			<li>
-				<a href="http://eloquentjavascript.net/">Eloquent JavaScript</a> är en gratisbok som introducerar och fördjupar inom programmering med JavaScript.
+				<a href="http://dvwebb.mah.se/tsanti/HT2012/DA156A/index.html">JavaScriptföreläsningar</a> (på svenska) med exempel och övningar. Från grunderna till händelsehantering och DOM.
 			</li>
 		</ul>
 
@@ -62,7 +62,7 @@ include "_header.php";
 				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
 				<li><a href="http://www.barebones.com/products/TextWrangler/">TextWrangler</a> (gratis)</li>
-				<li><a href="http://www.peterborgapps.com/smultron/">Smultron</a> ($5)</li>
+				<li><a href="http://www.peterborgapps.com/smultron/">Smultron</a> ($10)</li>
 				<li><a href="http://www.sublimetext.com">Sublime Text</a> ($70)</li>
 				<li><a href="http://chocolatapp.com">Chocolat</a> ($49)</li>
 			</ul>

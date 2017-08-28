@@ -22,7 +22,7 @@
         <p>Inför första skrivningen är ett seminarium inbokat, där frågor besvaras och möjliga lösningar kan diskuteras. Se <a href="/plan.php">planen</a>.</p>
 
         <h3>Anmälan</h3>
-        <p>Anmälan till tentamen är <strong>obligatorisk</strong> och görs via <a href="https://minastudier.mah.se/">Mina studier</a>.</p>
+        <p>Anmälan till tentamen är <strong>obligatorisk</strong> och görs via <a href="https://www.student.ladok.se/Shibboleth.sso/Login?entityID=https://idp.mah.se/idp/shibboleth&target=https://www.student.ladok.se/student/shiblogin">Ladok student</a>.</p>
 
     </div>
     <div class="col-lg-4 submenu-area">

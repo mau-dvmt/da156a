@@ -33,69 +33,7 @@
                     <th>Föreläsare</th>
                 </tr>
                 <tr>
-                    <td>1</td>
-                    <td><a href="/lectures.php?nr=1">Kursintroduktion, översikt</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td><a href="/lectures.php?nr=2">Introduktion till HTML</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>3</td>
-                    <td><a href="/lectures.php?nr=3">Vanliga och viktiga element i HTML</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>4</td>
-                    <td><a href="/lectures.php?nr=4">Introduktion till CSS</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>5</td>
-                    <td><a href="/lectures.php?nr=5">Layout med HTML och CSS</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>6</td>
-                    <td><a href="/lectures.php?nr=6">Introduktion till JavaScript</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>7</td>
-                    <td><a href="/lectures.php?nr=7">Loopar, if-satser, interaktiva webbsidor med JavaScript</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>8</td>
-                    <td><a href="/lectures.php?nr=8">Tillgänglighet, tillämpningar med JavaScript</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>9</td>
-                    <td><a href="/lectures.php?nr=9">Media Queries och responsive design</a></td>
-                    <td>Anton</td>
-                </tr>
-				<tr>
-					<td>10</td>
-					<td><a href="/lectures.php?nr=10">Mer om HTML och CSS</a></td>
-					<td>Anton</td>
-				</tr>
-                <tr>
-                    <td>11</td>
-                    <td><a href="/lectures.php?nr=11">Introduktion till Användbarhet</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>12</td>
-                    <td><a href="/lectures.php?nr=12">Användbarhet med fokus på webben</a></td>
-                    <td>Anton</td>
-                </tr>
-                <tr>
-                    <td>13</td>
-                    <td><a href="/lectures.php?nr=13">HTML: Extra</a></td>
-                    <td>Anton</td>
+                    <td colspan="3">Inga föreläsningar</td>
                 </tr>
             </table>
 
