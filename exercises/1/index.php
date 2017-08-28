@@ -5,7 +5,7 @@
 <p>Som student på Malmö högskola har du automatiskt möjlighet att publicera webbsidor på Internet. Det är vanligt att där skapa en startsida, med en presentation, kontaktinformation, länkar - och annat du känner för. Att skapa och publicera en egen presentationssida är alltså syftet för denna laboration!</p>
 
 <h4>1.1. Exempel</h4>
-<p>Såhär har några lärare och forskare vid Institutionen för datavetenskap valt att göra med sina startsidor:</p>
+<p>Såhär har några (nuvarande och föredetta) lärare och forskare vid Institutionen för datavetenskap valt att göra med sina startsidor:</p>
 <ul>
     <li><a href="http://webshare.mah.se/ctfroh/">Fredrik Ohlin</a></li>
     <li><a href="http://webshare.mah.se/tsbeni/">Bengt Nilsson</a></li>
@@ -50,7 +50,7 @@
     <li>
         <p>En referens för att slå upp hur HTML skrivs.</p>
         <ul>
-            <li>I kursboken <a href="http://www.bokfynd.nu/9163609940.html">HTML och CSS-boken</a> görs detta bra.</li>
+            <li>I kursboken <a href="http://www.bokfynd.nu/1118871642.html">HTML and CSS: Design and Build Websites</a> görs detta bra.</li>
             <li>Sitepoint publicerar ett slags upppslagsverk för många aspekter kring HTML: <a href="http://reference.sitepoint.com/html">Sitepoint HTML Reference</a>.</li>
         </ul>
     </li>
@@ -168,7 +168,7 @@
 
     <p>Ett bra dokument saknar fel (som rödmarkeras i validatorn) - och helst även varningar.</p>
 
-    <h3>6.Feedback</h3>
+    <h3>6. Feedback</h3>
     <p>Hur ska du veta om du skapat bra eller dålig HTML? Kontrollera först följande punkter:</p>
     <ul>
         <li>Validerar webbsidan?</li>

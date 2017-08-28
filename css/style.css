@@ -1,6 +1,10 @@
 /*
 	Override Bootstrap CSS
 */
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 150%;
+}
 /* Background-color for the menu */
 .navbar {
 	background-color:#932823;
