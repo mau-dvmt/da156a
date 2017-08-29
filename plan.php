@@ -24,7 +24,7 @@
                 <tr class="lecture even">
                     <td>30/8</td>
                     <td>13-15</td>
-                    <td>Föreläsning 2</td>
+                    <td>Föreläsning 2: Introduktion till HTML &amp; element</td>
                 </tr>
                 <tr class="laboration even">
                     <td>1/9</td>
@@ -36,51 +36,51 @@
                     <td rowspan="3">36</td>
                     <td>5/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 3</td>
+                    <td>Föreläsning 3: Tabell &amp; formulär</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>6/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 4</td>
+                    <td>Föreläsning 4: Introduktion till CSS</td>
                 </tr>
                 <tr class="laboration odd">
                     <td>8/9</td>
                     <td>8-12</td>
-                    <td>Laboration 2</td>
+                    <td>Laboration 2: Tabeller, formulär &amp; formgivning</td>
                 </tr>
 
                 <tr class="lecture even">
                     <td rowspan="3">37</td>
                     <td>12/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 5</td>
+                    <td>Föreläsning 5: Layout med CSS (1)</td>
                 </tr>
                 <tr class="lecture even">
                     <td>13/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 6</td>
+                    <td>Föreläsning 6: Layout med CSS (2)</td>
                 </tr>
                 <tr class="laboration even">
                     <td>15/9</td>
                     <td>8-12</td>
-                    <td>Laboration 3</td>
+                    <td>Laboration 3: Layout med CSS</td>
                 </tr>
 
                 <tr class="lecture odd">
                     <td rowspan="4">38</td>
                     <td>19/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 7</td>
+                    <td>Föreläsning 7: Responsiv webbutveckling</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>21/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 8</td>
+                    <td>Föreläsning 8: Tutorial, att bygga en webbsida</td>
                 </tr>
                 <tr class="laboration odd">
                     <td>22/9</td>
                     <td>8-12</td>
-                    <td>Laboration 4</td>
+                    <td>Laboration 4: Responsiv webbplats</td>
                 </tr>
                 <tr class="tenta assignment odd">
                     <td>24/9</td>
@@ -92,29 +92,29 @@
                     <td rowspan="3">39</td>
                     <td>26/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 9</td>
+                    <td>Föreläsning 9: Introduktion till JavaScript</td>
                 </tr>
                 <tr class="lecture even">
                     <td>27/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 10</td>
+                    <td>Föreläsning 10: Mer om JavaScript</td>
                 </tr>
                 <tr class="laboration even">
                     <td>29/9</td>
                     <td>8-12</td>
-                    <td>Laboration 5</td>
+                    <td>Laboration 5: JavaScript på webben</td>
                 </tr>
 
                 <tr class="lecture odd">
                     <td rowspan="3">40</td>
                     <td>3/10</td>
                     <td>10-12</td>
-                    <td>Föreläsning 11</td>
+                    <td>Föreläsning 11: Ramverk &amp; bibliotek</td>
                 </tr>
 				<tr class="lecture odd">
 					<td>4/10</td>
 					<td>13-15</td>
-					<td>Föreläsning 12</td>
+					<td>Föreläsning 12: Introduktion till användbarhet</td>
 				</tr>
                 <tr class="laboration odd">
                     <td>6/10</td>
@@ -126,7 +126,7 @@
                     <td rowspan="3">41</td>
                     <td>11/10</td>
                     <td>13-15</td>
-                    <td>Föreläsning: Extra</td>
+                    <td>Föreläsning 13: Användbarhet med fokus på webben</td>
                 </tr>
                 <tr class="laboration even">
                     <td>13/10</td>
