@@ -33,7 +33,9 @@
                     <th>Föreläsare</th>
                 </tr>
                 <tr>
-                    <td colspan="3">Inga föreläsningar</td>
+                    <td>1</td>
+					<td><a href="/lectures.php?nr=1">Föreläsning 1: Kursintroduktion</a></td>
+					<td>Anton</td>
                 </tr>
             </table>
 
