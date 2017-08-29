@@ -14,7 +14,7 @@
 
 <h3>Källkod för webbsidan vi byggde på föreläsningen</h3>
 
-<pre class="language-markup line-numbers codepen" data-type="html"><code class="language-markup line-numbers">
+<pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
 &lt;!doctype html&gt;
 &lt;html&gt;
 	&lt;head&gt;
