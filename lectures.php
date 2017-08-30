@@ -37,6 +37,11 @@
 					<td><a href="/lectures.php?nr=1">Föreläsning 1: Kursintroduktion</a></td>
 					<td>Anton</td>
                 </tr>
+				<tr>
+					<td>2</td>
+					<td><a href="/lectures.php?nr=2">Föreläsning 2: Introduktion till HTML</a></td>
+					<td>Anton</td>
+				</tr>
             </table>
 
 			<p>Notera även att innehållet kan ändras något under kursens gång - studenter har möjlighet att påverka vad som fördjupas.</p>

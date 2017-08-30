@@ -24,7 +24,7 @@
                 <tr class="lecture even">
                     <td>30/8</td>
                     <td>13-15</td>
-                    <td>Föreläsning 2: Introduktion till HTML &amp; element</td>
+                    <td><a href="/lectures.php?nr=2">Föreläsning 2: Introduktion till HTML</a></td>
                 </tr>
                 <tr class="laboration even">
                     <td>1/9</td>
