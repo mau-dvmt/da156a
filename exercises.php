@@ -36,7 +36,7 @@
                 </tr>
                 <tr>
                     <td>8/9</td>
-                    <td>Mer info kommer</td>
+                    <td><a href="/exercises.php?title=2">2a. Formulär &amp; tabeller</a>, <a href="/exercises.php?title=2b">2b. Introduktion till CSS</a></td>
                     <td>Emma, Kim, (, Anton)</td>
                 </tr>
                 <tr>

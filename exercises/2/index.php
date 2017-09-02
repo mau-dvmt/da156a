@@ -29,7 +29,7 @@
 <h4>3.2. Steg 2: Ett grundläggande formulär</h4>
 <p>Under tabellen ska du nu konstruera ett ansökningsformulär. Ett HTML-formulär kan vara väldigt enkelt. Låt oss studera ett exempel:</p>
 
-<pre class="line-numbers codepen language-markup" data-type="html"><code class="language-markup">&lt;form action="http://webshare.mah.se/ctfroh/da158a/formtest.php"&gt;
+<pre class="line-numbers language-markup" data-type="html"><code class="language-markup">&lt;form action="http://webshare.mah.se/ctfroh/da158a/formtest.php"&gt;
     &lt;fieldset&gt;
         &lt;legend&gt;Ansök om bostad&lt;/legend&gt;
         &lt;input type="button" value="Ansök"&gt;
@@ -45,7 +45,7 @@
 <ul>
     <li>För att formuläret verkligen ska skickas när man klickar på knappen så måste den vara av en speciell typ. Undersök type-attributet och uppdatera knappen så att den skicka formuläret.</li>
     <li>Uppdatera även formuläret så att det skickas via HTTP-metoden <code>POST</code>.</li>
-</ul>    
+</ul>
 
 <h4>3.3. Steg 3: Inmatningsmöjligheter</h4>
 
@@ -67,10 +67,10 @@
 
 <p>Nästa steg är att förbättra hur benämningarna på textrutorna är skrivna (benämningarna är &#8220;Förnamn&#8221; och &#8220;Efternamn&#8221; i exempelbilden ovan). Detta görs med taggen label, som just är till för att koppla ihop benämningar med formulärkontroller</p>
 
-<p><code>label</code> ger ingen visuell skillnad, med ökar användbarheten genom att göra benämningen klickbar, samt ökar tillgängligheten genom att göra benämningens syfte explicit. Läs mer om dessa fördelar på <a href="http://reference.sitepoint.com/html/label">Sitepoint</a>. Här är ett exempel:</p>
+<p><code>label</code> ger ingen visuell skillnad, med ökar användbarheten genom att göra benämningen klickbar, samt ökar tillgängligheten genom att göra benämningens syfte explicit. Läs mer om dessa fördelar på <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label">Mozilla developer</a>. Här är ett exempel:</p>
 
-<pre>&lt;label for="pris"&gt;Pris&lt;/label&gt;
-&lt;input type="text" name="pris" id="pris"&gt;</pre>
+<pre class="line-numbers language-markup" data-type="html"><code class="language-markup">&lt;label for="pris"&gt;Pris&lt;/label&gt;
+&lt;input type="text" name="pris" id="pris"&gt;</code></pre>
 
 <ul>
     <li>Textrutan (<code>input</code>) har attributet <code>id</code>, som unikt identifierar den i dokumentet.</li>
@@ -86,9 +86,9 @@
 
 <ul>
     <li>Nya textfält för telefonnummer och nuvarande adress (adress kanske kräver mer än ett textfält, använd bästa omdöme kring vad som blir lättast att använda).</li>
-    <li>En <a href="http://reference.sitepoint.com/html/textarea">textarea</a> där man kan ange sina eventuella extrabehov (allergier etc.).</li>
+    <li>En <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea">textarea</a> där man kan ange sina eventuella extrabehov (allergier etc.).</li>
     <li>En &#8220;<a href="http://reference.sitepoint.com/html/select">drop-down</a>&#8221; där man får välja bostad att ansöka om. Valen ska motsvara de objektnummer som finns i tabellen.</li>
-    <li>Radioknappar där man anger om man ska bo ensam, sambo eller flera stycken i lägenheten. Radioknapp är en skapas med hjälp av <code>input</code>, <a href="http://reference.sitepoint.com/html/input/type">läs mer här</a>.</li>
+    <li>Radioknappar där man anger om man ska bo ensam, sambo eller flera stycken i lägenheten. Radioknapp är en skapas med hjälp av <code>input</code>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">läs mer här</a>.</li>
     <li>Checkboxar där man anger att man a) är över 18 och b) har godkänner att ens uppgifter hanteras enligt personuppgiftslagen.</li>
 </ul>
 

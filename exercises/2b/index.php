@@ -24,15 +24,14 @@
 
 <h4>3.1. Grundstil</h3>
 
-<p>När du lagt till <code>style</code>-taggen är det dags att faktiskt skriva lite CSS!
+<p>När du lagt till <code>style</code>-elementet är det dags att faktiskt skriva lite CSS!
 Om du inte gjort det, läs kurslitteratur, och/eller Sitepoint (som följande
-länkar går till) om <a href="http://reference.sitepoint.com/css/rulesets">CSS-regler</a> och
-<a href="http://reference.sitepoint.com/css/declarationblocks">deklarationsblock</a>.
+länkar går till) om <a href="https://www.sitepoint.com/css-selectors/">CSS-selektorer</a>.
 Det kan även vara bra att undersöka hur <a href="http://reference.sitepoint.com/css/comments"> kommentarer fungerar</a>, eftersom välkommenterad kod alltid är lättare att förstå.</p>
 
 <p>Fortsätt sedan med att skriva en CSS-regel som anger bakgrundfärg (<code>background-color</code>) och textfärg (<code>color</code>) för <code>body</code> (för dina färgval kan du använda <a href="http://colorschemedesigner.com/">Color Scheme Designer</a>).</p>
 
-<p>Övergå därefter till att ändra på textens storlek och typsnitt (fortfarande i CSS-regeln för <code>body</code>, eftersom den påverkar allt innehåll i dokumentet). Detta gör du med egenskaperna font-size respektive <code>font-family</code></p>
+<p>Övergå därefter till att ändra på textens storlek och typsnitt (fortfarande i CSS-regeln för <code>body</code>, eftersom den påverkar allt innehåll i dokumentet). Detta gör du med egenskaperna font-size respektive <code>font-family</code>.</p>
 
 <div class="extra">
     <h5>3.1.2 Om typsnitt - tänk på</h5>

@@ -46,7 +46,7 @@
                 <tr class="laboration odd">
                     <td>8/9</td>
                     <td>8-12</td>
-                    <td>Laboration 2: Tabeller, formulär &amp; formgivning</td>
+                    <td>Laboration 2: <a href="/exercises.php?title=2">a) Formulär &amp; tabeller</a>, <a href="/exercises.php?title=2b">b) Introduktion till CSS</a></td>
                 </tr>
 
                 <tr class="lecture even">
