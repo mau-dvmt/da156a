@@ -17,7 +17,7 @@
 	&lt;head&gt;
 		&lt;title&gt;Min webbplats&lt;/title&gt;
 		&lt;meta charset=&quot;utf-8&quot;&gt;
-		&lt;meta author=&quot;Anton Tibblin&quot;&gt;
+		&lt;meta name=&quot;author&quot; content=&quot;Anton Tibblin&quot;&gt;
 	&lt;/head&gt;
 	&lt;body&gt;
 		&lt;h1&gt;V&auml;lkommen!&lt;/h1&gt;
@@ -42,7 +42,7 @@
 	&lt;head&gt;
 		&lt;title&gt;L&auml;nkar&lt;/title&gt;
 		&lt;meta charset=&quot;utf-8&quot;&gt;
-		&lt;meta author=&quot;Anton Tibblin&quot;&gt;
+		&lt;meta name=&quot;author&quot; content=&quot;Anton Tibblin&quot;&gt;
 	&lt;/head&gt;
 	&lt;body&gt;
 		&lt;h1&gt;L&auml;nkar&lt;/h1&gt;
@@ -77,7 +77,7 @@
 	&lt;head&gt;
 		&lt;title&gt;Bilder&lt;/title&gt;
 		&lt;meta charset=&quot;utf-8&quot;&gt;
-		&lt;meta author=&quot;Anton Tibblin&quot;&gt;
+		&lt;meta name=&quot;author&quot; content=&quot;Anton Tibblin&quot;&gt;
 	&lt;/head&gt;
 	&lt;body&gt;
 		&lt;h1&gt;Bilder&lt;/h1&gt;
