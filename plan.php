@@ -107,7 +107,7 @@
                     <td>26/9</td>
                     <td>10-12</td>
                     <td>Föreläsning 9: Introduktion till JavaScript</td>
-					<td></td>
+					<td>-</td>
                 </tr>
                 <tr class="lecture even">
                     <td>27/9</td>
@@ -119,7 +119,7 @@
                     <td>29/9</td>
                     <td>8-12</td>
                     <td>Laboration 5: JavaScript på webben</td>
-					<td>-</td>
+					<td></td>
                 </tr>
 
                 <tr class="lecture odd">
