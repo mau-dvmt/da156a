@@ -2,9 +2,11 @@
 
 <hr>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3DFfDdgE6gMX4H" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht16-da156a-tabeller-och-formulr" title="HT16 - DA156A - Tabeller och formulär" target="_blank">HT16 - DA156A - Tabeller och formulär</a> </strong> from <strong><a href="//www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GGWaIRxVYYE8VL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht17-da156a-tabeller-formulr" title="HT17 - DA156A - Tabeller &amp; Formulär" target="_blank">HT17 - DA156A - Tabeller &amp; Formulär</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
 
 <hr>
+
+<!--
 
 <h3>Dagens exempel</h3>
 
@@ -90,3 +92,5 @@
 	&lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
+
+-->
