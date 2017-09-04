@@ -14,22 +14,26 @@
                     <th>Datum</th>
                     <th>Tid*</th>
                     <th>Vad</th>
+					<th>Läshänvisningar</th>
                 </tr>
                 <tr class="lecture even">
                     <td rowspan="3">35</td>
                     <td>29/8</td>
                     <td>10-12</td>
                     <td><a href="/lectures.php?nr=1">Föreläsning 1: Kursintroduktion</a></td>
+					<td>-</td>
                 </tr>
                 <tr class="lecture even">
                     <td>30/8</td>
                     <td>13-15</td>
                     <td><a href="/lectures.php?nr=2">Föreläsning 2: Introduktion till HTML</a></td>
+					<td>HTML &amp; CSS: Kap. 1-5</td>
                 </tr>
                 <tr class="laboration even">
                     <td>1/9</td>
                     <td>08-12</td>
                     <td><a href="/exercises.php?title=1">Laboration 1: Enkel personlig webbsida</a></td>
+					<td></td>
                 </tr>
 
                 <tr class="lecture odd">
@@ -37,16 +41,19 @@
                     <td>5/9</td>
                     <td>10-12</td>
                     <td><a href="/lectures.php?nr=3">Föreläsning 3: Tabell &amp; formulär</a></td>
+					<td>HTML &amp; CSS: Kap. 6-7</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>6/9</td>
                     <td>13-15</td>
                     <td>Föreläsning 4: Introduktion till CSS</td>
+					<td>HTML &amp; CSS: Kap. 10-14</td>
                 </tr>
                 <tr class="laboration odd">
                     <td>8/9</td>
                     <td>8-12</td>
                     <td>Laboration 2: <a href="/exercises.php?title=2">a) Formulär &amp; tabeller</a>, <a href="/exercises.php?title=2b">b) Introduktion till CSS</a></td>
+					<td></td>
                 </tr>
 
                 <tr class="lecture even">
@@ -54,16 +61,19 @@
                     <td>12/9</td>
                     <td>10-12</td>
                     <td>Föreläsning 5: Layout med CSS (1)</td>
+					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture even">
                     <td>13/9</td>
                     <td>13-15</td>
                     <td>Föreläsning 6: Layout med CSS (2)</td>
+					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="laboration even">
                     <td>15/9</td>
                     <td>8-12</td>
                     <td>Laboration 3: Layout med CSS</td>
+					<td></td>
                 </tr>
 
                 <tr class="lecture odd">
@@ -71,21 +81,25 @@
                     <td>19/9</td>
                     <td>10-12</td>
                     <td>Föreläsning 7: Responsiv webbutveckling</td>
+					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>21/9</td>
                     <td>10-12</td>
                     <td>Föreläsning 8: Tutorial, att bygga en webbsida</td>
+					<td></td>
                 </tr>
                 <tr class="laboration odd">
                     <td>22/9</td>
                     <td>8-12</td>
                     <td>Laboration 4: Responsiv webbplats</td>
+					<td></td>
                 </tr>
                 <tr class="tenta assignment odd">
                     <td>24/9</td>
                     <td></td>
                     <td>Deadline: Inlämningsuppgift 1</td>
+					<td></td>
                 </tr>
 
                 <tr class="lecture even">
@@ -93,16 +107,19 @@
                     <td>26/9</td>
                     <td>10-12</td>
                     <td>Föreläsning 9: Introduktion till JavaScript</td>
+					<td></td>
                 </tr>
                 <tr class="lecture even">
                     <td>27/9</td>
                     <td>13-15</td>
                     <td>Föreläsning 10: Mer om JavaScript</td>
+					<td>-</td>
                 </tr>
                 <tr class="laboration even">
                     <td>29/9</td>
                     <td>8-12</td>
                     <td>Laboration 5: JavaScript på webben</td>
+					<td>-</td>
                 </tr>
 
                 <tr class="lecture odd">
@@ -110,16 +127,19 @@
                     <td>3/10</td>
                     <td>10-12</td>
                     <td>Föreläsning 11: Ramverk &amp; bibliotek</td>
+					<td>-</td>
                 </tr>
 				<tr class="lecture odd">
 					<td>4/10</td>
 					<td>13-15</td>
 					<td>Föreläsning 12: Introduktion till användbarhet</td>
+					<td></td>
 				</tr>
                 <tr class="laboration odd">
                     <td>6/10</td>
                     <td>08-12</td>
                     <td>Laboration: Extratillfälle</td>
+					<td></td>
                 </tr>
 
                 <tr class="lecture even">
@@ -127,16 +147,19 @@
                     <td>11/10</td>
                     <td>13-15</td>
                     <td>Föreläsning 13: Användbarhet med fokus på webben</td>
+					<td></td>
                 </tr>
                 <tr class="laboration even">
                     <td>13/10</td>
                     <td>8-12</td>
                     <td>Laboration: Extratillfälle</td>
+					<td></td>
                 </tr>
                 <tr class="tenta assignment even">
                     <td>15/10</td>
                     <td></td>
                     <td>Deadline: Inlämningsuppgift 2</td>
+					<td></td>
                 </tr>
 
                 <tr class="lecture odd">
@@ -144,6 +167,7 @@
                     <td>18/10</td>
                     <td>13-15</td>
                     <td>Inför tentamen</td>
+					<td></td>
                 </tr>
 
                 <tr class="tenta even">
@@ -151,6 +175,7 @@
                     <td>24/10</td>
                     <td>8-12</td>
                     <td>Tentamen, ordinarie</td>
+					<td></td>
                 </tr>
 
                  <tr class="tenta assignment odd">
@@ -158,6 +183,7 @@
                     <td>5/11</td>
                     <td></td>
                     <td>Deadline: Inlämningsuppgift 3</td>
+					<td></td>
                 </tr>
 
                 <tr class="tenta odd">
@@ -165,6 +191,7 @@
                     <td>14/12</td>
                     <td>8-12</td>
                     <td>Omtentamen 1</td>
+					<td></td>
                 </tr>
 
                 <tr class="tenta odd">
@@ -172,6 +199,7 @@
                     <td>15/2</td>
                     <td>08-12</td>
                     <td>Omtentamen 2</td>
+					<td></td>
                 </tr>
             </table>
 
