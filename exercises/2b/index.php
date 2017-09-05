@@ -116,6 +116,7 @@ td, th{
 <hr>
 
 <h3>5. Bonus! Styla föreläsningens gästbok!</h3>
+<p><em>Denna uppgift är frivillig, men rekommenderad</em>.</p>
 <p>Nu när du lärt dig grunderna i CSS så har du möjlighet att styla gästboken som du skickade inlägg till i förra labben. Som grund får du en webbsida som automatiskt, genom <code>JavaScript</code> hämtar alla gästboksinlägg till en HTML-sida. Det är sedan denna HTML-sida som du nu ska styla!</p>
 <p>Ni kan ladda ner denna grund <a href="/exercises/2b/website.zip">här</a>. Zip-filen har följande struktur:</p>
 <pre>
