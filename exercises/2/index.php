@@ -106,7 +106,7 @@
 <p>Man kan skicka in nya inlägg till gästboken genom antingen metoden <code>GET</code> eller <code>POST</code>. <code>GET</code> kan man använda som metod i formulär, men även direkt genom URL (webbadressen) på följande sätt:</p>
 <ul>
     <li>
-        http://mah.antontibblin.se/ia-gb/new-post?name=<em>ditt namn</em>&amp;message=<em>ditt meddelande</em>
+        http://mah.antontibblin.se/ia-gb/new-post?name=<em>namn</em>&amp;message=<em>meddelande</em>
     </li>
 </ul>
 <p>Ovan så byt ut <em>ditt namn</em> mot ditt namn, och <em>ditt meddelande</em> mot ditt meddelande - och testa att skriva in adressen i en webbläsare. Fungerar det som förväntat?</p>

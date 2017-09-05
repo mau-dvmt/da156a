@@ -136,7 +136,7 @@ ia-guestbook/
 
 <h4>5.1 Tips, bra att veta</h4>
 <p>För att veta vilka element ni ska styla (samt ev. klasser och id) så titta gärna på HTML-koden för <code>index.html</code>. Den uppmärksamme ser här att det <em>inte finns någon HTML-kod för gästboksinläggen</em>! Detta beror på att de hämtas genom <code>JavaScript</code> när sidan laddas in av webbläsaren (och läggs till i efterhand)- det är allt vi behöver veta just nu.</p>
-<p>För att kunna styla inläggen behöver vi veta dessa struktur i HTML. Strukturen för ett gästboksinlägg (varje inlägg) är följande:</p>
+<p>För att kunna styla inläggen behöver vi veta deras struktur i HTML. Strukturen för ett gästboksinlägg (varje inlägg) är följande:</p>
 <pre class="line-numbers language-markup" data-type="html"><code class="language-markup">
 &lt;div class=&quot;post&quot;&gt;
     &lt;div class=&quot;post-header&quot;&gt;
