@@ -112,3 +112,44 @@ td, th{
 <p><img src="/exercises/2b/2b-01.png" alt="" width="100%" /></p>
 
 <p>Såväl kursare som labbassistenter kan ge bra feedback. Se även till att såväl HTML som CSS validerar.</p>
+
+<hr>
+
+<h3>5. Bonus! Styla föreläsningens gästbok!</h3>
+<p>Nu när du lärt dig grunderna i CSS så har du möjlighet att styla gästboken som du skickade inlägg till i förra labben. Som grund får du en webbsida som automatiskt, genom <code>JavaScript</code> hämtar alla gästboksinlägg till en HTML-sida. Det är sedan denna HTML-sida som du nu ska styla!</p>
+<p>Ni kan ladda ner denna grund <a href="/exercises/2b/website.zip">här</a>. Zip-filen har följande struktur:</p>
+<pre>
+ia-guestbook/
+    |-- index.html
+    |-- css/
+        |-- style.css
+    |-- js/
+        |-- script.js
+        |-- jquery-3.2.1.min.js
+</pre>
+<ol>
+    <li>Packa upp mappen <strong>ia-guestbook</strong> i valfri mapp.</li>
+    <li>Öppna sedan <strong>index.html</strong> i en webbläsare. Bekräfta att gästboksinläggen visas (dock utan CSS) som förväntat - annars prata med labbassistent för att lösa detta.</li>
+    <li>Öppna filen <strong>style.css</strong> och styla sidan (och dess inlägg) på valfritt sätt!</li>
+</ol>
+
+<h4>5.1 Tips, bra att veta</h4>
+<p>För att veta vilka element ni ska styla (samt ev. klasser och id) så titta gärna på HTML-koden för <code>index.html</code>. Den uppmärksamme ser här att det <em>inte finns någon HTML-kod för gästboksinläggen</em>! Detta beror på att de hämtas genom <code>JavaScript</code> när sidan laddas in av webbläsaren (och läggs till i efterhand)- det är allt vi behöver veta just nu.</p>
+<p>För att kunna styla inläggen behöver vi veta dessa struktur i HTML. Strukturen för ett gästboksinlägg (varje inlägg) är följande:</p>
+<pre class="line-numbers language-markup" data-type="html"><code class="language-markup">
+&lt;div class=&quot;post&quot;&gt;
+    &lt;div class=&quot;post-header&quot;&gt;
+        &lt;strong&gt;Anton&lt;/strong&gt; &lt;em&gt;genom metoden &lt;strong&gt;post&lt;/strong&gt;&lt;/em&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;post-body&quot;&gt;
+        &lt;p&gt;Testar igen&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;post-footer&quot;&gt;2017-09-05 11:55:13&lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>Vill man kontrollera detta går det utmärkt att göra i sin webbläsare! För att se "live"-status för HTML-koden så kan man använda webbläsarens inspekterare. Detta gör man i Chrome genom att trycka <code>F12</code> och i consolen som dyker upp välja filen <em>Elements</em>. Här kan man sedan se hela HTML-koden i realtid. Det borde se ut något i stil med:</p>
+
+<p><img src="/exercises/2b/console-elements.png" alt="" width="100%" /></p>
+
+<p>När är det bara att gå loss och vara kreativ! =)</p>
