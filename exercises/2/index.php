@@ -95,3 +95,34 @@
 <h3>6. Validering &amp; feedback</h3>
 <p>Som alltid, se till att dokumentet <a href="http://validator.w3.org/">validerar</a>. Be kursare och labbassistenter om feedback för en djupar bild av vad som är bra och dåligt. </p>
 <p>När du är nöjd med formulär- och tabellskapandet kan du fortsätta till <a href="/exercises.php?title=2b">del två, om CSS</a>!</p>
+
+<hr>
+
+<h3>7. Bonus! Bygg formulär till föreläsningens gästbok!</h3>
+<p><em>Denna uppgift är frivillig, men rekommenderad</em>.</p>
+<h4>7.1. Gästbokstjänst</h4>
+<p>På föreläsningen så tittade vi på en gästbok - där man genom ett formulär kan skicka <code>name</code> och <code>message</code> som ska sparas i gästboken. Ni hittar gästboken här: <a href="http://mah.antontibblin.se/ia-gb">http://mah.antontibblin.se/ia-gb</a>.</p>
+<p><strong>Tänk på att allt ni skickar till gästboken finns tillgängligt för de som besöker den</strong>.</p>
+<p>Man kan skicka in nya inlägg till gästboken genom antingen metoden <code>GET</code> eller <code>POST</code>. <code>GET</code> kan man använda som metod i formulär, men även direkt genom URL (webbadressen) på följande sätt:</p>
+<ul>
+    <li>
+        http://mah.antontibblin.se/ia-gb/new-post?name=<em>ditt namn</em>&amp;message=<em>ditt meddelande</em>
+    </li>
+</ul>
+<p>Ovan så byt ut <em>ditt namn</em> mot ditt namn, och <em>ditt meddelande</em> mot ditt meddelande - och testa att skriva in adressen i en webbläsare. Fungerar det som förväntat?</p>
+<h4>7.2. Bygg ett formulär till gästboken</h4>
+<p>Ditt formulär ska ha följande information:</p>
+<ul>
+    <li>Formuläret ska skickas till adressen: <a href="http://mah.antontibblin.se/ia-gb/new-post">http://mah.antontibblin.se/ia-gb/new-post</a>
+    </li>
+    <li>Formuläret ska skickas genom metoden <code>POST</code></li>
+    <li>Formuläret ska ha följande komponenter:
+        <ul>
+            <li>Ett textfält för namn (textfältets namn ska vara <code>name</code>)</li>
+            <li>En textarea för meddelande (textareans namn ska vara <code>message</code>)</li>
+            <li>En knapp för att skicka iväg formuläret, med valfri text</li>
+        </ul>
+    </li>
+</ul>
+<p>När du byggt klart ditt formulär så kan du på ett enkelt sätt göra flera gästboksinlägg.</p>
+<p>Du har nu inte bara byggt ett formulär som skickar iväg data - du har även byggt ihop din hemsida (formulär) med en <em>extern <strong>webbtjänst</strong></em> - coolt! =)</p>
