@@ -57,8 +57,8 @@
 
 <h4>form.html</h4>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
-    &lt;!doctype html&gt;
-    &lt;html&gt;
+&lt;!doctype html&gt;
+&lt;html&gt;
    	&lt;head&gt;
    		&lt;meta charset=&quot;utf-8&quot;&gt;
    		&lt;title&gt;Formul&auml;r&lt;/title&gt;
@@ -78,5 +78,5 @@
    			&lt;/p&gt;
    		&lt;/form&gt;
    	&lt;/body&gt;
-    &lt;/html&gt;
+&lt;/html&gt;
 </code></pre>
