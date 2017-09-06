@@ -46,7 +46,7 @@
                 <tr class="lecture odd">
                     <td>6/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 4: Introduktion till CSS</td>
+                    <td><a href="/lectures.php?nr=4">Föreläsning 4: Introduktion till CSS</a></td>
 					<td>HTML &amp; CSS: Kap. 10-14</td>
                 </tr>
                 <tr class="laboration odd">
