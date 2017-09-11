@@ -48,8 +48,13 @@
 					<td>Anton</td>
 				</tr>
 				<tr>
-					<td>3</td>
+					<td>4</td>
 					<td><a href="/lectures.php?nr=4">Föreläsning 4: Introduktion till CSS</a></td>
+					<td>Anton</td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td><a href="/lectures.php?nr=5">Föreläsning 5: Layout med HTML &amp; CSS</a></td>
 					<td>Anton</td>
 				</tr>
             </table>
