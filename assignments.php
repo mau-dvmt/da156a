@@ -25,10 +25,20 @@
 			<p>Inlämningsuppgifterna publiceras under kursens gång.</p>
 			<table class="table table-striped">
 			    <tr>
+					<th>Deadline</th>
 			        <th>Inlämningsuppgift</th>
 			    </tr>
 			    <tr>
-                    <td>Mer info kommer</td>
+					<td>24/9</td>
+                    <td><a href="/assignments.php?nr=1">Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</a></td>
+			    </tr>
+				<tr>
+					<td>15/10	</td>
+                    <td>Inlämningsuppgift 2 - Mer info kommer</td>
+			    </tr>
+				<tr>
+					<td>5/11</td>
+                    <td>Inlämningsuppgift 3 - Mer info kommer</td>
 			    </tr>
 			</table>
 		</div>

@@ -43,7 +43,7 @@
 
 <h3>2. Redovisning</h3>
 
-<p>Ditt resultat ska publiceras <strong>via WebShare och länken till webbsidan</strong> lämnas in på it&#8217;s learning. Till inlämningen ska du även bifoga en kopia på alla webbplatsens filer (lämpligen genom en ZIP-fil). Deadline är söndag 25/9, klockan 23:59. Vid senare inlämning bedöms resultatet i samband med inlämningsuppgift 2.</p>
+<p>Ditt resultat ska publiceras <strong>via WebShare och länken till webbsidan</strong> lämnas in på it&#8217;s learning. Till inlämningen ska du även bifoga en kopia på alla webbplatsens filer (lämpligen genom en ZIP-fil). Deadline är söndag 24/9, klockan 23:59. Vid senare inlämning bedöms resultatet i samband med inlämningsuppgift 2.</p>
 
 <div class="well">
     <h4>2.1. Notis om individuellt genomförande</h4>

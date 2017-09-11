@@ -98,7 +98,7 @@
                 <tr class="tenta assignment odd">
                     <td>24/9</td>
                     <td></td>
-                    <td>Deadline: Inlämningsuppgift 1</td>
+                    <td><a href="/assignments.php?nr=1">Deadline: Inlämningsuppgift 1</a></td>
 					<td></td>
                 </tr>
 

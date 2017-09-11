@@ -41,7 +41,7 @@
                 </tr>
                 <tr>
                     <td>15/9</td>
-                    <td>Mer info kommer</td>
+                    <td><a href="/exercises.php?title=3">3. Layout med CSS</a></td>
                     <td>Emma, Kim, (, Anton)</td>
                 </tr>
                 <tr>

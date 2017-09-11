@@ -65,7 +65,7 @@
             <td>Den HTML som ges efter godkänd validering</td>
         </tr>
         <tr>
-            <th rowspan="2">section</th>
+            <th rowspan="2">main</th>
             <td>Rubrik på innehåll</td>
             <td><code>h2</code>
             </td>
