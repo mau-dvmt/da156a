@@ -35,7 +35,7 @@
 		&lt;/div&gt;
 
 		&lt;div class=&quot;movie&quot;&gt;
-		&lt;div class=&quot;rating&quot;&gt;
+		      &lt;div class=&quot;rating&quot;&gt;
 				&lt;img src=&quot;images/star.png&quot; alt=&quot;Rating star&quot;&gt;
 				&lt;img src=&quot;images/star.png&quot; alt=&quot;Rating star&quot;&gt;
 				&lt;img src=&quot;images/star.png&quot; alt=&quot;Rating star&quot;&gt;
@@ -45,7 +45,7 @@
 		&lt;/div&gt;
 
 		&lt;div class=&quot;movie&quot;&gt;
-		&lt;div class=&quot;rating&quot;&gt;
+		      &lt;div class=&quot;rating&quot;&gt;
 				&lt;img src=&quot;images/star.png&quot; alt=&quot;Rating star&quot;&gt;
 				&lt;img src=&quot;images/star.png&quot; alt=&quot;Rating star&quot;&gt;
 				&lt;img src=&quot;images/star.png&quot; alt=&quot;Rating star&quot;&gt;
@@ -74,7 +74,7 @@
 </code></pre>
 
 <h4>Exemepel 1 - CSS</h4>
-<pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
+<pre class="language-markup line-numbers" data-type="css"><code class="language-markup line-numbers">
 body {
 	background-color: #eee;
 	font-family: 'Mukta Malar', sans-serif;
@@ -173,7 +173,7 @@ body > h1 {
 </code></pre>
 
 <h4>Exemepel 2 - CSSL</h4>
-<pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
+<pre class="language-markup line-numbers" data-type="css"><code class="language-markup line-numbers">
 body {
 	background-color: #eee;
 }
