@@ -1,6 +1,11 @@
 <h2>Laboration 3: Layout med CSS</h2>
 <p>I denna laboration ska du öva på positionering genom CSS och att få flera element i en webbsida att samverka. Du kommer lära dig att göra grunden till en webbplats och att använda denna på flera webbsidor.</p>
 
+<p>
+    Avancerat:
+    <strong>Labben får gärna göras med <code>grids</code> och/eller <code>flexbox</code> för de som föredrar detta. Information om detta finns <a href="/lectures.php?nr=6">här</a></strong>
+</p>
+
 <h3>1. Uppgift</h3>
 <p>Målet är att producera en layout, som likt många webbplatser på Internet består utav ett sidhuvud, en menykolumn, en innehållskolumn och en sidfot. Följande bild illustrerar målet:</p>
 <p>

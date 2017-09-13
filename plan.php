@@ -66,7 +66,7 @@
                 <tr class="lecture even">
                     <td>13/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 6: Layout med CSS (2)</td>
+                    <td><a href="/lectures.php?nr=6">Föreläsning 6: Layout med CSS (2)</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="laboration even">
