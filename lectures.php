@@ -57,6 +57,11 @@
 					<td><a href="/lectures.php?nr=5">Föreläsning 5: Layout med HTML &amp; CSS</a></td>
 					<td>Anton</td>
 				</tr>
+				<tr>
+					<td>5</td>
+					<td><a href="/lectures.php?nr=6">Föreläsning 6:Responsiv webbutveckling</a></td>
+					<td>Anton</td>
+				</tr>
             </table>
 
 			<p>Notera även att innehållet kan ändras något under kursens gång - studenter har möjlighet att påverka vad som fördjupas.</p>

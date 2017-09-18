@@ -1,8 +1,10 @@
-<h2>Föreläsning 6 - Introduktion till JavaScript</h2>
+<h2>Föreläsning 6 - Responsiv webbutveckling</h2>
 
 <hr>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/H5VI07urLDOc4d" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht16-da156a-introduktion-till-javascript" title="HT16 - DA156A - Introduktion till JavaScript" target="_blank">HT16 - DA156A - Introduktion till JavaScript</a> </strong> from <strong><a href="//www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/x9TfuUwXEMHIe2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/x9TfuUwXEMHIe2" title="HT17 - DA156A - Responsiv webbutveckling" target="_blank">HT17 - DA156A - Responsiv webbutveckling</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+
+<!--
 
 <hr>
 
@@ -39,3 +41,5 @@ var name = prompt("Vad heter du?");
 // Meddelar användaren om att namnet är fint
 alert("Hej " + name + "! Vilket fint namn!");
 </code></pre>
+
+-->
