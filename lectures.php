@@ -58,8 +58,13 @@
 					<td>Anton</td>
 				</tr>
 				<tr>
-					<td>5</td>
-					<td><a href="/lectures.php?nr=6">Föreläsning 6:Responsiv webbutveckling</a></td>
+					<td>6</td>
+					<td><a href="/lectures.php?nr=6">Föreläsning 6: Layout med HTML &amp; CSS (2)</a></td>
+					<td>Anton</td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td><a href="/lectures.php?nr=6">Föreläsning 7: Responsiv webbdesign</a></td>
 					<td>Anton</td>
 				</tr>
             </table>
