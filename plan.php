@@ -92,7 +92,7 @@
                 <tr class="laboration odd">
                     <td>22/9</td>
                     <td>8-12</td>
-                    <td>Laboration 4: Responsiv webbplats</td>
+                    <td><a href="/exercises.php?title=4">Laboration 4: Responsiv webbplats</a></td>
 					<td></td>
                 </tr>
                 <tr class="tenta assignment odd">

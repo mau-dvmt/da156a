@@ -46,7 +46,7 @@
                 </tr>
                 <tr>
                     <td>22/9</td>
-                    <td>Mer info kommer</td>
+                    <td><a href="/exercises.php?title=4">4. Responsiv webbutveckling</a></td>
                     <td>Emma, Kim, (, Anton)</td>
                 </tr>
                 <tr>
