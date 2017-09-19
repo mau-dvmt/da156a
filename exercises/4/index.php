@@ -2,7 +2,7 @@
 <p>Som bekant, i synnerhet efter <a href="/lectures.php?nr=7">föreläsning 7</a>, är CSS 3 Media Queries en viktig teknik, och möjliggörande för det som kallas Responsive Web Design. Denna laboration går ut på att tillämpa media queries för att förbättra upplevelsen för mindre respektive större skärmar. Det är en god idé att läsa lite om responsive design innan eller i samband med laborationen.</p>
 
 <h3>1. Basfallet</h3>
-<p>I detta fall finns en färdig webbsida, som ser okej ut i &quot;mellanstora&quot; webbläsare. <strong><a href="/exercises/5/case/">Kika på den här</a></strong>.</p>
+<p>I detta fall finns en färdig webbsida, som ser okej ut i &quot;mellanstora&quot; webbläsare. <strong><a href="/exercises/4/case/">Kika på den här</a></strong>.</p>
 <p>Öppna webbsidan och bekanta dig med den. Testa också att ändra bredd på webbläsarfönstret.</p>
 <p>Värt att notera om webbsidan:</p>
 <ul>
@@ -13,8 +13,8 @@
 </ul>
 
 <h3>2. Brytpunkt: smal skärm</h3>
-<p>Nu är det dags att börja med media queries. Spara <a href="/exercises/5/case/index.html">HTML-</a> och <a href="/exercises/5/case/screen.css">CSS-fil</a> så att du kan följa med.</p>
-<p><img src="/exercises/5/narrow.png" style="float:right;" alt="">Webbplatsen är inte lättläst om webbläsaren är för smal. Någonstans kring 480 px bredd verkar det lämpligt att övergå från två kolumner till en. Det viktiga beslutet är hur det ska se ut istället. Ska logotyp och navigation ligga överst (samma eller ändrat utseende?), eller ska innehållet vara i fokus. Du kan välja själv vilka förändringar som passar - men för enkelhetens skulle används den första varianten nedan.</p>
+<p>Nu är det dags att börja med media queries. Spara <a href="/exercises/4/case/index.html">HTML-</a> och <a href="/exercises/4/case/screen.css">CSS-fil</a> så att du kan följa med.</p>
+<p><img src="/exercises/4/narrow.png" style="float:right;" alt="">Webbplatsen är inte lättläst om webbläsaren är för smal. Någonstans kring 480 px bredd verkar det lämpligt att övergå från två kolumner till en. Det viktiga beslutet är hur det ska se ut istället. Ska logotyp och navigation ligga överst (samma eller ändrat utseende?), eller ska innehållet vara i fokus. Du kan välja själv vilka förändringar som passar - men för enkelhetens skulle används den första varianten nedan.</p>
 <p>Vår media query (vilket är något osnygg svengelska...), kan se ut såhär, och är lämplig att placera längst ner i stilmallen:</p>
 <pre class="line-numbers language-markup" data-type="html"><code class="language-css">
 @media screen and (max-width:480px) {
@@ -79,7 +79,7 @@ header{
 <p>Hur ser det ut i din (breda) webbläsare?</p>
 
 <h3>Vad mer?</h3>
-<p>En slutversion kan se ut <a href="/exercises/5/case/index-final.html">såhär</a>. Men nu skulle det passa bra med valfria förbättringar från dig. Kanske några fler brytpunkter? Kanske bör man också testa i flera webbläsare (och fundera om man vill utöka stödet t. ex. med <a href="https://code.google.com/p/css3-mediaqueries-js/">css3-mediaqueries.js</a>).</p>
+<p>En slutversion kan se ut <a href="/exercises/4/case/index-final.html">såhär</a>. Men nu skulle det passa bra med valfria förbättringar från dig. Kanske några fler brytpunkter? Kanske bör man också testa i flera webbläsare (och fundera om man vill utöka stödet t. ex. med <a href="https://code.google.com/p/css3-mediaqueries-js/">css3-mediaqueries.js</a>).</p>
 
 
 <h3>Vidare laboration</h3>
