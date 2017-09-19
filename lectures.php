@@ -64,7 +64,7 @@
 				</tr>
 				<tr>
 					<td>7</td>
-					<td><a href="/lectures.php?nr=6">Föreläsning 7: Responsiv webbdesign</a></td>
+					<td><a href="/lectures.php?nr=7">Föreläsning 7: Responsiv webbdesign</a></td>
 					<td>Anton</td>
 				</tr>
             </table>
