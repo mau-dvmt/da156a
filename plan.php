@@ -131,7 +131,7 @@
                 </tr>
 				<tr class="lecture odd">
 					<td>4/10</td>
-					<td>13-15</td>
+					<td><strong>15-17</strong></td>
 					<td>Föreläsning 12: Introduktion till användbarhet</td>
 					<td></td>
 				</tr>
