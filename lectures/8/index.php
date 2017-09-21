@@ -141,7 +141,7 @@
 
 <h3>CSS</h3>
 <h4>style.css</h4>
-<pre class="language-css line-numbers codepen" data-type="html"><code class="language-css line-numbers">
+<pre class="language-css line-numbers" data-type="html"><code class="language-css line-numbers">
     body {
     	margin: 0px;
     	font-family: 'Montserrat', sans-serif;
