@@ -1,4 +1,4 @@
-<h2>Föreläsning 10 - Att bygga en webbsida</h2>
+<h2>Föreläsning 8 - Att bygga en webbsida</h2>
 
 <hr>
 
