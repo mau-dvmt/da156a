@@ -67,6 +67,11 @@
 					<td><a href="/lectures.php?nr=7">Föreläsning 7: Responsiv webbdesign</a></td>
 					<td>Anton</td>
 				</tr>
+				<tr>
+					<td>7</td>
+					<td><a href="/lectures.php?nr=8">Föreläsning 8: Tutorial, att bygga en webbsida</a></td>
+					<td>Anton</td>
+				</tr>
             </table>
 
 			<p>Notera även att innehållet kan ändras något under kursens gång - studenter har möjlighet att påverka vad som fördjupas.</p>

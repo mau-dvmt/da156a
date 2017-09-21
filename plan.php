@@ -86,7 +86,7 @@
                 <tr class="lecture odd">
                     <td>21/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 8: Tutorial, att bygga en webbsida</td>
+                    <td><a href="/lectures.php?nr=8">Föreläsning 8: Tutorial, att bygga en webbsida</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration odd">
