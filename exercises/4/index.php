@@ -1,4 +1,4 @@
-<h2>Laboration 5: Media Queries</h2>
+<h2>Laboration 4: Media Queries</h2>
 <p>Som bekant, i synnerhet efter <a href="/lectures.php?nr=7">föreläsning 7</a>, är CSS 3 Media Queries en viktig teknik, och möjliggörande för det som kallas Responsive Web Design. Denna laboration går ut på att tillämpa media queries för att förbättra upplevelsen för mindre respektive större skärmar. Det är en god idé att läsa lite om responsive design innan eller i samband med laborationen.</p>
 
 <h3>1. Basfallet</h3>

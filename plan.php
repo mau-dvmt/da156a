@@ -112,7 +112,7 @@
                 <tr class="lecture even">
                     <td>27/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 10: Ramverk &amp; bibliotek</td>
+                    <td><a href="/exercises.php?title=5">Föreläsning 10: Ramverk &amp; bibliotek</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="laboration even">
