@@ -112,13 +112,13 @@
                 <tr class="lecture even">
                     <td>27/9</td>
                     <td>13-15</td>
-                    <td><a href="/exercises.php?title=5">Föreläsning 10: Ramverk &amp; bibliotek</a></td>
+                    <td>Föreläsning 10: Ramverk &amp; bibliotek</td>
 					<td>-</td>
                 </tr>
                 <tr class="laboration even">
                     <td>29/9</td>
                     <td>8-12</td>
-                    <td>Laboration 5: JavaScript på webben</td>
+                    <td><a href="/exercises.php?title=5">Laboration 5: JavaScript på webben</a></td>
 					<td></td>
                 </tr>
 
