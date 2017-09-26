@@ -126,7 +126,7 @@ h2{
 </code></pre>
 
 <h4>JavaScript</h4>
-<pre class="language-js line-numbers" data-type="javascript"><code class="language-css line-numbers">
+<pre class="language-javascript line-numbers" data-type="javascript"><code class="language-css line-numbers">
 // Koden inuti funktionen nedan körs var 4:e sekund
 setInterval(function() {
     // Leta upp elementet med id "show" (bilden som just nu visas i bildspelet)
