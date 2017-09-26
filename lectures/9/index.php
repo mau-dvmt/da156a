@@ -40,7 +40,7 @@
 </code></pre>
 
 <h4>JavaScript</h4>
-<pre class="language-js line-numbers" data-type="javascript"><code class="language-css line-numbers">
+<pre class="language-javascript line-numbers" data-type="javascript"><code class="language-css line-numbers">
 // När användaren klickar på elementet med id "addTodo" (vår knapp)
 $("#addTodo").on("click", function () {
     // Hämta värdet från elementet med id "todo" (texten i vår textruta)
@@ -148,7 +148,7 @@ setInterval(function() {
 </code></pre>
 
 <h4>CSS</h4>
-<pre class="language-javascript line-numbers" data-type="javascript"><code class="language-css line-numbers">
+<pre class="language-css line-numbers" data-type="html"><code class="language-css line-numbers">
 #slideshow{
 	position: relative;
 	width:600px;
