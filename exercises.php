@@ -51,7 +51,7 @@
                 </tr>
                 <tr>
                     <td>29/9</td>
-                    <td><a href="/exercises.php?title=5">JavaScript och ramverk</a></td>
+                    <td><a href="/exercises.php?title=5">5. JavaScript och ramverk</a></td>
                     <td>Emma, Kim, (, Anton)</td>
                 </tr>
 			</table>
