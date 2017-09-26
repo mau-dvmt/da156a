@@ -1,0 +1,36 @@
+body{
+	font-family:"century gothic";
+	margin-top:50px;
+}
+
+h1{
+	margin:5px 0;
+}
+
+h2{
+	font-size:16px;
+	border-bottom: 1px solid #666;
+}
+
+#todoWrapper{
+	width:400px;
+	padding:20px;
+	height:auto;
+	overflow:hidden;
+	margin:0px auto;
+	background-color:#EFEFEF;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 10px 0px #666;
+	box-shadow: 0px 0px 10px 0px #666;
+}
+
+.deleteItem {
+	float: right;
+	border: 2px solid #000;
+	background-color: #eee;
+	padding: 0px 5px;
+	border-radius: 5px;
+	font-size: 12px;
+	cursor: pointer;
+}

@@ -106,13 +106,13 @@
                     <td rowspan="3">39</td>
                     <td>26/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 9: Introduktion till JavaScript</td>
+                    <td><a href="/lectures.php?nr=9">Föreläsning 9: Webbutveckling med JavaScript</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="lecture even">
                     <td>27/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 10: Mer om JavaScript</td>
+                    <td>Föreläsning 10: Ramverk &amp; bibliotek</td>
 					<td>-</td>
                 </tr>
                 <tr class="laboration even">
@@ -126,13 +126,13 @@
                     <td rowspan="3">40</td>
                     <td>3/10</td>
                     <td>10-12</td>
-                    <td>Föreläsning 11: Ramverk &amp; bibliotek</td>
+                    <td>Föreläsning 11: Introduktion till användbarhet</td>
 					<td>-</td>
                 </tr>
 				<tr class="lecture odd">
 					<td>4/10</td>
 					<td><strong>15-17</strong></td>
-					<td>Föreläsning 12: Introduktion till användbarhet</td>
+					<td>Föreläsning 12: Användbarhet med fokus på webben</td>
 					<td></td>
 				</tr>
                 <tr class="laboration odd">
@@ -146,7 +146,7 @@
                     <td rowspan="3">41</td>
                     <td>11/10</td>
                     <td>13-15</td>
-                    <td>Föreläsning 13: Användbarhet med fokus på webben</td>
+                    <td>Föreläsning 13: Extratillfälle</td>
 					<td></td>
                 </tr>
                 <tr class="laboration even">

@@ -1,0 +1,21 @@
+#slideshow{
+	position: relative;
+	width:600px;
+	height: 300px;
+	padding:20px;
+	overflow:hidden;
+	margin:0px auto;
+	background-color:#EFEFEF;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 0px #666;
+}
+
+#slideshow > img {
+	position: absolute;
+	opacity: 0;
+	transition: all 1s;
+}
+
+#slideshow > #show {
+	opacity: 1;
+}
