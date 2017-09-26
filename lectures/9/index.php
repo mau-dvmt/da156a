@@ -148,7 +148,7 @@ setInterval(function() {
 </code></pre>
 
 <h4>CSS</h4>
-<pre class="language-css line-numbers" data-type="html"><code class="language-css line-numbers">
+<pre class="language-javascript line-numbers" data-type="javascript"><code class="language-css line-numbers">
 #slideshow{
 	position: relative;
 	width:600px;
