@@ -77,6 +77,11 @@
 					<td><a href="/lectures.php?nr=9">Föreläsning 9: Webbutveckling med JavaScript</a></td>
 					<td>Anton</td>
 				</tr>
+				<tr>
+					<td>10</td>
+					<td><a href="/lectures.php?nr=10">Föreläsning 10: Ramverk och bibliotek</a></td>
+					<td>Anton</td>
+				</tr>
             </table>
 
 			<p>Notera även att innehållet kan ändras något under kursens gång - studenter har möjlighet att påverka vad som fördjupas.</p>
