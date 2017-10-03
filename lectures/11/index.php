@@ -1,0 +1,3 @@
+<h2>Föreläsning 11 - Intoduktion till  användbarhet</h2>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/C6hejSAT8MBuBv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht2017-da156a-introduktion-till-anvndbarhet" title="HT2017 - DA156A - Introduktion till användbarhet" target="_blank">HT2017 - DA156A - Introduktion till användbarhet</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>

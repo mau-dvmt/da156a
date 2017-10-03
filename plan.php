@@ -126,7 +126,7 @@
                     <td rowspan="3">40</td>
                     <td>3/10</td>
                     <td>10-12</td>
-                    <td>Föreläsning 11: Introduktion till användbarhet</td>
+                    <td><a href="/lectures.php?nr=11">Föreläsning 11: Introduktion till användbarhet</a></td>
 					<td>-</td>
                 </tr>
 				<tr class="lecture odd">
