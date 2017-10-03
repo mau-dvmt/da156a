@@ -23,6 +23,7 @@
 
         <h3>Anmälan</h3>
         <p>Anmälan till tentamen är <strong>obligatorisk</strong> och görs via <a href="http://schema.mah.se/">Kronox</a>.</p>
+        <p><a href="https://www.mah.se/Ar-student/For-dina-studier/Tentamen/">Mer information om anmälan till tenamen hittar ni här</a></p>
 
     </div>
     <div class="col-lg-4 submenu-area">
