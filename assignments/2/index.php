@@ -73,7 +73,7 @@
 <p>Er uppgift är att:</p>
 <ol>
     <li>Inkludera JavaScript-koden nedan på ett korrekt sätt.</li>
-    <li>Skapa det HTML-element/attribut som behövs för att de två funktionerna ska köras korrekt.</li>
+    <li>Skapa de HTML-element/attribut som behövs för att de två funktionerna ska köras korrekt.</li>
 </ol>
 
 <pre class="language-javascript line-numbers" data-type="javascript"><code class="language-javascript line-numbers">
