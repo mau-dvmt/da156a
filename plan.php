@@ -158,7 +158,7 @@
                 <tr class="tenta assignment even">
                     <td>15/10</td>
                     <td></td>
-                    <td>Deadline: Inlämningsuppgift 2</td>
+                    <td><a href="/assignments.php?nr=2">Deadline: Inlämningsuppgift 2</a></td>
 					<td></td>
                 </tr>
 
