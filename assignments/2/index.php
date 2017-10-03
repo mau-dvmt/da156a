@@ -3,6 +3,8 @@
 
 <h3>1. Uppgiften</h3>
 
+<p><em>OBS.</em> i denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. bootstrap/materializeCSS/foundation/etc.)</em></p>
+
 <h4>1.1. Webbsidornas layout</h4>
 
 <p>Du ska skapa en webbplats bestående av minst 2 webbsidor, som båda följer samma visuella utformning. Bilderna till vänster visar layouten för datorer och bilden längst till höger visar hur webbsidan ska se ut på en mobil.</p>
@@ -123,6 +125,7 @@ $(document).ready(function(){
 
 <ul>
     <li>Webbplatsen måste följa beskrivningen ovan, avseende innehåll, visuell utformning och funktionalitet.</li>
+    <li>I denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. bootstrap/materializeCSS/foundation/etc.)</li>
     <li>Alla webbsidor ska validera enligt HTML5.</li>
     <li>Semantisk HTML ska användas. Detta betyder att taggar ska välja, så att de i så stor grad som möjligt beskriver innehåll och struktur.</li>
     <li>Alla webbsidor ska använda samma stilmall(ar).</li>
