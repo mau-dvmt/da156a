@@ -1,0 +1,3 @@
+<h2>Föreläsning 12 - Användbarhet 2</h2>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2FidH5QDtztXP0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht17-da156a-anvndbarhet-med-fokus-p-it" title="HT17 - DA156A - Användbarhet med fokus på IT" target="_blank">HT17 - DA156A - Användbarhet med fokus på IT</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>

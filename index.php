@@ -29,6 +29,7 @@ include "_header.php";
 		</div>
 		<h2>Senaste händelser</h2>
 		<div class="list-group">
+			<a href="/lectures.php?nr=12" class="list-group-item">Föreläsning 12: Användbarhet: Fokus IT</a>
 			<a href="/lectures.php?nr=11" class="list-group-item">Föreläsning 11: Introduktion till användbarhet</a>
 			<a href="/lectures.php?nr=10" class="list-group-item">Föreläsning 10: Ramverk och bibliotek</a>
 			<a href="/lectures.php?nr=9" class="list-group-item">Föreläsning 9: Webbutveckling med JavaScript</a>
