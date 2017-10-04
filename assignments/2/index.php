@@ -3,7 +3,7 @@
 
 <h3>1. Uppgiften</h3>
 
-<p><em>OBS.</em> i denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. bootstrap/materializeCSS/foundation/etc.)</em></p>
+<p><strong><em>OBS.</em> i denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. bootstrap/materializeCSS/foundation/etc.)</strong></p>
 
 <h4>1.1. Webbsidornas layout</h4>
 

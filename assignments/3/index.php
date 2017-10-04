@@ -2,6 +2,8 @@
 <p>Uppgiften går ut på att redovisa dina kunskaper kring HTML5, CSS 3, Media Queries och användbarhet. Inlämningsuppgiften är individuell, vilket betyder att studenten enskilt ska skriva sin inlämning och kunna redogöra för alla delar av den.</p>
 
 <h3>1. Uppgiften</h3>
+<p>I denna inlämningsuppgift <strong>får CSS-ramverk användas</strong> (t.ex. bootstrap/materializeCSS/foundation/etc.)</p>
+
 <p>Uppgiften går ut på att uppdatera och förbättra en redan befintlig webbplats. Detta ska göras inom tre områden:</p>
 <ol>
     <li>Webbplatsens ska uppdateras från XHTML 1.0 till HTML5.</li>
@@ -25,7 +27,7 @@
 
 <h3>2. Teknisk kravspecifikation</h3>
 <ul>
-    <li>Webbplatsen ska validera enligt HTML5. Använd minst elementen <code>header</code>, <code>footer</code> och <code>nav</code>.</li>
+    <li>Webbplatsen ska validera enligt HTML5. Semantiska HTML-element ska användas, t.ex. <code>header</code>, <code>footer</code>, <code>nav</code>, etc.</li>
     <li>Använd i övrigt element som i så stor grad som möjligt beskriver innehåll och struktur. Koden ska vara välstrukturerad och hålla god kvalitet.</li>
     <li>All presentation ska styras separata CSS-dokument. Inbäddade stilmallar (taggen style) eller inline-mallar (attributet style) är inte tillåtna. CSS-mall(ar) ska validera enligt CSS nivå 3.</li>
     <li>Alla HTML-dokument ska vara skapade av dig. Det är inte tillåtet att använda ett verktyg för att generera källkoden.</li>
@@ -34,4 +36,4 @@
 </ul>
 
 <h3>3. Redovisning</h3>
-<p>Ditt resultat ska publiceras på WebShare och länken till startsidan ska lämnas in på it’s learning. Till inlämningen ska du även bifoga en kopia på webbplatsens alla filer samt ett dokument där du beskriver vad du gjort för användbarhetsförbättringar (och motivera varför). Deadline är 6/11, 23:55.</p>
+<p>Ditt resultat ska publiceras på WebShare och länken till startsidan ska lämnas in på it’s learning. Till inlämningen ska du även bifoga en kopia på webbplatsens alla filer samt ett dokument där du beskriver vad du gjort för användbarhetsförbättringar (och motivera varför). Deadline är 5/11, 23:55.</p>
