@@ -146,7 +146,7 @@
                     <td rowspan="3">41</td>
                     <td>11/10</td>
                     <td>13-15</td>
-                    <td>Föreläsning 13: Extratillfälle</td>
+                    <td><a href="/lectures.php?nr=12">Föreläsning 13: Sammanfattning av kursen</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration even">

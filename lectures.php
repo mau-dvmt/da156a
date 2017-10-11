@@ -92,6 +92,11 @@
 					<td><a href="/lectures.php?nr=12">Föreläsning 12: Användbarhet: Fokus IT</a></td>
 					<td>Anton</td>
 				</tr>
+				<tr>
+					<td>13</td>
+					<td><a href="/lectures.php?nr=13">Föreläsning 13: Sammanfattning av kursen</a></td>
+					<td>Anton</td>
+				</tr>
             </table>
 
 			<p>Notera även att innehållet kan ändras något under kursens gång - studenter har möjlighet att påverka vad som fördjupas.</p>
