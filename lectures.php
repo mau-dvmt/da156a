@@ -34,67 +34,67 @@
                 </tr>
                 <tr>
                     <td>1</td>
-					<td><a href="/lectures.php?nr=1">Föreläsning 1: Kursintroduktion</a></td>
+					<td>Föreläsning 1: Kursintroduktion</td>
 					<td>Anton</td>
                 </tr>
 				<tr>
 					<td>2</td>
-					<td><a href="/lectures.php?nr=2">Föreläsning 2: Introduktion till HTML</a></td>
+					<td>Föreläsning 2: Introduktion till HTML</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>3</td>
-					<td><a href="/lectures.php?nr=3">Föreläsning 3: Tabeller &amp; formulär</a></td>
+					<td>Föreläsning 3: Tabeller &amp; formulär</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>4</td>
-					<td><a href="/lectures.php?nr=4">Föreläsning 4: Introduktion till CSS</a></td>
+					<td>Föreläsning 4: Introduktion till CSS</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>5</td>
-					<td><a href="/lectures.php?nr=5">Föreläsning 5: Layout med HTML &amp; CSS</a></td>
+					<td>Föreläsning 5: Layout med HTML &amp; CSS</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>6</td>
-					<td><a href="/lectures.php?nr=6">Föreläsning 6: Layout med HTML &amp; CSS (2)</a></td>
+					<td>Föreläsning 6: Layout med HTML &amp; CSS (2)</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>7</td>
-					<td><a href="/lectures.php?nr=7">Föreläsning 7: Responsiv webbdesign</a></td>
+					<td>Föreläsning 7: Responsiv webbdesign</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>8</td>
-					<td><a href="/lectures.php?nr=8">Föreläsning 8: Tutorial, att bygga en webbsida</a></td>
+					<td>Föreläsning 8: Tutorial, att bygga en webbsida</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>9</td>
-					<td><a href="/lectures.php?nr=9">Föreläsning 9: Webbutveckling med JavaScript</a></td>
+					<td>Föreläsning 9: Webbutveckling med JavaScript</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>10</td>
-					<td><a href="/lectures.php?nr=10">Föreläsning 10: Ramverk och bibliotek</a></td>
+					<td>Föreläsning 10: Ramverk och bibliotek</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>11</td>
-					<td><a href="/lectures.php?nr=11">Föreläsning 11: Introduktion till användbarhet</a></td>
+					<td>Föreläsning 11: Introduktion till användbarhet</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>12</td>
-					<td><a href="/lectures.php?nr=12">Föreläsning 12: Användbarhet: Fokus IT</a></td>
+					<td>Föreläsning 12: Användbarhet: Fokus IT</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>13</td>
-					<td><a href="/lectures.php?nr=13">Föreläsning 13: Sammanfattning av kursen</a></td>
+					<td>Föreläsning 13: Sammanfattning av kursen</td>
 					<td>Anton</td>
 				</tr>
             </table>

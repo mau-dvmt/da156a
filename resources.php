@@ -59,23 +59,21 @@ include "_header.php";
 		<div class="col">
 			<h4>3.1. OS X</h4>
 			<ul>
+				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis)</li>
 				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
-				<li><a href="http://www.barebones.com/products/TextWrangler/">TextWrangler</a> (gratis)</li>
-				<li><a href="http://www.peterborgapps.com/smultron/">Smultron</a> ($10)</li>
-				<li><a href="http://www.sublimetext.com">Sublime Text</a> ($70)</li>
-				<li><a href="http://chocolatapp.com">Chocolat</a> ($49)</li>
+				<li><a href="http://www.sublimetext.com">Sublime Text</a> ($80)</li>
 			</ul>
 		</div>
 
 		<div class="col">
 			<h4>3.2. Windows</h4>
 			<ul>
+				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis)</li>
 				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
 				<li><a href="http://notepad-plus-plus.org">Notepad++</a> (gratis)</li>
-				<li><a href="http://www.flos-freeware.ch/notepad2.html">Notepad2</a> (gratis)</li>
-				<li><a href="http://www.sublimetext.com">Sublime Text</a> ($70)</li>
+				<li><a href="http://www.sublimetext.com">Sublime Text</a> ($80)</li>
 			</ul>
 		</div>
 
@@ -90,10 +88,10 @@ include "_header.php";
 		<ul>
 			<li>
 				<a href="http://webshare.mah.se/">Publicera webbsidor via webshare</a>.
-				Alla som har ett studentkonto vid Malmö högskola kan aktivera tjänsten, som fungerar som ett enklare webbhotell.
+				Alla som har ett studentkonto vid Malmö universitet  kan aktivera tjänsten, som fungerar som ett enklare webbhotell.
 			</li>
 			<li>
-				Via <a href="http://mah.se/lms">It's Learning</a> publiceras internt material, och där lämnas också inlämningsuppgifter in.
+				Via <a href="https://canvas.mau.se">Canvas</a> publiceras internt material, och där lämnas också inlämningsuppgifter in.
 			</li>
 		</ul>
 

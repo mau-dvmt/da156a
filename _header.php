@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Webbplats för kursen Webbutveckling: Grundkurs för Malmö Högskola">
     <meta name="author" content="Anton Tibblin">
-    <link rel="shortcut icon" href="icon.png">
+    <link rel="shortcut icon" href="favicon.ico">
     <title>Introduktion till webbutveckling (DA156A) - Malmö Högskola</title>
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -64,11 +64,11 @@
           <ul class="nav navbar-nav">
             <li><a href="index.php" id="startLink">Start</a></li>
             <li><a href="resources.php">Resurser</a></li>
-			<li><a href="lectures.php">Föreläsningar</a></li>
-			<li><a href="exercises.php">Laborationer</a></li>
-			<li><a href="assignments.php">Inlämningsuppgifter</a></li>
+		      	<li><a href="lectures.php">Föreläsningar</a></li>
+		      	<li><a href="exercises.php">Laborationer</a></li>
+		      	<li><a href="assignments.php">Inlämningsuppgifter</a></li>
             <li><a href="plan.php">Planering</a></li>
-			<li><a href="tenta.php">Om tentamen</a></li>
+			      <li><a href="tenta.php">Om tentamen</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -80,7 +80,7 @@
 				<h1>Introduktion till webbutveckling (DA156A)</h1>
 			</div>
 			<div class="col-lg-4">
-				<img src="images/mah.png" alt="Malmö Högskola">
+				<img src="images/MAU_SV_main_BLACK.png" alt="Malmö Högskola">
 			</div>
 		</div>
 		<div class="row theContent">
