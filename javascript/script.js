@@ -74,6 +74,9 @@ $(document).ready(function(){
         Makes "open in code pen"-buttons (taken from here: http://blog.codepen.io/documentation/api/prefill/)
     */
     $("pre.codepen").each(function() {
+
+        // Do nothing
+        return false;
         
         var el = $(this),
            type = el.data("type"),

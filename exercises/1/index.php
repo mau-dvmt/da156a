@@ -7,10 +7,10 @@
 <h4>1.1. Exempel</h4>
 <p>Såhär har några (nuvarande och föredetta) lärare och forskare vid Institutionen för datavetenskap valt att göra med sina startsidor:</p>
 <ul>
-    <li><a href="http://webshare.mah.se/ctfroh/">Fredrik Ohlin</a></li>
     <li><a href="http://webshare.mah.se/tsbeni/">Bengt Nilsson</a></li>
     <li><a href="http://webshare.mah.se/ctpada/">Paul Davidsson</a></li>
     <li><a href="http://webshare.mah.se/ctmagu/">Marie Gustafsson Friberger</a></li>
+    <li><a href="http://webshare.mah.se/tsanti/">Anton Tibblin</a></li>
 </ul>
 <p>Som synes finns det en betydande variation i utformning, såväl visuellt som tekniskt. Testa öppna några av ovanstående sidor, och att i din webbläsare högerklicka på sidan och välja <em>visa källkod</em> (eller motsvarande). Vilken av källkoderna är enklast/svårast att förstå?</p>
 <p>Genom hela kursen Introduktion till webbutveckling kommer snygg, läsbar och korrekt källkod att vara viktigt. Denna laboration börjar utforska vad det betyder.</p>
@@ -37,10 +37,10 @@
             <li>På datorerna i Kranen och Ubåtshallen rekommenderas Notepad++.</li>
             <li>För nedladdning till din egen dator finns otaliga alternativ. Några gratisvarianter är:
                 <ul>
+                    <li><a href="https://code.visualstudio.com/">VS Code</a> (Windows, OS X, Linux)</li>
                     <li><a href="http://atom.io/">Atom</a> (Windows, OS X, Linux)</li>
                     <li><a href="http://brackets.io/">Brackets</a> (Windows, OS X, Linux)</li>
                     <li><a href="http://notepad-plus-plus.org/">Notepad++</a> (Windows)</li>
-                    <li><a href="http://www.flos-freeware.ch/notepad2.html">Notepad2</a> (Windows)</li>
                     <li><a href="http://www.sublimetext.com/">Sublime Text</a> (Windows, OS X, Linux)</li>
                     <li><a href="http://www.barebones.com/products/textwrangler/">TextWrangler</a> (OS X)</li>
                 </ul>
