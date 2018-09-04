@@ -42,8 +42,8 @@ include "_header.php";
 			<a href="/lectures.php?nr=4" class="list-group-item">Föreläsning 4: Introduktion till CSS</a>
 			<a href="/lectures.php?nr=3" class="list-group-item">Föreläsning 3: Tabeller &amp; formulär</a>
 			<a href="/lectures.php?nr=2" class="list-group-item">Föreläsning 2: Introduktion till HTML</a>
-			<a href="/lectures.php?nr=1" class="list-group-item">Föreläsning 1: Kursintroduktion</a>
 			-->
+			<a href="/lectures.php?nr=1" class="list-group-item">Föreläsning 1: Kursintroduktion</a>
 		</div>
 	</div>
 </div>

@@ -34,7 +34,7 @@
                 </tr>
                 <tr>
                     <td>1</td>
-					<td>Föreläsning 1: Kursintroduktion</td>
+					<td><a href="/lectures.php?nr=1">Föreläsning 1: Kursintroduktion</a></td>
 					<td>Anton</td>
                 </tr>
 				<tr>
