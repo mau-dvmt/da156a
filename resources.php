@@ -81,7 +81,7 @@ include "_header.php";
 			Verktyg där man grafiskt skapar en webbsida utan att själv skriva koden (&quot;what you see is what you get&quot;) rekommenderas inte - och är inte tillåtna i kursens uppgifter. En viktig poäng är att förstå bakomliggande tekniker och principer. Resultatet mycket bättre om man själv författar källkoden.
 		</p>
 
-		<h3>4. Malmö Högskola-specifikt</h3>
+		<h3>4. Malmö universitet-specifikt</h3>
 		<p>
 			För kursens studenter finns några specifika länkar, listade här av bekvämlighetsskäl:
 		</p>

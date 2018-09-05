@@ -34,7 +34,7 @@
         <p>Ett bra textredigeringsprogram. Med &#8220;bra&#8221; menas framförallt att programmet stödjer <a href="http://en.wikipedia.org/wiki/Syntax_highlighting">syntaxmarkering</a> för HTML - därutöver finns en mängd andra personliga preferenser.</p>
         <ul>
             <li>För Windows så medföljer Notepad (Anteckningar), för Mac OS X medföljer TextEdit (Textredigerare). Dessa är inte jättebra.</li>
-            <li>På datorerna i Kranen och Ubåtshallen rekommenderas Notepad++.</li>
+            <li>På datorerna i skolan rekommenderas Visual Studio Code, Atom eller Brackets.</li>
             <li>För nedladdning till din egen dator finns otaliga alternativ. Några gratisvarianter är:
                 <ul>
                     <li><a href="https://code.visualstudio.com/">VS Code</a> (Windows, OS X, Linux)</li>
@@ -57,7 +57,9 @@
 </ul>
 
 <h4>3.2. Ett startdokument</h3>
-<p><em>Har du gjort första labben i kursen Introduktion till datavetenskap? Då känner du nog igen nedanstående steg.</em></p>
+<p>
+    <strong>Om du använder en dator i skolan</strong>
+</p>
 <p>Du kanske har noterat att det finns nätverksplats som heter <code>Webshare</code> (L:\) när du öppnar "Den här datorn" (om platsen inte finns måste du aktivera tjänsten Webshare <a href="http://idservice.mah.se">här</a>). Detta är en speciell plats, då alla filer som läggs där i automatiskt blir tillgängliga över Internet. Om du redan provat att publicera filer via Webshare kan du hoppa till nästa rubrik. Annars bör du gå igenom följande steg för att testa på webbpublicering via Webshare:</p>
 
     <ol>
@@ -76,7 +78,7 @@
     &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
-        <p>Skapa ett nytt dokument i t.ex. Notepad++ och klistra in ovanstående kod i dokumentet. Spara filen i din <code>Webshare</code>-plats, med filnamnet <code>index.html</code>.</p>
+        <p>Skapa ett nytt dokument i din textredigerare (t.ex. VS code, Atom, Notepad++, etc.) och klistra in ovanstående kod i dokumentet. Spara filen i din <code>Webshare</code>-plats, med filnamnet <code>index.html</code>.</p>
     </li>
 
     <li><p>För att nu surfa in till sidan som ni precis publicerade, surfar ni till <code>http://webshare.mah.se/datorid</code>, där datorid är din egen datoridentitet.</p></li>
@@ -88,16 +90,16 @@
         </div>
     </li>
 
-    <li><p>Öppna den nyss parade filen i ett textredigeringsprogram - det är dags att lägga till ditt eget innehåll.</p></li>
+    <li><p>Öppna den nyss sparade filen i ett textredigeringsprogram - det är dags att lägga till ditt eget innehåll.</p></li>
     </ol>
 
 
     <h5>3.2.1. Andra metoder för att komma åt hemkatalogen</h4>
 
     <ul>
-        <li>Hemkatalogen går även att komma åt via krypterad FTP. FTP är ett protokoll specialdesignat för att skicka och ta emot filer (därav namnet, File Transfer Protocol). Adressen är <code>ftpes://webshare.mah.se</code> och ditt vanliga datorid och lösenord används. <a href="http://filezilla-project.org/">FileZilla</a> (finns i datorsalarna) och <a href="http://cyberduck.ch/">Cyberduck</a> är två bra program som kan användas.</li>
+        <li>Hemkatalogen går även att komma åt via krypterad FTP. FTP är ett protokoll specialdesignat för att skicka och ta emot filer (därav namnet, File Transfer Protocol). Adressen är <code>ftpes://webshare.mah.se</code> och ditt vanliga datorid och lösenord används. <a href="http://filezilla-project.org/">FileZilla</a> (finns i datorsalarna) och <a href="http://cyberduck.ch/">Cyberduck</a> är två bra program som kan användas. Fråga gärna labbassistent om hjälp om detta är nytt för dig.</li>
         <li>
-            Det finns även <a href="http://access.mah.se">ett webbgränssnitt</a>.
+            Det finns även <a href="http://access.mah.se">ett webbgränssnitt (men FTP rekommenderas starkt!).</a>.
         </li>
     </ul>
 
