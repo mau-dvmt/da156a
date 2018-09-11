@@ -97,7 +97,6 @@
 <p>När du är nöjd med formulär- och tabellskapandet kan du fortsätta till <a href="/exercises.php?title=2b">del två, om CSS</a>!</p>
 
 <hr>
-<!--
 <h3>7. Bonus! Bygg formulär till föreläsningens gästbok!</h3>
 <p><em>Denna uppgift är frivillig, men rekommenderad</em>.</p>
 <h4>7.1. Gästbokstjänst</h4>
@@ -126,4 +125,3 @@
 </ul>
 <p>När du byggt klart ditt formulär så kan du på ett enkelt sätt göra flera gästboksinlägg.</p>
 <p>Du har nu inte bara byggt ett formulär som skickar iväg data - du har även byggt ihop din hemsida (formulär) med en <em>extern <strong>webbtjänst</strong></em> - coolt! =)</p>
--->

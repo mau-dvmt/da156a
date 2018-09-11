@@ -32,27 +32,27 @@
                 <tr>
                     <td>1</td>
                     <td><a href="/exercises.php?title=1">En enkel personlig webbsida</a></td>
-                    <td>* (, Anton)</td>
+                    <td>Adam, Hanna (, Anton)</td>
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td>a) Formulär &amp; tabeller, b) Introduktion till CSS</td>
-                    <td>* (, Anton)</td>
+                    <td><a href="/exercises.php?title=2">a) Formulär &amp; tabeller</a>, <a href="/exercises.php?title=2b">b) Introduktion till CSS</a></td>
+                    <td>Adam, Hanna (, Anton)</td>
                 </tr>
                 <tr>
                     <td>3</td>
                     <td>Layout med CSS</td>
-                    <td>* (, Anton)</td>
+                    <td>Adam, Hanna (, Anton)</td>
                 </tr>
                 <tr>
                     <td>4</td>
                     <td>Responsiv webbutveckling</td>
-                    <td>* (, Anton)</td>
+                    <td>Adam, Hanna (, Anton)</td>
                 </tr>
                 <tr>
                     <td>5</td>
                     <td>JavaScript och ramverk</td>
-                    <td>* (, Anton)</td>
+                    <td>Adam, Hanna (, Anton)</td>
                 </tr>
 			</table>
 

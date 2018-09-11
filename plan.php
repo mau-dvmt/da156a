@@ -40,7 +40,7 @@
                     <td rowspan="3">37</td>
                     <td>11/9</td>
                     <td>08-10</td>
-                    <td>Föreläsning 3: Tabell &amp; formulär</td>
+                    <td><a href="/lectures.php?nr=3">Föreläsning 3: Tabell &amp; formulär</a></td>
 					<td>HTML &amp; CSS: Kap. 6-7</td>
                 </tr>
                 <tr class="lecture odd">
@@ -52,7 +52,7 @@
                 <tr class="laboration odd">
                     <td>14/9</td>
                     <td>08-12</td>
-                    <td>Laboration 2: a) Formulär &amp; tabeller, b) Introduktion till CSS</td>
+                    <td>Laboration 2: <a href="/exercises.php?title=2">a) Formulär &amp; tabeller</a>, <a href="/exercises.php?title=2b">b) Introduktion till CSS</a></td>
 					<td></td>
                 </tr>
 
