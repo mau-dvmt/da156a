@@ -30,7 +30,7 @@
 			    </tr>
 			    <tr>
 					<td>30/9</td>
-                    <td>Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</td>
+                    <td><a href="/assignments.php?nr=1">Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</a></td>
 			    </tr>
 				<tr>
 					<td>21/10	</td>

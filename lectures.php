@@ -49,7 +49,7 @@
 				</tr>
 				<tr>
 					<td>4</td>
-					<td>Föreläsning 4: Introduktion till CSS</td>
+					<td><a href="/lectures.php?nr=4">Föreläsning 4: Introduktion till CSS</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
