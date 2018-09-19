@@ -1,0 +1,40 @@
+#wrapper {
+	display: grid;
+	grid-template-columns: 200px 1fr 200px;
+	grid-template-rows: auto;
+	grid-gap: 10px;
+	grid-template-areas: 
+		"header header header"
+		"nav main aside"
+		"footer footer footer"
+	;
+}
+
+#wrapper > * {
+	min-height: 100px;
+}
+
+#wrapper > header {
+	grid-area: header;
+	background-color: lightblue;
+}
+
+#wrapper > footer {
+	grid-area: footer;
+	background-color: lightblue;
+}
+
+#wrapper > nav {
+	grid-area: nav;
+	background-color: lightgreen;
+}
+
+#wrapper > main {
+	grid-area: main;
+	background-color: red;
+}
+
+#wrapper > aside {
+	grid-area: aside;
+	background-color: purple;
+}

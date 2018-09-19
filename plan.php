@@ -60,19 +60,19 @@
                     <td rowspan="3">38</td>
                     <td>18/9</td>
                     <td>08-10</td>
-                    <td>Föreläsning 5: Layout med CSS (1)</td>
+                    <td><a href="/lectures.php?nr=5">Föreläsning 5: Layout med CSS (1)</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture even">
                     <td>19/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 6: Layout med CSS (2)</td>
+                    <td><a href="/lectures.php?nr=6">Föreläsning 6: Layout med CSS (2)</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="laboration even">
                     <td>21/9</td>
                     <td>08-12</td>
-                    <td>Laboration 3: Layout med CSS</td>
+                    <td>Laboration 3: <a href="/exercises.php?title=3">Layout med CSS</a></td>
 					<td></td>
                 </tr>
 

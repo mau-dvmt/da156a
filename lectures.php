@@ -54,12 +54,12 @@
 				</tr>
 				<tr>
 					<td>5</td>
-					<td>Föreläsning 5: Layout med HTML &amp; CSS</td>
+					<td><a href="/lectures.php?nr=5">Föreläsning 5: Layout med HTML &amp; CSS</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>6</td>
-					<td>Föreläsning 6: Layout med HTML &amp; CSS (2)</td>
+					<td><a href="/lectures.php?nr=6">Föreläsning 6: Layout med HTML &amp; CSS (2)</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>

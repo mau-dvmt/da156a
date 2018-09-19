@@ -3,7 +3,7 @@
 
 <p>
     Avancerat:
-    <strong>Labben får gärna göras med <code>grids</code> och/eller <code>flexbox</code> för de som föredrar detta. Information om detta finns <a href="/lectures.php?nr=6">här</a></strong>
+    <strong>Labben får gärna göras med <code>grids</code> och/eller <code>flexbox</code> för de som föredrar detta. Information om detta finns <a href="#" title="Kommer att komma upp när föreläsningen har varit">här</a>.</strong>
 </p>
 
 <h3>1. Uppgift</h3>

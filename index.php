@@ -37,9 +37,10 @@ include "_header.php";
 			<a href="/lectures.php?nr=9" class="list-group-item">Föreläsning 9: Webbutveckling med JavaScript</a>
 			<a href="/lectures.php?nr=8" class="list-group-item">Föreläsning 8: Tutorial, att bygga en webbsida</a>
 			<a href="/lectures.php?nr=7" class="list-group-item">Föreläsning 7: Responsiv webbutveckling</a>
-			<a href="/lectures.php?nr=6" class="list-group-item">Föreläsning 6: Layout med HTML &amp; CSS (2)</a>
-			<a href="/lectures.php?nr=5" class="list-group-item">Föreläsning 5: Layout med HTML &amp; CSS</a>
 			-->
+			<a href="/lectures.php?nr=6" class="list-group-item">Föreläsning 6: Layout med HTML &amp; CSS (2)</a>
+			<a href="/exercises.php?title=3" class="list-group-item">Labb 3: Layout med CSS</a>
+			<a href="/lectures.php?nr=5" class="list-group-item">Föreläsning 5: Layout med HTML &amp; CSS</a>
 			<a href="/lectures.php?nr=4" class="list-group-item">Föreläsning 4: Introduktion till CSS</a>
 			<a href="/exercises.php?title=2b" class="list-group-item">Labb 2b: Introduktion CSS</a>
 			<a href="/exercises.php?title=2" class="list-group-item">Labb 2a: Tabeller &amp; formulär</a>
