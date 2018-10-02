@@ -1,40 +1,40 @@
-#wrapper {
-	display: grid;
-	grid-template-columns: 200px 1fr 200px;
-	grid-template-rows: auto;
-	grid-gap: 10px;
-	grid-template-areas: 
-		"header header header"
-		"nav main aside"
-		"footer footer footer"
-	;
+#grid {
+    display: grid;
+    grid-template-columns: 100px 1fr 100px;
+    grid-template-rows: auto auto auto;
+    grid-gap: 10px;
+    grid-template-areas:    
+        "header header header"
+        "nav main aside"
+        "footer footer footer"
+    ;
 }
 
-#wrapper > * {
-	min-height: 100px;
+#grid > * {
+    min-height: 100px;
 }
 
-#wrapper > header {
-	grid-area: header;
-	background-color: lightblue;
+#grid > header {
+    background-color: lightblue;
+    grid-area: header;
 }
 
-#wrapper > footer {
-	grid-area: footer;
-	background-color: lightblue;
+#grid > footer {
+    background-color: lightblue;
+    grid-area: footer;
 }
 
-#wrapper > nav {
-	grid-area: nav;
-	background-color: lightgreen;
+#grid > nav {
+    background-color: aquamarine;
+    grid-area: nav;
 }
 
-#wrapper > main {
-	grid-area: main;
-	background-color: red;
+#grid > main {
+    background-color: blueviolet;
+    grid-area: main;
 }
 
-#wrapper > aside {
-	grid-area: aside;
-	background-color: purple;
+#grid > aside {
+    background-color: chartreuse;
+    grid-area: aside;
 }

@@ -8,7 +8,6 @@
 <ul>
     <li>Flexibel layout, med en maxbredd på drygt 900 pixlar (styrs av <code>#container</code>).</li>
     <li>Två visuella kolumner, <code>header</code> till vänster, och <code>#content</code>, <code>aside</code> och <code>footer</code> till höger.</li>
-    <li>HTML5-element används alltså en del. (Dock har inte kompatibiliteten maximeras, till exempel genom att använda <a href="http://code.google.com/p/html5shiv/">html5shiv</a>.)</li>
     <li>Några bonusegenskaper från CSS 3: typsnitt, tonad bakgrund, rundade hörn, skuggor.</li>
 </ul>
 
@@ -78,10 +77,9 @@ header{
 </code></pre>
 <p>Hur ser det ut i din (breda) webbläsare?</p>
 
-<h3>Vad mer?</h3>
-<p>En slutversion kan se ut <a href="/exercises/4/case/index-final.html">såhär</a>. Men nu skulle det passa bra med valfria förbättringar från dig. Kanske några fler brytpunkter? Kanske bör man också testa i flera webbläsare (och fundera om man vill utöka stödet t. ex. med <a href="https://code.google.com/p/css3-mediaqueries-js/">css3-mediaqueries.js</a>).</p>
+<h3>5. Vad mer?</h3>
+<p>En slutversion kan se ut <a href="/exercises/4/case/index-final.html">såhär</a>. Men nu skulle det passa bra med valfria förbättringar från dig. Kanske några fler brytpunkter? Kanske bör man också testa i flera webbläsare för att säkra att det fungerar som förväntat i de vanligaste webbläsarna.</p>
 
 
-<h3>Vidare laboration</h3>
-<p><strong>Frivilligt, men rekommenderat.</strong></p>
+<h3>6. Vidare laboration - Din tur!</h3>
 <p>Använd nu en av dina tidigare layouter (t.ex. den från <a href="/exercises.php?title=3">labb 3</a>) - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! =)</p>

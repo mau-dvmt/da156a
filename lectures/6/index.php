@@ -307,3 +307,74 @@ h1 {
 	background-color: red;
 }
 </code></pre>
+
+<h4>Grids</h4>
+
+<p><a href="/lectures/6/Grids/a.html">Surfa till exemplet här</a></p>
+
+<h5>HTML</h5>
+<pre class="language-markup line-numbers codepen" data-type="html"><code class="language-markup line-numbers">
+&lt;!doctype html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;meta charset=&quot;utf-8&quot;&gt;
+		&lt;title&gt;Demo&lt;/title&gt;
+		&lt;link href=&quot;https://fonts.googleapis.com/css?family=Ubuntu&quot; rel=&quot;stylesheet&quot;&gt;
+		&lt;link href=&quot;a.css&quot; rel=&quot;stylesheet&quot;&gt;
+	&lt;/head&gt;
+	
+	&lt;body&gt;
+		&lt;div id=&quot;grid&quot;&gt;
+			&lt;header&gt;Sidhuvud&lt;/header&gt;
+			&lt;nav&gt;Navigation&lt;/nav&gt;
+			&lt;main&gt;Main&lt;/main&gt;
+			&lt;aside&gt;Aside&lt;/aside&gt;
+			&lt;footer&gt;Sidfot&lt;/footer&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<h5>CSS</h5>
+<pre class="language-css line-numbers codepen" data-type="javascript"><code class="language-css line-numbers">
+#grid {
+    display: grid;
+    grid-template-columns: 100px 1fr 100px;
+    grid-template-rows: auto auto auto;
+    grid-gap: 10px;
+    grid-template-areas:    
+        "header header header"
+        "nav main aside"
+        "footer footer footer"
+    ;
+}
+
+#grid > * {
+    min-height: 100px;
+}
+
+#grid > header {
+    background-color: lightblue;
+    grid-area: header;
+}
+
+#grid > footer {
+    background-color: lightblue;
+    grid-area: footer;
+}
+
+#grid > nav {
+    background-color: aquamarine;
+    grid-area: nav;
+}
+
+#grid > main {
+    background-color: blueviolet;
+    grid-area: main;
+}
+
+#grid > aside {
+    background-color: chartreuse;
+    grid-area: aside;
+}
+</code></pre>

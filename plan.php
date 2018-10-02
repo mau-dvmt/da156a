@@ -80,19 +80,19 @@
                     <td rowspan="4">39</td>
                     <td>25/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 7: Responsiv webbutveckling</td>
+                    <td><a href="/lectures.php?nr=7">Föreläsning 7: Responsiv webbutveckling</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>26/9</td>
                     <td>15-17</td>
-                    <td>Föreläsning 8: Tutorial, att bygga en webbsida</td>
+                    <td><a href="/lectures.php?nr=8">Föreläsning 8: Tutorial, att bygga en webbsida</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration odd">
                     <td>28/9</td>
                     <td>8-12</td>
-                    <td>Laboration 4: Responsiv webbplats</td>
+                    <td>Laboration 4: <a href="/exercises.php?title=4">Responsiv webbplats</a></td>
 					<td></td>
                 </tr>
                 <tr class="tenta assignment odd">
@@ -106,7 +106,7 @@
                     <td rowspan="3">40</td>
                     <td>2/10</td>
                     <td>08-10</td>
-                    <td>Föreläsning 9: Webbutveckling med JavaScript</td>
+                    <td>Föreläsning 9: <a href="/lectures.php?nr=9">Webbutveckling med JavaScript</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="lecture even">
@@ -118,7 +118,7 @@
                 <tr class="laboration even">
                     <td>5/10</td>
                     <td>08-12</td>
-                    <td>Laboration 5: JavaScript på webben</td>
+                    <td>Laboration 5: <a href="/exercises.php?title=5">JavaScript på webben</a></td>
 					<td></td>
                 </tr>
 

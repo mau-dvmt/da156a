@@ -1,250 +1,239 @@
 body {
-	margin: 0px;
-	font-family: 'Montserrat', sans-serif;
-	background-image: url("images/brushed.png");
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("images/brushed.png");
 }
 
 body > header {
-	height: 50px;
-	line-height: 50px;
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	box-shadow: 0 0 20px #000;
-	
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
-	background: #45484d; /* Old browsers */
-	background: linear-gradient(to bottom, #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
+    background: #45484d; /* Old browsers */
+    background: -moz-linear-gradient(top, #45484d 0%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+
+    height: 50px;
+    line-height: 50px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    box-shadow: 0 0 10px #000;
 }
 
-#main-nav {
-	max-width: 1200px;
-	margin: auto;
-	padding: 0 10px;
+#navigation {
+    width: auto;
+    max-width: 1200px;
+    margin: auto;
 }
 
-#main-nav > a {
-	float: left;
-	color: #eee;
-	text-decoration: none;
+#logo {
+    float: left;
+    display: block;
+    color: #eee;
+    text-decoration: none;
 }
 
-#main-nav > ul {
-	float: right;
-	list-style: none;
-	margin: 0px;
-	padding: 0px;
+#menu {
+    float: right;
 }
 
-#main-nav > ul > li {
-	float: left;
+#menu > a {
+    display: block;
+    float: left;
+    color: #eee;
+    text-decoration: none;
+    padding: 0 20px;
+    transition: 0.5s all;
 }
 
-#main-nav > ul > li > a{
-	padding: 0 20px;
-	display: block;
-	color: #eee;
-	text-decoration: none;
-	transition: all 0.5s;
+#menu > a:hover {
+    background-color: #000;
 }
 
-#main-nav > ul > li > a:hover {
-	background-color: #000;
-}
-
-#main-nav > ul > li  > input{
-	width: 125px;
-	transition: all 0.5s;
-	border-radius: 5px;
-	border: 0px;
-	padding: 8px;
-	margin-left: 20px;
-}
-
-#main-nav > ul > li  > input:focus{
-	width: 250px;
-}
-
-#show-menu {
-	display: none;
+#menu > input {
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+    padding-left: 10px;
 }
 
 #jumbo {
-	height: 450px;
-	width: 100%;
-	background-image: url("images/starwars-fanart2.jpg");
-	background-position: center;
-	
-	display: flex;
-	align-items: center;
-	justify-content: center;
+    height: 450px;
+    background-image: url("images/starwars-fanart.jpg");
+    background-position: center;
+    border-bottom: 10px solid #000;
+    box-shadow: 0 0 10px #000;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #jumbo > article {
-	width: 50%;
-	background-color: rgba(255, 255, 255, 0.8);
-	padding: 20px;
-	box-sizing: border-box;
-	border-radius: 10px;
-	text-align: center;
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    opacity: 0;
+    transition: 0.5s all;
 }
 
-#join-us-btn {
-	width: 200px;
-	color: #333;
-	background-color: #eee;
-	height: 40px;
-	line-height: 40px;
-	display: block;
-	border: 2px #999 solid;
-	margin: auto;
+#jumbo:hover article {
+    opacity: 1;
 }
 
-.br {
-	height: 10px;
-	width: 100%;
-	background-color: #111;
-	box-shadow: 0 0 20px #000;
+#jumbo > article > a {
+    display: block;
+    width: 200px;
+    background-color: #333;
+    color: #eee;
+    margin: auto;
+    padding: 10px;
 }
 
 #movies {
-	max-width: 1200px;
-	margin: auto;
-	padding: 10px;
-	
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	justify-content: flex-start;
-}
+    display: flex;
+    flex-wrap: wrap;
 
-#movies > figure {
-	width: 23%;
-	margin: 2% 1%;
-	background-color: #fff;
-	box-shadow: 0 0 5px #333;
-}
-
-#movies > figure > h3{
-	background-color: #000;
-	color: #eee;
-	margin: 0px;
-	padding: 10px;
-}
-
-#movies > figure > img{
-	float: left;
-	margin-right: 5px;
-}
-
-#movies > figure > figcaption {
-	padding: 5px;
-	font-size: 12px;
+    width: auto;
+    max-width: 1200px;
+    margin: auto;
 }
 
 #movies > h2 {
-	width: 100%;
-	border-bottom: 2px solid #000;
-	padding: 10px;
+    width: 100%;
+    border-bottom: 2px solid #000;
+    padding: 15px 0;
 }
 
-body > footer  {
-	background-color: #000;
-	box-shadow: 0 0 20px #000;
-	overflow: hidden;
-	margin-top: 20px;
+#movies > figure {
+    width: 23%;
+    margin: 1%;
+    box-shadow: 0 0 5px #333;
+    background-color: #fff;
+    transition: 0.5s all;
+    font-size: 12px;
 }
 
-body > footer  > article {
-	max-width: 1200px;
-	margin: auto;
-	color: #eee;
+#movies > figure:hover {
+    width: 25%;
+    margin: 0%;
+    box-shadow: 0 0 15px #000;
+    font-size: 14px;
 }
 
-body > footer  > article > section {
-	width: calc(100%/3);
-	float: left;
+#movies > figure > h3 {
+    background-color: #000;
+    color: #eee;
+    margin: 0px;
+    text-align: center;
+    padding: 10px 0;
 }
 
-body > footer  > article a {
-	color: #fff;
+#movies > figure > img {
+    float: left;
+    margin-right: 5px;
+    height: cal(100%-25px);
 }
 
-@media screen and (min-width: 601px) and (max-width: 900px) {
-	#main-nav > ul > li > a{
-		font-size: 12px;
-		padding: 0 5px;
-	}
-	
-	#main-nav > ul > li  > input{
-		width: 120px;
-	}
-	
-	#main-nav > ul > li  > input:focus{
-		width: 120px;
-	}
-	
-	#movies > figure {
-		width: calc((10%/3)/2);
-		width: 30%;
-	}
+#movies > figure > figcaption {
+    /* font-size: 12px; */
 }
 
-@media screen and (max-width: 600px) {
-	#main-nav > ul {
-		position: fixed;
-		top: 49px;
-		left: 0;
-		right: 0;
-		background-color: #000;
-		box-shadow: 0 0 10px #000;
-		max-height: 0px;
-		overflow: hidden;
-		transition: all 0.5s;
-	}
-	
-	#main-nav > ul > li {
-		float: none;
-		width: 100%;
-	}
-	
-	#main-nav > ul > li  > input{
-		width: 96%;
-		margin: 0 2%;
-	}
-	
-	#main-nav > ul > li  > input:focus{
-		width: 96%;
-		margin: 0 2%;
-	}
-	
-	#main-nav > #show-menu {
-		float: right;
-		display: block;
-	}
-	
-	#show-menu:hover + ul {
-		max-height: 300px;
-	}
-	
-	#show-menu + ul:hover {
-		max-height: 300px;
-	}
-	
-	#jumbo > article {
-		width: 90%;
-		margin-top: 49px;
-	}
-	
-	#movies > figure {
-		width: 100%;
-	}
-	
-	body > footer > article > section {
-		width: 100%;
-		float: none;
-		padding: 10px;
-		box-sizing: border-box;
-	}
+body > footer {
+    background-color: #000;
+    color: #eee;
+    box-shadow: 0 0 10px #000;
+}
+
+#footer-navigation {
+    width: auto;
+    max-width: 1200px;
+    margin: 25px auto 0px auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#footer-navigation a {
+    color: #eee;
+}
+
+#menu-trigger {
+    display: none;
+}
+
+@media screen and (max-width: 1000px) {
+    #movies > figure {
+        width: 31.3%;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    #movies > figure {
+        width: 48%;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    #jumbo {
+        background-size: cover;
+    }
+
+    #movies > figure {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    #footer-navigation {
+        grid-template-columns: 1fr;
+    }
+
+    #jumbo > article {
+        width: 90%;
+    }
+
+    #logo {
+        padding-left: 5px;
+    }
+
+    #menu {
+        position: fixed;
+        top: 50px;
+        left: 0px;
+        right: 0px;
+        background-color: #000;
+
+        height: 0px;
+        overflow: hidden;
+        transition: 0.5s all;
+    }
+
+    #menu > a {
+        width: 100%;
+        float: none;
+    }
+
+    #menu > input {
+        width: 99%;
+    }
+
+    #menu-trigger {
+        float: right;
+        color: #eee;
+        text-decoration: none;
+        padding-right: 5px;
+        display: block;
+    }
+
+    #menu-trigger img {
+        max-width: 50px;
+    }
+
+    #menu-trigger:focus + #menu, #menu:hover {
+        height: 220px;
+    }
 }

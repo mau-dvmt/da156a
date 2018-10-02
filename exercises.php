@@ -46,12 +46,12 @@
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Responsiv webbutveckling</td>
+                    <td><a href="/exercises.php?title=4">Responsiv webbutveckling</a></td>
                     <td>Adam, Hanna (, Anton)</td>
                 </tr>
                 <tr>
                     <td>5</td>
-                    <td>JavaScript och ramverk</td>
+                    <td><a href="/exercises.php?title=5">JavaScript och ramverk</a></td>
                     <td>Adam, Hanna (, Anton)</td>
                 </tr>
 			</table>
