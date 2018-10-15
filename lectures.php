@@ -84,17 +84,17 @@
 				</tr>
 				<tr>
 					<td>11</td>
-					<td>Föreläsning 11: Introduktion till användbarhet</td>
+					<td><a href="/lectures.php?nr=11">Föreläsning 11: Introduktion till användbarhet</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>12</td>
-					<td>Föreläsning 12: Användbarhet: Fokus IT</td>
+					<td><a href="/lectures.php?nr=12">Föreläsning 12: Användbarhet: Fokus IT</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>13</td>
-					<td>Föreläsning 13: Sammanfattning av kursen</td>
+					<td>Föreläsning 13: Extra(?)</td>
 					<td>Anton</td>
 				</tr>
             </table>

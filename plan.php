@@ -126,13 +126,13 @@
                     <td rowspan="3">41</td>
                     <td>9/10</td>
                     <td>10-12</td>
-                    <td>Föreläsning 11: Introduktion till användbarhet</td>
+                    <td>Föreläsning 11: <a href="/lectures.php?nr=11">Introduktion till användbarhet</a></td>
 					<td>-</td>
                 </tr>
 				<tr class="lecture odd">
 					<td>10/10</td>
 					<td>13-15</td>
-					<td>Föreläsning 12: Användbarhet med fokus på webben</td>
+					<td>Föreläsning 12: <a href="/lectures.php?nr=12">Användbarhet med fokus på webben</a></td>
 					<td></td>
 				</tr>
                 <tr class="laboration odd">
@@ -182,7 +182,7 @@
                     <td rowspan="1">45</td>
                     <td>11/11</td>
                     <td></td>
-                    <td>Deadline: Inlämningsuppgift 3</a></td>
+                    <td>Deadline: <a href="/assignments.php?nr=3">Inlämningsuppgift 3</a></td>
 					<td></td>
                 </tr>
 

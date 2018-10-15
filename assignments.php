@@ -38,7 +38,7 @@
 			    </tr>
 				<tr>
 					<td>11/11</td>
-                    <td>Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</td>
+                    <td><a href="/assignments.php?nr=3">Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</a></td>
 			    </tr>
 			</table>
 		</div>
