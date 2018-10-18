@@ -94,7 +94,7 @@
 				</tr>
 				<tr>
 					<td>13</td>
-					<td>Föreläsning 13: Extra(?)</td>
+					<td><a href="/lectures.php?nr=13">Föreläsning 13: Sammanfattning av kursen</td>
 					<td>Anton</td>
 				</tr>
             </table>

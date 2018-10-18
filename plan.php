@@ -146,7 +146,7 @@
                     <td rowspan="3">42</td>
                     <td>17/10</td>
                     <td>13-15</td>
-                    <td>Föreläsning 13: Extra</td>
+                    <td>Föreläsning 13: <a href="/lectures.php?nr=13">Extra</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration even">
