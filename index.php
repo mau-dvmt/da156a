@@ -9,7 +9,7 @@ include "_header.php";
 		<h3>Syfte</h3>
 		<p>I den bakomliggande kursplanen beskrivs syfte och mål:</p>
 		<div class="well">Kursen syftar till att introducera fundamentala koncept och tekniker som ingår i modern webbutveckling. Studenten ska ges praktiska färdigheter i utveckling av webbplatser, liksom en teoretisk bakgrund till de begränsningar och möjligheter som ges av aktuella standarder och plattformar. Studenten ska också utveckla en inledande förståelse av hur användarbehov och -beteende kan styra utvecklingen av ett gränssnitt.</div>
-		<p>Den beskrivningen är väldigt avsiktligt formulerad utan att nämna specifika tekniker. Istället ligger fokus på "modern webbutveckling" och "aktuella standarder och plattformar". Målet är således att hålla en bra balans mellan grundläggande principer och viktiga nya utvecklingar. Hösten 2018 betyder det bland annat HTML5 och CSS 3, med fokus på tillgänglighet och användbarhet för olika enheter.</p>
+		<p>Den beskrivningen är väldigt avsiktligt formulerad utan att nämna specifika tekniker. Istället ligger fokus på "modern webbutveckling" och "aktuella standarder och plattformar". Målet är således att hålla en bra balans mellan grundläggande principer och viktiga nya utvecklingar. Hösten 2019 betyder det bland annat HTML5 och CSS 3, med fokus på tillgänglighet och användbarhet för olika enheter.</p>
 
 		<h3>Upplägg</h3>
 		<p>Webbplatsen är baserad på en universitetskurs där ämnen introduceras vid en serie föreläsningar. Bilder, länkar och exempel publiceras <a href="/lectures.php">här</a>.</p>
@@ -29,24 +29,7 @@ include "_header.php";
 		</div>
 		<h2>Senaste händelser</h2>
 		<div class="list-group">
-			<a href="/lectures.php?nr=13" class="list-group-item">Föreläsning 13: Sammanfattning</a>
-			<a href="/lectures.php?nr=12" class="list-group-item">Föreläsning 12: Användbarhet: Fokus IT</a>
-			<a href="/lectures.php?nr=11" class="list-group-item">Föreläsning 11: Introduktion till användbarhet</a>
-			<a href="/lectures.php?nr=10" class="list-group-item">Föreläsning 10: Ramverk och bibliotek</a>
-			<a href="/exercises.php?title=5" class="list-group-item">Labb 5: JavaScript och ramverk</a>
-			<a href="/lectures.php?nr=9" class="list-group-item">Föreläsning 9: Webbutveckling med JavaScript</a>
-			<a href="/lectures.php?nr=8" class="list-group-item">Föreläsning 8: Tutorial, att bygga en webbsida</a>
-			<a href="/exercises.php?title=4" class="list-group-item">Labb 4: Responsiv webbplats</a>
-			<a href="/lectures.php?nr=7" class="list-group-item">Föreläsning 7: Responsiv webbutveckling</a>
-			<a href="/lectures.php?nr=6" class="list-group-item">Föreläsning 6: Layout med HTML &amp; CSS (2)</a>
-			<a href="/exercises.php?title=3" class="list-group-item">Labb 3: Layout med CSS</a>
-			<a href="/lectures.php?nr=5" class="list-group-item">Föreläsning 5: Layout med HTML &amp; CSS</a>
-			<a href="/lectures.php?nr=4" class="list-group-item">Föreläsning 4: Introduktion till CSS</a>
-			<a href="/exercises.php?title=2b" class="list-group-item">Labb 2b: Introduktion CSS</a>
-			<a href="/exercises.php?title=2" class="list-group-item">Labb 2a: Tabeller &amp; formulär</a>
-			<a href="/lectures.php?nr=3" class="list-group-item">Föreläsning 3: Tabeller &amp; formulär</a>
-			<a href="/lectures.php?nr=2" class="list-group-item">Föreläsning 2: Introduktion till HTML</a>
-			<a href="/lectures.php?nr=1" class="list-group-item">Föreläsning 1: Kursintroduktion</a>
+
 		</div>
 	</div>
 </div>
