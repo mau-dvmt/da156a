@@ -32,7 +32,7 @@
                 <tr class="laboration even">
                     <td>6/9</td>
                     <td>08-12</td>
-                    <td>Laboration 1: Enkel personlig webbsida</td>
+                    <td>Laboration 1: <a href="/exercises.php?title=1">Enkel personlig webbsida</a></td>
 					<td></td>
                 </tr>
 

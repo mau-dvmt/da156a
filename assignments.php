@@ -30,15 +30,15 @@
 			    </tr>
 			    <tr>
 					<td>30/9</td>
-                    <td><a href="/assignments.php?nr=1">Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</a></td>
+                    <td>Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</td>
 			    </tr>
 				<tr>
 					<td>21/10	</td>
-                    <td><a href="/assignments.php?nr=2">Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</a></td>
+                    <td>Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</td>
 			    </tr>
 				<tr>
 					<td>11/11</td>
-                    <td><a href="/assignments.php?nr=3">Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</a></td>
+                    <td>Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</td>
 			    </tr>
 			</table>
 		</div>
