@@ -2,7 +2,7 @@
 
 <h3>1. Inledning</h3>
 <p>Alla bör ha en personlig webbplats!</p>
-<p>Som student på Malmö högskola har du automatiskt möjlighet att publicera webbsidor på Internet. Det är vanligt att där skapa en startsida, med en presentation, kontaktinformation, länkar - och annat du känner för. Att skapa och publicera en egen presentationssida är alltså syftet för denna laboration!</p>
+<p>Som student på Malmö universitet har du automatiskt möjlighet att publicera webbsidor på Internet. Det är vanligt att där skapa en startsida, med en presentation, kontaktinformation, länkar - och annat du känner för. Att skapa och publicera en egen presentationssida är alltså syftet för denna laboration!</p>
 
 <h4>1.1. Exempel</h4>
 <p>Såhär har några (nuvarande och föredetta) lärare och forskare vid Institutionen för datavetenskap valt att göra med sina startsidor:</p>
@@ -51,16 +51,15 @@
         <p>En referens för att slå upp hur HTML skrivs.</p>
         <ul>
             <li>I kursboken <a href="http://www.bokfynd.nu/1118871642.html">HTML and CSS: Design and Build Websites</a> görs detta bra.</li>
-            <li>Sitepoint publicerar ett slags upppslagsverk för många aspekter kring HTML: <a href="http://reference.sitepoint.com/html">Sitepoint HTML Reference</a>.</li>
+            <li>Mozilla publicerar ett slags upppslagsverk för många aspekter kring HTML: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla HTML Reference</a>.</li>
         </ul>
     </li>
 </ul>
 
 <h4>3.2. Ett startdokument</h3>
-<p>
-    <strong>Om du använder en dator i skolan</strong>
-</p>
-<p>Du kanske har noterat att det finns nätverksplats som heter <code>Webshare</code> (L:\) när du öppnar "Den här datorn" (om platsen inte finns måste du aktivera tjänsten Webshare <a href="http://idservice.mah.se">här</a>). Detta är en speciell plats, då alla filer som läggs där i automatiskt blir tillgängliga över Internet. Om du redan provat att publicera filer via Webshare kan du hoppa till nästa rubrik. Annars bör du gå igenom följande steg för att testa på webbpublicering via Webshare:</p>
+<p>Börja med att aktivera <strong>tjänsten Webshare</strong> <a href="http://idservice.mah.se">här</a>.</p>
+<h5>3.2.1. Om du använder en dator i skolan (annars hoppa till 3.2.2.)</h5>
+<p>Du kanske har noterat att det finns nätverksplats som heter <code>Webshare</code> (L:\) när du öppnar "Den här datorn". Detta är en speciell plats, då alla filer som läggs där i automatiskt blir tillgängliga över Internet. Om du redan provat att publicera filer via Webshare kan du hoppa till nästa rubrik. Annars bör du gå igenom följande steg för att testa på webbpublicering via Webshare:</p>
 
     <ol>
     <li><p>En väldigt enkel webbsida är förberedd för er att använda. Källkoden för sidan är:</p>
@@ -94,20 +93,22 @@
     </ol>
 
 
-    <h5>3.2.1. Andra metoder för att komma åt hemkatalogen</h4>
+    <h5>3.2.2. Andra metoder för att komma åt hemkatalogen</h4>
 
     <ul>
-        <li>Hemkatalogen går även att komma åt via krypterad FTP. FTP är ett protokoll specialdesignat för att skicka och ta emot filer (därav namnet, File Transfer Protocol). Adressen är <code>ftpes://webshare.mah.se</code> och ditt vanliga datorid och lösenord används. <a href="http://filezilla-project.org/">FileZilla</a> (finns i datorsalarna) och <a href="http://cyberduck.ch/">Cyberduck</a> är två bra program som kan användas. Fråga gärna labbassistent om hjälp om detta är nytt för dig.</li>
+        <li>Hemkatalogen går även att komma åt via krypterad FTP. FTP är ett protokoll specialdesignat för att skicka och ta emot filer (därav namnet, File Transfer Protocol). Adressen är <code>ftpes://webshare.mah.se</code> och ditt vanliga datorid och lösenord används. <a href="http://filezilla-project.org/">FileZilla</a> (finns i datorsalarna) och <a href="http://cyberduck.ch/">Cyberduck</a> är två bra program som kan användas. Fråga gärna labbassistent om hjälp om detta är nytt för dig. Här finns en videoguide på hur ni kommer igång med Webshare:
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/zzyIxcUJgyk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </li>
         <li>
-            Det finns även <a href="http://access.mah.se">ett webbgränssnitt (men FTP rekommenderas starkt!).</a>.
+            Det finns även <a href="http://access.mah.se">ett webbgränssnitt</a> (men FTP rekommenderas starkt!).
         </li>
     </ul>
 
 
     <h3>4. Mer innehåll, mer HTML</h3>
-    <p>Nu när du har ett startdokument så kan det vara bra att repetera den grundläggande strukturen för HTML. Här finns artikel som kan vara bra att läsa:</p>
+    <p>Nu när du har ett startdokument så kan det vara bra att repetera den grundläggande strukturen för HTML. Här finns guide som kan vara bra att läsa:</p>
     <ol>
-        <li><a href="http://reference.sitepoint.com/html/page-structure">Basic Structure of a Web Page</a></li>
+        <li><a href="https://www.w3schools.com/html/html_intro.asp">w3schools - HTML introduction</a></li>
     </ol>
     <p>Med den genomgången är det dags för dig att fylla på med valfritt innehåll! </p>
     <p>Ett förslag är att du tänker dig målgruppen <em>lärare och studenter vid Malmö högskola</em> - vad vill dessa veta? Saker som kanske finns med på listan är ditt namn, vad du läser, en kort presentation av din bakgrund, kontakinformation, länkar till dina profiler på sociala nätverk, länkar till webbplatser som intresserar dig, bild(er) på dig eller något annat relevant, med mera. Det är förstås fritt att välja vad du inkluderar - men ju mer desto roligare.</p>
