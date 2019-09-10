@@ -69,9 +69,7 @@ Det kan även vara bra att undersöka hur <a href="http://reference.sitepoint.co
 <pre class="line-numbers language-css" data-type="css"><code class="language-css">a{
     /* Här definieras grundstilen för alla länkar */
 }
-a:visited{
-    /* Gäller bara besökta länkar */
-}
+
 a:hover, a:focus{
     /* Gäller bara när muspekaren är över (hover), eller när
     länken är markerad med hjälp av tangenbordet (focus) */
