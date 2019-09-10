@@ -29,6 +29,7 @@ include "_header.php";
 		</div>
 		<h2>Senaste händelser</h2>
 		<div class="list-group">
+			<a class="list-group-item" href="/lectures.php?nr=3">F3: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/exercises.php?title=2b">L2b: Intro CSS</a>
 			<a class="list-group-item" href="/exercises.php?title=2">L2a: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/lectures.php?nr=2">F2: Intro HTML</a>
