@@ -54,7 +54,7 @@
 				</tr>
 				<tr>
 					<td>5</td>
-					<td>Layout med HTML &amp; CSS</td>
+					<td><a href="/lectures.php?nr=5">Layout med HTML &amp; CSS</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>

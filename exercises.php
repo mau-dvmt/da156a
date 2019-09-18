@@ -41,7 +41,7 @@
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td>Layout med CSS</td>
+                    <td><a href="/exercises.php?title=3">Layout med CSS</a></td>
                     <td>Jesper, Zandra (, Anton)</td>
                 </tr>
                 <tr>

@@ -60,7 +60,7 @@
                     <td rowspan="3">38</td>
                     <td>17/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 5: Layout med CSS (1)</td>
+                    <td>Föreläsning 5: <a href="/lectures.php?nr=5">Layout med CSS (1)</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture even">
@@ -72,7 +72,7 @@
                 <tr class="laboration even">
                     <td>20/9</td>
                     <td>08-12</td>
-                    <td>Laboration 3: Layout med CSS</td>
+                    <td>Laboration 3: <a href="/exercises.php?title=3">Layout med CSS</a></td>
 					<td></td>
                 </tr>
 

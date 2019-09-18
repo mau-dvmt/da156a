@@ -113,3 +113,13 @@
 
 <h3>2. Validering och feedback</h3>
 <p>Som alltid, se till att dokumentet <a href="http://validator.w3.org/">validerar</a>. Använd <a href="http://jigsaw.w3.org/css-validator/">CSS-validatorn</a> för alla stilmallar. Be kursare och labbassistenter om feedback för en djupare bild av vad som är bra och dåligt.</p>
+
+<h3>3. Bonus - mer träning på layouter!</h3>
+<p>Gjorde du layouten med:</p>
+<ul>
+    <li><code>floats</code> - Toppen, testa att göra layouten med <code>grids</code> istället</li>
+    <li><code>grids</code> - Toppen, testa att göra layouten med <code>floats</code> istället</li>
+    <li><code>flexbox</code> - Toppen, testa att göra layouten med <code>floats</code> istället</li>
+    <li>etc. :)</li>
+</ul>
+<p>Tänk på att det är viktigt att behärska <strong>alla tre teknikerna</strong> för att bli en bra webbutvecklare!</p>
