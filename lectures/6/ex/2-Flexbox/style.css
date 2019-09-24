@@ -1,0 +1,31 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#container > img {
+    height: 200px;
+    flex-grow: 1;
+    object-fit: cover;
+    margin: 5px;
+}
+
+.bigger {
+    flex-grow: 3 !important;
+}
+
+#menu {
+    display: flex;
+    background-color: yellow;
+}
+
+#menu > a {
+    padding: 10px;
+    background-color: aqua;
+    margin: 2px;
+}
+
+#menu > input {
+    margin-left: auto;
+}

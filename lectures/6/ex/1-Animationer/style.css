@@ -1,0 +1,101 @@
+body {
+    background-color: #eee;
+}
+
+#images {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f0f9ff+0,cbebff+47,a1dbff+100;Blue+3D+%2313 */
+    background: #f0f9ff; /* Old browsers */
+    background: -moz-linear-gradient(top, #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
+
+    overflow: hidden;
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+    box-shadow: 0 0 10px #666;
+    padding: 20px;
+}
+
+#images > figure {
+    width: 20%;
+    margin: 20px 2.5%;
+    float: left;
+
+    -moz-transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+    -o-transform: rotate(10deg);
+    -ms-transform: rotate(10deg);
+    transform: rotate(10deg);
+
+    border: 5px solid white;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #666;
+
+    transition: all 0.5s;
+
+    opacity: 0.5;
+}
+
+#images > figure > img {
+    display: block;
+}
+
+#images > figure > figcaption {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+
+    height: 0px;
+    overflow: hidden;
+
+    transition: all 0.5s;
+}
+
+#images > figure:hover {
+    -moz-transform: rotate(-10deg);
+    -webkit-transform: rotate(-10deg);
+    -o-transform: rotate(-10deg);
+    -ms-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+
+    opacity: 1;
+}
+
+#images > figure:hover figcaption {
+    height: 30px;
+    line-height: 30px;
+}
+
+#box-btn {
+    width: 200px;
+    background-color: aqua;
+    margin: 20px auto;
+    padding: 20px;
+    border: 5px solid white;
+    box-shadow: 0 0 10px #aaa;
+    cursor: pointer;
+}
+
+#box-btn:active + #box {
+    animation: run 10s infinite;
+}
+
+#box {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    left: 0px;
+
+    position: relative;
+}
+
+@keyframes run {
+    0% {background-color: red; left:0px}
+    50% {background-color: #a1dbff; left: calc(100% - 50px)}
+    100% {background-color: red; left:0px}
+}

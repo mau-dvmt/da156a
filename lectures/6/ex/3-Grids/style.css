@@ -1,40 +1,36 @@
 #grid {
     display: grid;
-    grid-template-columns: 100px 1fr 100px;
     grid-template-rows: auto auto auto;
+    grid-template-columns: 25% 50% 25%;
     grid-gap: 10px;
-    grid-template-areas:    
+    grid-template-areas: 
         "header header header"
         "nav main aside"
         "footer footer footer"
-    ;
-}
-
-#grid > * {
-    min-height: 100px;
 }
 
 #grid > header {
-    background-color: lightblue;
     grid-area: header;
+    background-color: aqua;
 }
 
 #grid > footer {
-    background-color: lightblue;
     grid-area: footer;
-}
-
-#grid > nav {
-    background-color: aquamarine;
-    grid-area: nav;
-}
-
-#grid > main {
-    background-color: blueviolet;
-    grid-area: main;
+    background-color: bisque;
 }
 
 #grid > aside {
-    background-color: chartreuse;
     grid-area: aside;
+    background-color: burlywood;
+}
+
+#grid > nav {
+    grid-area: nav;
+    background-color: darkgreen;
+    height: 200px;
+}
+
+#grid > main {
+    grid-area: main;
+    background-color: yellow;
 }
