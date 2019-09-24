@@ -80,7 +80,7 @@
                     <td rowspan="4">39</td>
                     <td>24/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 7: Responsiv webbutveckling</td>
+                    <td>Föreläsning 7: <a href="/lectures.php?nr=7">Responsiv webbutveckling</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture odd">

@@ -64,7 +64,7 @@
 				</tr>
 				<tr>
 					<td>7</td>
-					<td>Responsiv webbdesign</td>
+					<td><a href="/lectures.php?nr=7">Responsiv webbdesign</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
