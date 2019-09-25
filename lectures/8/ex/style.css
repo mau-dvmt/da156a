@@ -1,239 +1,224 @@
 body {
-    margin: 0px;
-    font-family: 'Montserrat', sans-serif;
-    background-image: url("images/brushed.png");
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(images/brushed.png);
+
 }
 
-body > header {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
-    background: #45484d; /* Old browsers */
-    background: -moz-linear-gradient(top, #45484d 0%, #000000 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
-
-    height: 50px;
-    line-height: 50px;
+#wrapper > header {
     position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    box-shadow: 0 0 10px #000;
+    left: 0px;
+    right: 0px;
+    box-shadow: 0 0 10px #666;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
+    background: #45484d; /* Old browsers */
+    background: -moz-linear-gradient(top,  #45484d 0%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
 }
 
-#navigation {
-    width: auto;
+#wrapper nav {
+    display: flex;
     max-width: 1200px;
     margin: auto;
 }
 
-#logo {
-    float: left;
-    display: block;
+#wrapper nav a {
     color: #eee;
     text-decoration: none;
+    line-height: 50px;
+    padding: 0 15px;
 }
 
-#menu {
-    float: right;
-}
-
-#menu > a {
-    display: block;
-    float: left;
-    color: #eee;
-    text-decoration: none;
-    padding: 0 20px;
+#wrapper nav input {
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 0px;
+    padding-left: 5px;
+    width: 150px;
     transition: 0.5s all;
 }
 
-#menu > a:hover {
-    background-color: #000;
+#wrapper nav input:focus {
+    width: 200px;
 }
 
-#menu > input {
-    height: 40px;
-    border-radius: 5px;
-    border: 0px;
-    padding-left: 10px;
+#wrapper nav a:hover {
+    background-color: #000000;
+}
+
+#wrapper nav > a:first-child {
+    margin-right: auto;
+}
+
+#menu {
+    display: flex;
 }
 
 #jumbo {
-    height: 450px;
-    background-image: url("images/starwars-fanart.jpg");
+    height: 400px;
+    padding-top: 50px;
+    background-image: url(images/starwars-fanart2.jpg);
     background-position: center;
-    border-bottom: 10px solid #000;
-    box-shadow: 0 0 10px #000;
 
     display: flex;
     justify-content: center;
     align-items: center;
+
+    border-bottom: 10px solid #000;
+    box-shadow: 0 0 10px #666;
 }
 
 #jumbo > article {
+    background-color: rgba(255, 255, 255, 0.8);
     width: 50%;
-    background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 20px;
     padding: 20px;
-    box-sizing: border-box;
-    text-align: center;
-    opacity: 0;
-    transition: 0.5s all;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #666;
 }
 
-#jumbo:hover article {
-    opacity: 1;
+#jumbo > article > h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
 }
 
 #jumbo > article > a {
     display: block;
-    width: 200px;
     background-color: #333;
-    color: #eee;
-    margin: auto;
+    color: #fff;
+    margin: 20px auto 0 auto;
+    width: 50%;
+    text-align: center;
     padding: 10px;
+    box-shadow: 0 0 5px #666;
 }
 
-#movies {
+#wrapper > main {
     display: flex;
     flex-wrap: wrap;
-
-    width: auto;
     max-width: 1200px;
     margin: auto;
 }
 
-#movies > h2 {
+#wrapper > main > h1 {
     width: 100%;
+    font-size: 36px;
+    font-weight: bold;
     border-bottom: 2px solid #000;
-    padding: 15px 0;
+    margin: 20px 0;
 }
 
-#movies > figure {
+#wrapper > main > figure {
     width: 23%;
     margin: 1%;
-    box-shadow: 0 0 5px #333;
+
+    border: 1px solid #000;
+    box-sizing: border-box;
     background-color: #fff;
-    transition: 0.5s all;
-    font-size: 12px;
+    box-shadow: 0 0 5px #666;
 }
 
-#movies > figure:hover {
-    width: 25%;
-    margin: 0%;
-    box-shadow: 0 0 15px #000;
-    font-size: 14px;
-}
-
-#movies > figure > h3 {
+#wrapper > main > figure > h3 {
     background-color: #000;
     color: #eee;
-    margin: 0px;
-    text-align: center;
-    padding: 10px 0;
+    padding: 5px;
 }
 
-#movies > figure > img {
+#wrapper > main > figure > img {
     float: left;
     margin-right: 5px;
-    height: cal(100%-25px);
 }
 
-#movies > figure > figcaption {
-    /* font-size: 12px; */
+#wrapper > main > figure > p {
+    font-size: 14px;
+    padding: 5px;
 }
 
-body > footer {
+#wrapper > footer {
+    margin-top: 20px;
     background-color: #000;
-    color: #eee;
-    box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 5px #666;
 }
 
-#footer-navigation {
-    width: auto;
+#wrapper > footer a, #wrapper > footer h4, #wrapper > footer p {
+    color: #fff;
+}
+
+#wrapper > footer h4 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#wrapper > footer > article {
     max-width: 1200px;
-    margin: 25px auto 0px auto;
+    margin: auto;
+    padding: 20px;
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-#footer-navigation a {
-    color: #eee;
-}
-
-#menu-trigger {
+.mobile-only {
     display: none;
 }
 
-@media screen and (max-width: 1000px) {
-    #movies > figure {
-        width: 31.3%;
+@media screen and (max-width: 900px) {
+    #wrapper > main > figure {
+        width: 31.33333333333333%;
     }
 }
 
-@media screen and (max-width: 650px) {
-    #movies > figure {
-        width: 48%;
-    }
-}
-
-@media screen and (max-width: 540px) {
-    #jumbo {
-        background-size: cover;
+@media screen and (max-width: 600px) {
+    .mobile-only {
+        display: block;
     }
 
-    #movies > figure {
-        width: 100%;
-        margin: 10px 0;
-    }
-
-    #footer-navigation {
-        grid-template-columns: 1fr;
-    }
-
-    #jumbo > article {
-        width: 90%;
-    }
-
-    #logo {
-        padding-left: 5px;
+    #wrapper > header > nav {
+        flex-direction: column;
     }
 
     #menu {
-        position: fixed;
-        top: 50px;
-        left: 0px;
-        right: 0px;
-        background-color: #000;
+        flex-direction: column;
+    }
 
+    #wrapper nav input {
+        width: 96%;
+        margin: 2%;
+        padding: 10px;
+    }
+
+    #wrapper nav input:focus {
+        width: 96%;
+    }
+
+    #menu-btn {
+        position: fixed;
+        right: 0px;
+        top: 0px;
+    }
+
+    #menu {
         height: 0px;
         overflow: hidden;
         transition: 0.5s all;
     }
 
-    #menu > a {
+    #menu-btn:focus + #menu, #menu:hover {
+        height: 200px;
+    }
+
+    #jumbo > article {
+        width: 80%;
+    }
+
+    #wrapper > main > figure {
         width: 100%;
-        float: none;
     }
 
-    #menu > input {
-        width: 99%;
-    }
-
-    #menu-trigger {
-        float: right;
-        color: #eee;
-        text-decoration: none;
-        padding-right: 5px;
-        display: block;
-    }
-
-    #menu-trigger img {
-        max-width: 50px;
-    }
-
-    #menu-trigger:focus + #menu, #menu:hover {
-        height: 220px;
+    #wrapper > footer > article {
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
     }
 }
