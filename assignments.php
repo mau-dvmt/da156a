@@ -34,7 +34,7 @@
 			    </tr>
 				<tr>
 					<td>21/10	</td>
-                    <td>Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</td>
+                    <td>Inlämningsuppgift 2 - <a href="/assignments.php?nr=2">Layout med CSS &amp; JavaScript</a></td>
 			    </tr>
 				<tr>
 					<td>11/11</td>

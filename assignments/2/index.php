@@ -135,7 +135,7 @@ $(document).ready(function(){
 
 <h3>4. Redovisning</h3>
 
-<p>Ditt resultat ska publiceras på <strong>WebShare och länken till startsidan lämnas in på Canvas</strong>. Till inlämningen ska du även bifoga en kopia på <strong>alla webbplatsens filer i en ZIP-fil</strong>. Deadline är söndagen den 21/10, klockan 23:59. Vid senare inlämning bedöms resultatet i samband med inlämningsuppgift 3.</p>
+<p>Ditt resultat ska publiceras på <strong>WebShare och länken till startsidan lämnas in på Canvas</strong>. Till inlämningen ska du även bifoga en kopia på <strong>alla webbplatsens filer i en ZIP-fil</strong>. Deadline är söndagen den 20/10, klockan 23:59. Vid senare inlämning bedöms resultatet i samband med inlämningsuppgift 3.</p>
 
 
 <h3>5. Notis om individuellt genomförande</h4>
