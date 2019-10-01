@@ -51,7 +51,7 @@
                 </tr>
                 <tr>
                     <td>5</td>
-                    <td>JavaScript och ramverk</td>
+                    <td><a href="/exercises.php?title=5">JavaScript och ramverk</a></td>
                     <td>Jesper, Zandra (, Anton)</td>
                 </tr>
 			</table>
