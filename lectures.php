@@ -79,22 +79,22 @@
 				</tr>
 				<tr>
 					<td>10</td>
-					<td>Ramverk och bibliotek</td>
+					<td><a href="/lectures.php?nr=10">Ramverk och bibliotek</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>11</td>
-					<td>Introduktion till användbarhet</td>
+					<td><a href="/lectures.php?nr=11">Introduktion till användbarhet</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>12</td>
-					<td>Användbarhet: Fokus IT</td>
+					<td><a href="/lectures.php?nr=12">Användbarhet: Fokus IT</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>13</td>
-					<td>Sammanfattning av kursen</td>
+					<td><a href="#" title="Ingen presenation / kod finns för detta tillfälle">Ni väljer! =)</a></td>
 					<td>Anton</td>
 				</tr>
             </table>

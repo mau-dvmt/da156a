@@ -11,7 +11,7 @@
     <li>Webbplatsens användbarhet ska förbättras.</li>
 </ol>
 <p>Webbplatsen ni ska förbättra heter ”MovieLovers” och är gjord av en hobbyfilmklubb. Målet med webbplatsen är att dela med sig av filmerfarenheter till andra filmfantaster. Sidan är uppbyggd med XHTML och ska moderniseras till HTML5. Dessutom använder många av sidans besökare sin mobiltelefon för att besöka den, så webbplatsen behöver även vara anpassad för sådana, mindre skärmar. Eftersom att webbplatsen är skapad av en hobbyfilmklubb så har det inte varit något fokus vid webbplatsens användbarhet (då kunskap inom detta område saknats), så en liten analys och förbättring av användbarheten ska också göras.</p>
-<p>Hur du löser uppgiften är upp till dig. Du kan antingen uppdatera källkoden där det behövs, skriva om delar av webbplatsen eller skapa en helt ny webbplats. Det är helt valfritt om man vill ändra layout på sidan, byta färger, ändra i menyn, byta rubriker eller strukturera om innehållet. Filmklubben ger dig fria tyglar helt enkelt.</p>
+<p>Hur du löser uppgiften är upp till dig. Du kan antingen uppdatera källkoden där det behövs, skriva om delar av webbplatsen eller skapa en helt ny webbplats. Det är helt valfritt om man vill ändra layout på sidan, byta färger, ändra i menyn, byta rubriker eller strukturera om innehållet. Filmklubben ger dig <strong>fria tyglar</strong> helt enkelt.</p>
 <p>Länk till den nuvarande webbplatsen finns här: <a href="http://dvwebb.mah.se/tsanti/HT2012/DA156A/Inl3/index.html">    dvwebb.mah.se/tsanti/HT2012/DA156A/Inl3/</a>
 </p>
 <p>Du kan också ladda ner <a href="/assignments/3/Inl3.zip">hela webbplatsen</a>.</p>
@@ -23,7 +23,7 @@
 <p>Sidan ska med hjälp av Media Queries anpassas så att den passar både vanliga datorskärmar och smala skärmar (t.ex. mobiltelefonskärmar). Använd minst en brytpunkt.</p>
 
 <h4>1.3. Användbarhet</h4>
-<p>Webbplatsen ska analyseras från ett användbarhetsperspektiv. Ni ska göra minst tre förbättringar, som ska beskriver beskrivas och motiveras som en del av inlämningen (som en <code>PDF</code>-fil som bifogas på It's Learning).</p>
+<p>Webbplatsen ska analyseras från ett användbarhetsperspektiv. Ni ska göra minst tre förbättringar, som ska beskriver beskrivas och motiveras som en del av inlämningen (som en <code>PDF</code>-fil som bifogas på Canvas).</p>
 
 <h3>2. Teknisk kravspecifikation</h3>
 <ul>
@@ -36,4 +36,4 @@
 </ul>
 
 <h3>3. Redovisning</h3>
-<p>Ditt resultat ska publiceras på WebShare och länken till startsidan ska lämnas in på Canvas. Till inlämningen ska du även bifoga en kopia på webbplatsens alla filer samt ett dokument där du beskriver vad du gjort för användbarhetsförbättringar (och motivera varför). Deadline är 11/11, 23:55.</p>
+<p>Ditt resultat ska publiceras på WebShare och länken till startsidan ska lämnas in på Canvas. Till inlämningen ska du även bifoga en kopia på webbplatsens alla filer samt ett dokument där du beskriver vad du gjort för användbarhetsförbättringar (och motivera varför). Deadline är 10/11, 23:55.</p>

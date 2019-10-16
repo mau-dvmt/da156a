@@ -1,0 +1,11 @@
+body {
+    font-family: 'Dancing Script', cursive;
+}
+
+body > .navbar {
+    box-shadow: 0 0 10px #333;
+}
+
+body > .container {
+    margin-top: 20px;
+}
