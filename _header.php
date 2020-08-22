@@ -6,7 +6,7 @@
     <meta name="description" content="Webbplats för kursen Webbutveckling: Grundkurs för Malmö Högskola">
     <meta name="author" content="Anton Tibblin">
     <link rel="shortcut icon" href="favicon.ico">
-    <title>Introduktion till webbutveckling (DA156A) - Malmö Högskola</title>
+    <title>Introduktion till webbutveckling (DA106A) - Malmö Högskola</title>
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 	<!-- Lightbox -->
@@ -22,6 +22,18 @@
       <script src="javascript/html5shiv.js"></script>
       <script src="javascript/respond.min.js"></script>
     <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118279136-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118279136-7');
+</script>
+
+
 	<!-- jQuery -->
 	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 	<!-- Bootstrap js -->
@@ -35,16 +47,6 @@
 	<!-- Own scripts -->
 	<script src="javascript/script.js"></script>
 	<!-- Google analytics -->
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-43126663-5', 'auto');
-	  ga('send', 'pageview');
-
-	</script>
   </head>
 
   <body>
@@ -58,7 +60,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">DA156A: Webbutveckling</a>
+          <a class="navbar-brand" href="/">DA106A: Webbutveckling</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -77,7 +79,7 @@
     <div class="container">
 		<div class="row pageTitle">
 			<div class="col-lg-8">
-				<h1>Introduktion till webbutveckling (DA156A)</h1>
+				<h1>Introduktion till webbutveckling (DA106A)</h1>
 			</div>
 			<div class="col-lg-4">
 				<img src="images/MAU_SV_main_BLACK.png" alt="Malmö Högskola">

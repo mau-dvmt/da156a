@@ -13,7 +13,7 @@ include "_header.php";
 			Duckets bok har en blandning &quot;hur&quot; och &quot;varför&quot;, med fokus på det första.
 		</p>
 		<p>
-			I just <a href="http://edu.mah.se/sv/Course/da156a#Syllabus">denna kurs</a> rekommenderas ytterligare två böcker:
+			I just <a href="http://edu.mah.se/sv/Course/da106a#Syllabus">denna kurs</a> rekommenderas ytterligare två böcker:
 		</p>
 		<ul>
 			<li>
