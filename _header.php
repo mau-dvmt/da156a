@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Webbplats för kursen Webbutveckling: Grundkurs för Malmö Högskola">
+    <meta name="description" content="Webbplats för kursen Introduktion till webbutveckling för Malmö universitet">
     <meta name="author" content="Anton Tibblin">
     <link rel="shortcut icon" href="favicon.ico">
-    <title>Introduktion till webbutveckling (DA106A) - Malmö Högskola</title>
+    <title>Introduktion till webbutveckling (DA106A) - Malmö universitet</title>
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 	<!-- Lightbox -->

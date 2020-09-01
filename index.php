@@ -27,9 +27,9 @@ include "_header.php";
 			<a class="list-group-item" href="https://canvas.mau.se" target="_blanc">Canvas</a>
 			<a class="list-group-item" href="http://edu.mah.se/DA106A#Syllabus" target="_blanc">Kursplan</a>
 		</div>
-		<!--
+
 		<h2>Senaste händelser</h2>
-		-->
+		
 		<div class="list-group">
 			<!--
 			<a class="list-group-item" href="/assignments.php?nr=3">I3: Inlämning 3</a>
@@ -52,8 +52,8 @@ include "_header.php";
 			<a class="list-group-item" href="/exercises.php?title=2">L2a: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/lectures.php?nr=2">F2: Intro HTML</a>
 			<a class="list-group-item" href="/exercises.php?title=1">L1: En första webbsida</a>
-			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kurslintroduktion</a>
 			-->
+			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kurslintroduktion</a>
 		</div>
 	</div>
 </div>
