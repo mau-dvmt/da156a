@@ -26,13 +26,13 @@
                 <tr class="lecture even">
                     <td>2/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 2: Introduktion till HTML</td>
+                    <td>Föreläsning 2: <a href="/lectures.php?nr=2">Introduktion till HTML</a></td>
 					<td>HTML &amp; CSS: Kap. 1-5</td>
                 </tr>
                 <tr class="laboration even">
                     <td>4/9</td>
                     <td>08-12</td>
-                    <td>Laboration 1: Enkel personlig webbsida</td>
+                    <td>Laboration 1: <a href="/exercises.php?title=1">Enkel personlig webbsida</a></td>
 					<td></td>
                 </tr>
 
