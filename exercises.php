@@ -36,7 +36,7 @@
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td>a) Formulär &amp; <a href="/exercises.php?title=2">tabeller</a>, b) <a href="/exercises.php?title=2b">Introduktion till CSS</a></td>
+                    <td>a) <a href="/exercises.php?title=2">Formulär &amp; tabeller</a>, b) <a href="/exercises.php?title=2b">Introduktion till CSS</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
