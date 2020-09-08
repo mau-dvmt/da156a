@@ -40,7 +40,7 @@
                     <td rowspan="3">37</td>
                     <td>8/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 3: Tabell &amp; formulär</td>
+                    <td>Föreläsning 3: <a href="/lectures.php?nr=3">Tabell &amp; formulär</a></td>
 					<td>HTML &amp; CSS: Kap. 6-7</td>
                 </tr>
                 <tr class="lecture odd">

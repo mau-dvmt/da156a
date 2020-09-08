@@ -2,127 +2,137 @@
 
 <hr>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/pMEZSMdE1hZvWD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht19-da156a-tabeller-formulr" title="HT19 - DA156A - Tabeller &amp; formulär" target="_blank">HT19 - DA156A - Tabeller &amp; formulär</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/d35e1be87454422785526ee9b3b67076" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 <hr>
 
-<a href="/resources/pdf/3.pdf">Ladda ner föreläsningen här</a>
+<a href="/resources/pdf/F3-Tabeller-formular.pdf">Ladda ner föreläsningen här</a>
 
 <h3>Dagens exempel</h3>
 
 <h4>table.html</h4>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
-&lt;!doctype html&gt;
+&lt;!DOCTYPE html&gt;
 &lt;html&gt;
     &lt;head&gt;
         &lt;meta charset=&quot;utf-8&quot;&gt;
-        &lt;title&gt;Min fina tabellsida&lt;/title&gt;
+        &lt;title&gt;Informationsarkitektprogrammet&lt;/title&gt;
     &lt;/head&gt;
     &lt;body&gt;
-        &lt;h1&gt;&Ouml;versikt &ouml;ver programmet informationsarkitekt&lt;/h1&gt;
+
         &lt;table border=&quot;1&quot;&gt;
+            &lt;caption&gt;&Ouml;versikt av IA-programmets f&ouml;rsta temin&lt;/caption&gt;
             &lt;thead&gt;
                 &lt;tr&gt;
                     &lt;th&gt;&Aring;r&lt;/th&gt;
-                    &lt;th&gt;LP 1&lt;/th&gt;
-                    &lt;th&gt;LP 2&lt;/th&gt;
-                    &lt;th&gt;LP 3&lt;/th&gt;
-                    &lt;th&gt;LP 4&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 1&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 2&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 3&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 4&lt;/th&gt;
                 &lt;/tr&gt;
             &lt;/thead&gt;
             &lt;tbody&gt;
                 &lt;tr&gt;
-                    &lt;th rowspan=&quot;2&quot;&gt;1&lt;/th&gt;
+                    &lt;td rowspan=&quot;2&quot;&gt;1&lt;/td&gt;
                     &lt;td&gt;Introduktion till webbutveckling&lt;/td&gt;
-                    &lt;td&gt;Introduktion till interaktiondesign&lt;/td&gt;
+                    &lt;td&gt;Introduktion till programmering&lt;/td&gt;
                     &lt;td&gt;Databasteknik&lt;/td&gt;
-                    &lt;td&gt;Informationsarkitektur I&lt;/td&gt;
+                    &lt;td&gt;Informationsarkitektur f&ouml;r flerplattformer&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
-                    &lt;td&gt;Introduktion till datavetenskap&lt;/td&gt;
-                    &lt;td&gt;Introduktion till programmering&lt;/td&gt;
+                    &lt;!-- H&auml;r kommer 1:n att l&auml;ggas in automatiskt --&gt;
+                    &lt;td&gt;Introduktion datavetenskap&lt;/td&gt;
+                    &lt;td&gt;Interkationsdesign f&ouml;r informationsarkitekter&lt;/td&gt;
                     &lt;td colspan=&quot;2&quot;&gt;Systemutveckling och projekt I&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
-                    &lt;th rowspan=&quot;2&quot;&gt;2&lt;/th&gt;
+                    &lt;td rowspan=&quot;2&quot;&gt;2&lt;/td&gt;
                     &lt;td&gt;OOP och modellering f&ouml;r IA&lt;/td&gt;
                     &lt;td&gt;Webbtj&auml;nster&lt;/td&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Metodik f&ouml;r m&auml;tning av anv&auml;ndbarhet&lt;/td&gt;
+                    &lt;td&gt;Utv&auml;rderingsmetoder f&ouml;r anv&auml;ndarupplevelse&lt;/td&gt;
+                    &lt;td&gt;Flerplattformersapplikationer med webbtekniker&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
-                    &lt;td&gt;Informationsarkitektur II&lt;/td&gt;
+                    &lt;td&gt;Information bortom sk&auml;rmar&lt;/td&gt;
                     &lt;td&gt;Informationsdesign&lt;/td&gt;
                     &lt;td&gt;Informationss&auml;kerhet&lt;/td&gt;
-                    &lt;td&gt;Flerplattformsapplikationer med webbtekniker&lt;/td&gt;
+                    &lt;td&gt;Forskningsmetodik&lt;/td&gt; 
                 &lt;/tr&gt;
                 &lt;tr&gt;
-                    &lt;th rowspan=&quot;2&quot;&gt;3&lt;/th&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Examensprojekt IA&lt;/td&gt;
+                    &lt;td rowspan=&quot;2&quot;&gt;3&lt;/td&gt;
+                    &lt;td colspan=&quot;2&quot;&gt;Examensprojekt&lt;/td&gt;
                     &lt;td colspan=&quot;2&quot;&gt;Examensarbete&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Valbara kurser&lt;/td&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Valbara kurser&lt;/td&gt;
+                    &lt;td colspan=&quot;4&quot;&gt;Valbara kurser&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/tbody&gt;
             &lt;tfoot&gt;
                 &lt;tr&gt;
-                    &lt;td colspan=&quot;5&quot;&gt;L&auml;s mer h&auml;r: &lt;a href=&quot;https://edu.mah.se/tgiaa&quot;&gt;Utbildningsplan IA&lt;/a&gt;&lt;/td&gt;
+                    &lt;td colspan=&quot;5&quot;&gt;L&auml;s mer om programmet h&auml;r: &lt;a href=&quot;https://edu.mah.se/tgiaa&quot;&gt;https://edu.mah.se/tgiaa&lt;/a&gt;&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/tfoot&gt;
         &lt;/table&gt;
+
     &lt;/body&gt;
 &lt;/html&gt;</code></pre>
 
 <h4>form.html (1)</h4>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
-&lt;!doctype html&gt;
+&lt;!DOCTYPE html&gt;
 &lt;html&gt;
     &lt;head&gt;
         &lt;meta charset=&quot;utf-8&quot;&gt;
-        &lt;title&gt;Min fina formul&auml;rsida&lt;/title&gt;
+        &lt;title&gt;Exempelformul&auml;r&lt;/title&gt;
     &lt;/head&gt;
     &lt;body&gt;
+
         &lt;h1&gt;Logga in&lt;/h1&gt;
-        &lt;form action=&quot;index.html&quot; method=&quot;get&quot;&gt;
-            &lt;label for=&quot;username&quot;&gt;Anv&auml;ndarnamn:&lt;/label&gt;
-            &lt;input type=&quot;text&quot; name=&quot;username&quot; placeholder=&quot;Skriv ditt anv&auml;ndarnamn h&auml;r...&quot; id=&quot;username&quot;&gt;
-            &lt;br&gt;
-            &lt;label for=&quot;password&quot;&gt;L&ouml;senord&lt;/label&gt;
-            &lt;input type=&quot;password&quot; name=&quot;password&quot; id=&quot;password&quot;&gt;
-            &lt;br&gt;
-            &lt;p&gt;Vilka skolor har du pluggat vid?&lt;/p&gt;
+
+        &lt;form action=&quot;form.html&quot; method=&quot;post&quot;&gt;
             &lt;p&gt;
-                &lt;input type=&quot;checkbox&quot; name=&quot;school&quot; value=&quot;Malmo&quot; id=&quot;malmo&quot;&gt; &lt;label for=&quot;malmo&quot;&gt;Malm&ouml; universitet&lt;/label&gt;
-                &lt;br&gt;
-                &lt;input type=&quot;checkbox&quot; name=&quot;school&quot; value=&quot;Lund&quot;&gt; Lund universitet
-                &lt;br&gt;
-                &lt;input type=&quot;checkbox&quot; name=&quot;school&quot; value=&quot;Mitt&quot;&gt; Mittuniversitetet
+                &lt;label for=&quot;username-input&quot;&gt;Anv&auml;ndarnamn:&lt;/label&gt;
+                &lt;input type=&quot;text&quot; name=&quot;username&quot; id=&quot;username-input&quot; placeholder=&quot;Skriv ditt anv&auml;ndarnam h&auml;r...&quot;&gt;
             &lt;/p&gt;
-            &lt;input type=&quot;submit&quot; value=&quot;Logga in&quot;&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;password-input&quot;&gt;L&ouml;senord: &lt;/label&gt;
+                &lt;input type=&quot;password&quot; name=&quot;password&quot; id=&quot;password-input&quot; placeholder=&quot;Skriv ditt l&ouml;senord h&auml;r...&quot;&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;agree-input&quot;&gt;Jag godk&auml;nner vilkoren&lt;/label&gt;
+                &lt;input type=&quot;checkbox&quot; name=&quot;agree&quot; id=&quot;agree-input&quot;&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;input type=&quot;submit&quot; value=&quot;Logga in&quot;&gt;
+            &lt;/p&gt;
         &lt;/form&gt;
+
     &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
 
 
-<h4>form.html (2)</h4>
+<h4>form.html (2) - Gästboken</h4>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
-&lt;!doctype html&gt;
+&lt;!DOCTYPE html&gt;
 &lt;html&gt;
     &lt;head&gt;
         &lt;meta charset=&quot;utf-8&quot;&gt;
-        &lt;title&gt;Min fina formul&auml;rsida&lt;/title&gt;
+        &lt;title&gt;G&auml;stboksformul&auml;r&lt;/title&gt;
     &lt;/head&gt;
     &lt;body&gt;
-        &lt;h1&gt;Logga in&lt;/h1&gt;
-        &lt;form action=&quot;http://mah.antontibblin.se/ia-gb/new-post&quot; method=&quot;post&quot;&gt;
-            &lt;label for=&quot;name&quot;&gt;Namn: &lt;/label&gt;
-            &lt;input type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot;&gt;
-            &lt;label for=&quot;message&quot;&gt;Meddelande: &lt;/label&gt;
-            &lt;textarea name=&quot;message&quot; id=&quot;message&quot;&gt;&lt;/textarea&gt;
-            &lt;input type=&quot;submit&quot; value=&quot;Skapa inl&auml;gg&quot;&gt;  
-        &lt;/form&gt;
+        &lt;form action=&quot;http://mah.antontibblin.se/ia-gb/new-post&quot; method=&quot;POST&quot;&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;input-name&quot;&gt;Namn: &lt;/label&gt;
+                &lt;input type=&quot;text&quot; id=&quot;input-name&quot; name=&quot;name&quot; required&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;input-message&quot;&gt;Meddelande&lt;/label&gt;
+                &lt;textarea id=&quot;input-message&quot; name=&quot;message&quot; required&gt;&lt;/textarea&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;input type=&quot;submit&quot; value=&quot;Skapa inl&auml;gg&quot;&gt;
+            &lt;/p&gt;
         &lt;/form&gt;
     &lt;/body&gt;
 &lt;/html&gt;
