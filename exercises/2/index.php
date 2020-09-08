@@ -93,7 +93,7 @@
 </ul>
 
 <h3>6. Validering &amp; feedback</h3>
-<p>Som alltid, se till att dokumentet <a href="http://validator.w3.org/">validerar</a>. Be kursare och labbassistenter om feedback för en djupar bild av vad som är bra och dåligt. </p>
+<p>Som alltid, se till att dokumentet <a href="http://validator.w3.org/">validerar</a>. Be kursare och labbassistenter om feedback om du känner dig osäker för en djupar bild av vad som är bra och dåligt. </p>
 <p>När du är nöjd med formulär- och tabellskapandet kan du fortsätta till <a href="/exercises.php?title=2b">del två, om CSS</a>!</p>
 
 <hr>
