@@ -49,12 +49,12 @@
 				</tr>
 				<tr>
 					<td>4</td>
-					<td>Introduktion till CSS</td>
+					<td><a href="/lectures.php?nr=4">Introduktion till CSS</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>5</td>
-					<td>Layout med HTML &amp; CSS</td>
+					<td><a href="/lectures.php?nr=5">Layout med HTML &amp; CSS (1)</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>

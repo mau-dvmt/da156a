@@ -14,7 +14,7 @@
 <h3>3. Uppgift</h3>
 <p>I denna laboration ska du utgå ifrån ett färdigt HTML-dokument för att gradvis bygga på detta med CSS. På vägen kommer du att stöta på många av de grundläggande koncept som krävs för att utforma webbsidor.</p>
 
-<p>Börja med att spara hem detta <a href="/exercises/2b/forskning.html">HTML-dokument</a> (högerklicka, välj &#8220;Spara som&#8221; eller motsvarande, alternativt kopiera källkoden). Studera hur detta dokument är uppbyggt - HTML-strukturen är viktigt för hur CSS-reglerna ska utformas.</p>
+<p><strong>Börja med att spara hem detta <a href="/exercises/2b/forskning.html">HTML-dokument</a></strong> (högerklicka, välj &#8220;Spara som&#8221; eller motsvarande, alternativt kopiera källkoden). Studera hur detta dokument är uppbyggt - HTML-strukturen är viktigt för hur CSS-reglerna ska utformas.</p>
 
 <p>När du öppnar dokumentet i en webbläsare så kommer du finna att det inte är så visuellt tilltalande. Detta kan avhjälpas med stilmall skriven i CSS! Genom en sådan stilmall kan webbläsarens standardvärde för presentation överskrivas och eget utseende definieras. Först krävs en plats att skriva CSS på - detta kan göras med elementet <code>style</code>, som infogas inom head:</p>
 
