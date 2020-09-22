@@ -2,15 +2,19 @@
 
 <hr>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/GLbTFjhUzLfouf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht19-da156a-layout-med-css-2" title="HT19 - DA156A - Layout med CSS (2)" target="_blank">HT19 - DA156A - Layout med CSS (2)</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/cee981b24d3e444c948a7c7dfcfbad7c" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 <hr>
 
-<a href="/resources/pdf/6.pdf">Ladda ner föreläsningen här</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yoSPsczbBKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<a href="/resources/pdf/6-2020.pdf">Ladda ner föreläsningen här</a>
 
 <h3>Dagens exempel</h3>
 
-<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/6/ex.zip">här</a></p>
+<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/6/ex-2020.zip">här</a></p>
 
 <hr>
 

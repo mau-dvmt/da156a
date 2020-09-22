@@ -2,10 +2,14 @@
 
 <hr>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/dJf3cDBzc0hsPT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht19-da156a-responsiv-webb" title="HT19 - DA156A - Responsiv webb" target="_blank">HT19 - DA156A - Responsiv webb</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/1cac80b769fc4c14888a1f942ed879a5" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/spXzvT40D-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
 <h3>Dagens exempel</h3>
 
-<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/7/ex-2019.zip">här</a></p>
+<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/7/Exempel-2020.zip">här</a></p>

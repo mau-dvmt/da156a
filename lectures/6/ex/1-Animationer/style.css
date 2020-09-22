@@ -1,59 +1,34 @@
-body {
-    background-color: #eee;
-}
-
 #images {
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f0f9ff+0,cbebff+47,a1dbff+100;Blue+3D+%2313 */
-    background: #f0f9ff; /* Old browsers */
-    background: -moz-linear-gradient(top, #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
-
     overflow: hidden;
-    border-top: 10px solid white;
-    border-bottom: 10px solid white;
-    box-shadow: 0 0 10px #666;
-    padding: 20px;
+
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e1ffff+0,e1ffff+7,e1ffff+12,fdffff+12,e6f8fd+30,c8eefb+54,bee4f8+75,b1d8f5+100;Blue+Pipe+%232 */
+    background: #e1ffff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #e1ffff 0%, #e1ffff 7%, #e1ffff 12%, #fdffff 12%, #e6f8fd 30%, #c8eefb 54%, #bee4f8 75%, #b1d8f5 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #e1ffff 0%,#e1ffff 7%,#e1ffff 12%,#fdffff 12%,#e6f8fd 30%,#c8eefb 54%,#bee4f8 75%,#b1d8f5 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #e1ffff 0%,#e1ffff 7%,#e1ffff 12%,#fdffff 12%,#e6f8fd 30%,#c8eefb 54%,#bee4f8 75%,#b1d8f5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1ffff', endColorstr='#b1d8f5',GradientType=0 ); /* IE6-9 */
 }
 
 #images > figure {
     width: 20%;
-    margin: 20px 2.5%;
-    float: left;
-
+    margin: 2.5%;
     -moz-transform: rotate(10deg);
     -webkit-transform: rotate(10deg);
     -o-transform: rotate(10deg);
     -ms-transform: rotate(10deg);
     transform: rotate(10deg);
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-box-shadow: 0 0 10px 0 #000;
+    box-shadow: 0 0 10px 0 #000;
 
     border: 5px solid white;
-    border-radius: 5px;
-    box-shadow: 0 0 5px #666;
+    box-sizing: border-box;
 
-    transition: all 0.5s;
+    float: left;
+    position: relative;
 
-    opacity: 0.5;
-}
-
-#images > figure > img {
-    display: block;
-}
-
-#images > figure > figcaption {
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-    left: 0px;
-
-    text-align: center;
-    background-color: rgba(255, 255, 255, 0.8);
-
-    height: 0px;
-    overflow: hidden;
-
-    transition: all 0.5s;
+    transition: all 500ms;
 }
 
 #images > figure:hover {
@@ -62,40 +37,69 @@ body {
     -o-transform: rotate(-10deg);
     -ms-transform: rotate(-10deg);
     transform: rotate(-10deg);
+}
 
+#images > figure:hover img {
     opacity: 1;
+}
+
+
+
+#images > figure > img {
+    max-width: 100%;
+    display: block;
+    opacity: 0.5;
+    transition: all 500ms;
+}
+
+#images > figure > figcaption {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    line-height: 30px;
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+
+    transition: all 500ms;
 }
 
 #images > figure:hover figcaption {
     height: 30px;
-    line-height: 30px;
 }
 
-#box-btn {
+#animate-btn {
     width: 200px;
-    background-color: aqua;
-    margin: 20px auto;
-    padding: 20px;
-    border: 5px solid white;
-    box-shadow: 0 0 10px #aaa;
-    cursor: pointer;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto;
 }
 
-#box-btn:active + #box {
-    animation: run 10s infinite;
+#animate-btn:active + #box {
+    animation: run 5s infinite;
 }
 
 #box {
     background-color: red;
     height: 50px;
     width: 50px;
+    position: absolute;
     left: 0px;
-
-    position: relative;
 }
 
 @keyframes run {
-    0% {background-color: red; left:0px}
-    50% {background-color: #a1dbff; left: calc(100% - 50px)}
-    100% {background-color: red; left:0px}
+    0% {
+        left: 0px;
+        background-color: red;
+    }
+    50% {
+        left: calc(100% - 50px);
+        background-color: blue;
+    }
+    100% {
+        left: 0px;
+        background-color: red;
+    }
 }

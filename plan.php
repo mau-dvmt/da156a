@@ -66,7 +66,7 @@
                 <tr class="lecture even">
                     <td>16/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 6: Layout med CSS (2)</td>
+                    <td>Föreläsning 6: <a href="/lectures.php?nr=6">Layout med CSS (2)</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="laboration even">
@@ -80,7 +80,7 @@
                     <td rowspan="4">39</td>
                     <td>22/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 7: Responsiv webbutveckling</td>
+                    <td>Föreläsning 7: <a href="/lectures.php?nr=7">Responsiv webbutveckling</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture odd">
@@ -92,13 +92,13 @@
                 <tr class="laboration odd">
                     <td>25/9</td>
                     <td>8-12</td>
-                    <td>Laboration 4: Responsiv webbplats</td>
+                    <td>Laboration 4: <a href="/exercises.php?title=4">Responsiv webbplats</a></td>
 					<td></td>
                 </tr>
                 <tr class="tenta assignment odd">
                     <td>27/9</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 1</strong></td>
+                    <td><strong>Deadline: <a href="/assignments.php?nr=1">Inlämningsuppgift 1</a></strong></td>
 					<td></td>
                 </tr>
 

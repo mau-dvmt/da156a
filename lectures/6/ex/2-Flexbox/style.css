@@ -1,31 +1,30 @@
-#container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-#container > img {
-    height: 200px;
-    flex-grow: 1;
-    object-fit: cover;
-    margin: 5px;
-}
-
-.bigger {
-    flex-grow: 3 !important;
-}
-
 #menu {
+    background-color: aquamarine;
     display: flex;
-    background-color: yellow;
 }
 
 #menu > a {
+    background: yellow;
     padding: 10px;
-    background-color: aqua;
-    margin: 2px;
+    margin: 5px;
 }
 
-#menu > input {
-    margin-left: auto;
+#menu > input[type='search'] {
+    margin: 5px 5px 5px auto;
+}
+
+#images {
+    display: flex;
+
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#images > img {
+    flex-grow: 1;
+    object-fit: cover;
+}
+
+#images > .bigger {
+    flex-grow: 3;
 }
