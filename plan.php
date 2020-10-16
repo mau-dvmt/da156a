@@ -86,7 +86,7 @@
                 <tr class="lecture odd">
                     <td>23/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 8: Tutorial, att bygga en webbsida</td>
+                    <td>Föreläsning 8: <a href="/lectures.php?nr=8">Tutorial, att bygga en webbsida</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration odd">
@@ -106,19 +106,19 @@
                     <td rowspan="3">40</td>
                     <td>29/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 9: Webbutveckling med JavaScript</td>
+                    <td>Föreläsning 9: <a href="/lectures.php?nr=9">Webbutveckling med JavaScript</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="lecture even">
                     <td>30/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 10: Ramverk &amp; bibliotek</td>
+                    <td>Föreläsning 10: <a href="/lectures.php?nr=10">Ramverk &amp; bibliotek</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="laboration even">
                     <td>2/10</td>
                     <td>08-12</td>
-                    <td>Laboration 5: JavaScript på webben</td>
+                    <td>Laboration 5: <a href="/exercises.php?title=5">JavaScript på webben</a></td>
 					<td></td>
                 </tr>
 
@@ -126,18 +126,18 @@
                     <td rowspan="3">41</td>
                     <td>6/10</td>
                     <td>10-12</td>
-                    <td>Föreläsning 11: Introduktion till användbarhet</td>
+                    <td><s>Tillfälle flyttat</s></td>
 					<td>-</td>
                 </tr>
 				<tr class="lecture odd">
 					<td>7/10</td>
 					<td>13-15</td>
-					<td>Föreläsning 12: Användbarhet med fokus på webben</td>
+					<td>Föreläsning 11: <a href="/lectures.php?nr=11">Introduktion till användbarhet</a></td>
 					<td></td>
 				</tr>
                 <tr class="laboration odd">
 					<td>9/10</td>
-					<td>13-15</td>
+					<td>08-12</td>
 					<td>Laboration: Extratillfälle</td>
 					<td></td>
 				</tr>
@@ -146,7 +146,7 @@
                     <td rowspan="3">42</td>
                     <td>14/10</td>
                     <td>13-15</td>
-                    <td>Föreläsning 13: Extra</td>
+                    <td>Föreläsning 12: <a href="/lectures.php?nr=12">Användbarhet med fokus på webben</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration even">
@@ -158,7 +158,7 @@
                 <tr class="tenta assignment even">
                     <td>18/10</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 2</strong></td>
+                    <td><strong>Deadline: <a href="/assignments.php?nr=2">Inlämningsuppgift 2</a></strong></td>
 					<td></td>
                 </tr>
 
@@ -182,7 +182,7 @@
                     <td rowspan="1">45</td>
                     <td>8/11</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 3</strong></td>
+                    <td><strong>Deadline: <a href="/assignments.php?nr=3">Inlämningsuppgift 3</a></strong></td>
 					<td></td>
                 </tr>
 

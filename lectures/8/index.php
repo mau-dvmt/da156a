@@ -1,5 +1,7 @@
 <h2>Föreläsning 8 - Att bygga en webbsida</h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdChQRApC7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <hr>
 
 <p>Det finns ingen powerpoint till dagens föreläsning, men exempelsidan som vi byggde kan ni komma åt på olika sätt:</p>
@@ -356,7 +358,7 @@ body {
 }
 </code></pre>
 
-<h4>style.css</h4>
+<h4>reset.css</h4>
 <pre class="language-css line-numbers" data-type="html"><code class="language-css line-numbers">
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126

@@ -1,10 +1,14 @@
 <h2>Föreläsning 9 - JavaScript i webbutveckling</h2>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/jjZBu9Z9NNnlFt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht19-da156a-introduktion-till-javascript" title="HT19 - DA156A - Introduktion till JavaScript" target="_blank">HT19 - DA156A - Introduktion till JavaScript</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/f14096bbee114e65ba54e7c3f9ba303d" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 <hr>
 
-<a href="/resources/pdf/9.pdf">Ladda ner föreläsningen här</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gFN7uXgRgE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<a href="/resources/pdf/JavaScript.pdf">Ladda ner föreläsningen här</a>
 
 <h2>Dagens exempel</h2>
 

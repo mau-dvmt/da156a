@@ -69,32 +69,27 @@
 				</tr>
 				<tr>
 					<td>8</td>
-					<td>Tutorial, att bygga en webbsida</td>
+					<td><a href="/lectures.php?nr=8">Tutorial, att bygga en webbsida</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>9</td>
-					<td>Webbutveckling med JavaScript</td>
+					<td><a href="/lectures.php?nr=9">Webbutveckling med JavaScript</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>10</td>
-					<td>Ramverk och bibliotek</td>
+					<td><a href="/lectures.php?nr=10">Ramverk och bibliotek</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>11</td>
-					<td>Introduktion till användbarhet</td>
+					<td><a href="/lectures.php?nr=11">Introduktion till användbarhet</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>12</td>
-					<td>Användbarhet: Fokus IT</td>
-					<td>Anton</td>
-				</tr>
-				<tr>
-					<td>13</td>
-					<td>Extra? Ni väljer!</td>
+					<td><a href="/lectures.php?nr=12">Användbarhet: Fokus IT</a></td>
 					<td>Anton</td>
 				</tr>
             </table>

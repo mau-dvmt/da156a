@@ -1,3 +1,8 @@
 <h2>Föreläsning 12 - Användbarhet 2</h2>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/33eBAi7FGBKN2U" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonTibblin/ht19-da156a-anvndbarhet-2" title="HT19 - DA156A - Användbarhet (2)" target="_blank">HT19 - DA156A - Användbarhet (2)</a> </strong> from <strong><a href="https://www.slideshare.net/AntonTibblin" target="_blank">Anton Tibblin</a></strong> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JnjQKAT3vgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 74.9296%;"><iframe src="https://speakerdeck.com/player/5e586eec9bd7454799cbc7513235f1dd" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
