@@ -21,7 +21,7 @@
 	<div class="row">
 		<div class="col-lg-8 create-submenu">
 			<h2>Inlämningsuppgifter</h2>
-			<p>Dessa uppgifter är, till skillnad från laborationerna, examinerande - vilket betyder att de är obligatoriska att genomföra för godkänt kursbetyg. Under höstterminen 2020 ingår tre uppgifter, som publiceras under kursens gång (enligt <a href="plan.php">planen</a>). Uppgifterna motsvarar 3,5 hp, och kan ge betyget Godkänd.</p>
+			<p>Dessa uppgifter är, till skillnad från laborationerna, examinerande - vilket betyder att de är obligatoriska att genomföra för godkänt kursbetyg. Under höstterminen 2021 ingår tre uppgifter, som publiceras under kursens gång (enligt <a href="plan.php">planen</a>). Uppgifterna motsvarar 3,5 hp, och kan ge betyget Godkänd.</p>
 			<p>Inlämningsuppgifterna publiceras under kursens gång.</p>
 			<table class="table table-striped">
 			    <tr>
@@ -29,16 +29,16 @@
 			        <th>Inlämningsuppgift</th>
 			    </tr>
 			    <tr>
-					<td>27/9</td>
-                    <td>Inlämningsuppgift 1 - <a href="/assignments.php?nr=1">Grundläggande HTML &amp; CSS</a></td>
+					<td>26/9</td>
+                    <td>Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</td>
 			    </tr>
 				<tr>
-					<td>18/10	</td>
-                    <td>Inlämningsuppgift 2 - <a href="/assignments.php?nr=2">Layout med CSS &amp; JavaScript</a></td>
+					<td>17/10	</td>
+                    <td>Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</td>
 			    </tr>
 				<tr>
-					<td>8/11</td>
-                    <td>Inlämningsuppgift 3 - <a href="/assignments.php?nr=3">Användbarhet &amp; förnyelse av befintlig webbplats</a></td>
+					<td>7/11</td>
+                    <td>Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</td>
 			    </tr>
 			</table>
 		</div>

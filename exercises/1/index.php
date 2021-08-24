@@ -95,14 +95,7 @@
 
     <h5>3.2.2. Andra metoder för att komma åt hemkatalogen</h4>
 
-    <ul>
-        <li>Hemkatalogen går även att komma åt via krypterad FTP. FTP är ett protokoll specialdesignat för att skicka och ta emot filer (därav namnet, File Transfer Protocol). Adressen är <code>ftpes://webshare.mah.se</code> och ditt vanliga datorid och lösenord används. <a href="http://filezilla-project.org/">FileZilla</a> (finns i datorsalarna) och <a href="http://cyberduck.ch/">Cyberduck</a> är två bra program som kan användas. Fråga gärna labbassistent om hjälp om detta är nytt för dig. Här finns en videoguide på hur ni kommer igång med Webshare:
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/zzyIxcUJgyk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </li>
-        <li>
-            Det finns även <a href="http://access.mah.se">ett webbgränssnitt</a> (men FTP rekommenderas starkt!).
-        </li>
-    </ul>
+    <p>Om man inte är inne på Malmö universitets nätverk så kan man använda <a href="http://access.mah.se">ett webbgränssnitt</a> för att överföra filer till Webshare.</p>
 
 
     <h3>4. Mer innehåll, mer HTML</h3>
