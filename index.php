@@ -51,9 +51,10 @@ include "_header.php";
 			<a class="list-group-item" href="/exercises.php?title=2">L2a: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/lectures.php?nr=3">F3: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/lectures.php?nr=2">F2: Intro HTML</a>
+			-->
 			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kurslintroduktion</a>
 			<a class="list-group-item" href="/exercises.php?title=1">L1: En första webbsida</a>
-			-->
+			
 		</div>
 	</div>
 </div>

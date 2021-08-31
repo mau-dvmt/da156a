@@ -20,7 +20,7 @@
                     <td rowspan="3">35</td>
                     <td>31/8</td>
                     <td>10-12</td>
-                    <td>Föreläsning 1: Kursintroduktion</td>
+                    <td>Föreläsning 1: <a href="/lectures.php?nr=1">Kursintroduktion</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="lecture even">
