@@ -95,8 +95,9 @@
 
     <h5>3.2.2. Andra metoder för att komma åt hemkatalogen</h4>
 
-    <p>Om man inte är inne på Malmö universitets nätverk så kan man använda <a href="http://access.mah.se">ett webbgränssnitt</a> för att överföra filer till Webshare.</p>
+    <p>Om man inte är inne på Malmö universitets nätverk så kan man använda <a href="http://access.mah.se">ett webbgränssnitt</a> för att överföra filer till Webshare. Se <strong>videon nedan</strong> för hur ni kan arbeta med Webshare.</p>
 
+    <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/36iM3rZ5LBU?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
 
     <h3>4. Mer innehåll, mer HTML</h3>
     <p>Nu när du har ett startdokument så kan det vara bra att repetera den grundläggande strukturen för HTML. Här finns guide som kan vara bra att läsa:</p>

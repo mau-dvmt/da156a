@@ -52,7 +52,7 @@
                 <tr class="laboration odd">
                     <td>10/9</td>
                     <td>08-12</td>
-                    <td>Laboration 2: a) Formulär &amp; tabeller, b) Introduktion till CSS</td>
+                    <td>Laboration 2: a) <a href="/exercises.php?title=2">Formulär &amp; tabeller</a>, b) <a href="/exercises.php?title=2b">Introduktion till CSS</a></td>
 					<td></td>
                 </tr>
 
