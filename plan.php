@@ -40,13 +40,13 @@
                     <td rowspan="3">36</td>
                     <td>7/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 3: Tabell &amp; formulär</td>
+                    <td>Föreläsning 3: <a href="/lectures.php?nr=3">Tabell &amp; formulär</a></td>
 					<td>HTML &amp; CSS: Kap. 6-7</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>8/9</td>
-                    <td>13-15</td>
-                    <td>Föreläsning 4: Introduktion till CSS</td>
+                    <td>15-17</td>
+                    <td>Föreläsning 4: <a href="/lectures.php?nr=4">Introduktion till CSS</a></td>
 					<td>HTML &amp; CSS: Kap. 10-14</td>
                 </tr>
                 <tr class="laboration odd">
