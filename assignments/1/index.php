@@ -1,6 +1,7 @@
 <h2>Inlämningsuppgift 1</h2>
 
-<p>Uppgiften går ut på redovisa dina kunskaper i HTML och CSS. Detta görs genom att du skapar ett korrekt webbdokument som följer specifikationerna nedan. Inlämningsuppgiften är individuell, vilket betyder att varje student enskilt ska skriva sin inlämning och kunna redogöra för alla delar av den.</p>
+<p>Uppgiften går ut på redovisa dina kunskaper i HTML och CSS. Detta görs genom att du skapar ett korrekt webbdokument som följer specifikationerna nedan. </p>
+<p><strong>Inlämningsuppgiften är individuell, vilket betyder att varje student enskilt ska skriva sin inlämning och kunna redogöra för alla delar av den.</strong></p>
 
 <h3>1. Uppgiften</h3>
 
@@ -51,6 +52,4 @@
     <p>Det inlämnade resultatet ska vara skapat av dig och ska representera ditt individuellt utförda arbete. Samarbete (gemensamt skapande av resultat) är inte tillåtet.</p>
 
     <p>Plagiat kan leda till anmälning för fusk enligt högskoleförordningens 10 kap om disciplinära åtgärder för studenter. Med plagiat menas kopiering/avskrift från böcker, artiklar, studentarbeten (egna eller andras), eller andra källor utan korrekt hänvisning, i syfte att få det att framstå som du själv har skapat resultatet. Såväl text som källkod kan plagieras.</p>
-
-    <p>Men - hittils har inget liknande skett i denna kurs!</p>
 </div>
