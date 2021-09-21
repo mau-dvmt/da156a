@@ -2,19 +2,19 @@
 
 <hr>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/cee981b24d3e444c948a7c7dfcfbad7c" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/c4d590b547cb4efaabc1caf104ed9007" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yoSPsczbBKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/7ue4BO7HzDs?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
 
 <hr>
 
-<a href="/resources/pdf/6-2020.pdf">Ladda ner föreläsningen här</a>
+<a href="/resources/pdf/6-21.pdf">Ladda ner föreläsningen här</a>
 
 <h3>Dagens exempel</h3>
 
-<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/6/ex-2020.zip">här</a></p>
+<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/6/6-21.zip">här</a></p>
 
 <hr>
 

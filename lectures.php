@@ -59,12 +59,12 @@
 				</tr>
 				<tr>
 					<td>6</td>
-					<td>Layout med HTML &amp; CSS (2)</td>
+					<td><a href="/lectures.php?nr=6">Layout med HTML &amp; CSS (2)</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>7</td>
-					<td>Responsiv webbdesign</td>
+					<td><a href="/lectures.php?nr=7">Responsiv webbdesign</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>

@@ -44,7 +44,7 @@
 
 <h3>2. Redovisning</h3>
 
-<p>Ditt resultat ska publiceras <strong>via WebShare och länken till webbsidan</strong> lämnas in på Canvas. Till inlämningen ska du även bifoga en kopia på alla webbplatsens filer (lämpligen genom en ZIP-fil). Deadline är söndag 27/9, klockan 23:59. Vid senare inlämning bedöms resultatet i samband med inlämningsuppgift 2.</p>
+<p>Ni lämnar in ert resultat på Canvas via följande länk <a href="https://mau.instructure.com/courses/9345/assignments/58253?module_item_id=316062">https://mau.instructure.com/courses/9345/assignments/58253?module_item_id=316062</a>. <strong>OBS.</strong> Lämna in <strong>alla filer</strong> som tillhör er lösning d.v.s. HTML, CSS, ev. bilder, etc.</p>
 
 <div class="well">
     <h4>2.1. Notis om individuellt genomförande</h4>

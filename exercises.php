@@ -46,7 +46,7 @@
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Responsiv webbutveckling</td>
+                    <td><a href="/exercises.php?title=4">Responsiv webbutveckling</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
