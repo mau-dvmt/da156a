@@ -38,9 +38,9 @@ include "_header.php";
 			<a class="list-group-item" href="/lectures.php?nr=10">F10: Ramverk &amp; bibliotek</a>
 			<a class="list-group-item" href="/assignments.php?nr=2">I2: Inlämning 2</a>
 			<a class="list-group-item" href="/exercises.php?title=5">L5: JS &amp; ramverk</a>
-			<a class="list-group-item" href="/lectures.php?nr=9">F9: Intro JavaScript</a>	
+			<a class="list-group-item" href="/lectures.php?nr=9">F9: Intro JavaScript</a>
+-->	
 			<a class="list-group-item" href="/lectures.php?nr=8">F8: Webbplatsbygge</a>	
--->
 			<a class="list-group-item" href="/exercises.php?title=4">L4: Responsiv webb</a>
 			<a class="list-group-item" href="/lectures.php?nr=7">F7: Responsiv webb</a>	
 			<a class="list-group-item" href="/lectures.php?nr=6">F6: Layout med CSS (2)</a>				

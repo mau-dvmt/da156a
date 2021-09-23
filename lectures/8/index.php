@@ -1,6 +1,6 @@
 <h2>Föreläsning 8 - Att bygga en webbsida</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FdChQRApC7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/sThhKrDMhZc?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
 
 <hr>
 
@@ -11,7 +11,7 @@
         <a href="/lectures/8/ex/index.html">Ni kan surfa till den här</a>
     </li>
     <li>
-        <a href="/lectures/8/star-wars.zip">Ni kan ladda ner hela webbsidan i en ZIP-fil här</a>
+        <a href="/lectures/8/8-ex.zip">Ni kan ladda ner hela webbsidan i en ZIP-fil här</a>
     </li>
     <li>
         Eller studera källkoden nedan
@@ -21,13 +21,15 @@
 
 <h3>HTML</h3>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
-&lt;!doctype html&gt;
+&lt;!DOCTYPE html&gt;
 &lt;html&gt;
     &lt;head&gt;
+        &lt;title&gt;Star Wars&lt;/title&gt;
         &lt;meta charset=&quot;utf-8&quot;&gt;
         &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
-        &lt;title&gt;Star Wars&lt;/title&gt;
-        &lt;link href=&quot;https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Quicksand&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
         &lt;link href=&quot;reset.css&quot; rel=&quot;stylesheet&quot;&gt;
         &lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot;&gt;
     &lt;/head&gt;
@@ -37,7 +39,7 @@
                 &lt;nav&gt;
                     &lt;a href=&quot;index.html&quot;&gt;Star Wars&lt;/a&gt;
 
-                    &lt;a href=&quot;#&quot; class=&quot;mobile-only&quot; id=&quot;menu-btn&quot;&gt;Menu&lt;/a&gt;
+                    &lt;a href=&quot;#&quot; id=&quot;menu-btn&quot; class=&quot;mobile-only&quot;&gt;Menu&lt;/a&gt;
 
                     &lt;div id=&quot;menu&quot;&gt;
                         &lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;
@@ -60,7 +62,7 @@
                 &lt;h1&gt;Movies&lt;/h1&gt;
                 &lt;figure&gt;
                     &lt;h3&gt;I. The phantom menace&lt;/h3&gt;
-                    &lt;img src=&quot;images/1.png&quot; alt=&quot;Poster - Star Wars: Episode 1&quot;&gt;
+                    &lt;img src=&quot;images/1.png&quot; alt=&quot;Poster - Star Wars: Episode I&quot;&gt;
                     &lt;p&gt;Lucas ipsum dolor sit amet yoda darth lando k-3po skywalker hutt calrissian endor darth sidious. Cade fett darth c-3po antilles. Wedge kenobi binks skywalker hutt windu kenobi organa.&lt;/p&gt;
                 &lt;/figure&gt;
                 &lt;figure&gt;
@@ -84,7 +86,7 @@
                     &lt;p&gt;Lucas ipsum dolor sit amet yoda darth lando k-3po skywalker hutt calrissian endor darth sidious. Cade fett darth c-3po antilles. Wedge kenobi binks skywalker hutt windu kenobi organa.&lt;/p&gt;
                 &lt;/figure&gt;
                 &lt;figure&gt;
-                    &lt;h3&gt;VI. A new hope&lt;/h3&gt;
+                    &lt;h3&gt;VI. Return of the Jedi&lt;/h3&gt;
                     &lt;img src=&quot;images/6.png&quot; alt=&quot;Poster - Star Wars: Episode 6&quot;&gt;
                     &lt;p&gt;Lucas ipsum dolor sit amet yoda darth lando k-3po skywalker hutt calrissian endor darth sidious. Cade fett darth c-3po antilles. Wedge kenobi binks skywalker hutt windu kenobi organa.&lt;/p&gt;
                 &lt;/figure&gt;
@@ -122,7 +124,6 @@
                     &lt;/section&gt;
                 &lt;/article&gt;
             &lt;/footer&gt;
-            
         &lt;/div&gt;
     &lt;/body&gt;
 &lt;/html&gt;
@@ -135,14 +136,15 @@
 body {
     font-family: 'Quicksand', sans-serif;
     background-image: url(images/brushed.png);
-
 }
 
 #wrapper > header {
     position: fixed;
     left: 0px;
     right: 0px;
+    top: 0px;
     box-shadow: 0 0 10px #666;
+
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
     background: #45484d; /* Old browsers */
     background: -moz-linear-gradient(top,  #45484d 0%, #000000 100%); /* FF3.6-15 */
@@ -151,41 +153,38 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
 }
 
-#wrapper nav {
+#wrapper > header > nav {
     display: flex;
     max-width: 1200px;
     margin: auto;
 }
 
-#wrapper nav a {
+#wrapper > header input {
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 0px;
+    padding-left: 5px;
+    width: 150px;
+    transition: all 0.5s;
+}
+
+#wrapper > header input:focus {
+    width: 200px;
+}
+
+#wrapper > header a {
     color: #eee;
     text-decoration: none;
     line-height: 50px;
     padding: 0 15px;
 }
 
-#wrapper nav input {
-    margin: 10px 0;
-    border-radius: 5px;
-    border: 0px;
-    padding-left: 5px;
-    width: 150px;
-    transition: 0.5s all;
-}
-
-#wrapper nav input:focus {
-    width: 200px;
-}
-
-#wrapper nav a:hover {
-    background-color: #000000;
-}
-
-#wrapper nav > a:first-child {
-    margin-right: auto;
+#wrapper > header a:hover {
+    background-color: black;
 }
 
 #menu {
+    margin-left: auto;
     display: flex;
 }
 
@@ -199,15 +198,15 @@ body {
     justify-content: center;
     align-items: center;
 
-    border-bottom: 10px solid #000;
+    border-bottom: 10px solid black;
     box-shadow: 0 0 10px #666;
 }
 
 #jumbo > article {
     background-color: rgba(255, 255, 255, 0.8);
     width: 50%;
-    padding: 20px;
     border-radius: 10px;
+    padding: 20px;
     box-shadow: 0 0 10px #666;
 }
 
@@ -222,11 +221,11 @@ body {
     display: block;
     background-color: #333;
     color: #fff;
-    margin: 20px auto 0 auto;
+    margin: 20px auto 0px auto;
     width: 50%;
     text-align: center;
     padding: 10px;
-    box-shadow: 0 0 5px #666;
+    box-shadow: 0 0 10px #666;
 }
 
 #wrapper > main {
@@ -240,22 +239,24 @@ body {
     width: 100%;
     font-size: 36px;
     font-weight: bold;
-    border-bottom: 2px solid #000;
-    margin: 20px 0;
+    border-bottom: 2px solid black;
+    margin: 20px 0px;
 }
 
 #wrapper > main > figure {
     width: 23%;
     margin: 1%;
 
-    border: 1px solid #000;
+    border: 1px solid black;
+    background-color: white;
     box-sizing: border-box;
-    background-color: #fff;
     box-shadow: 0 0 5px #666;
+
+    flex-grow: 1;
 }
 
 #wrapper > main > figure > h3 {
-    background-color: #000;
+    background-color: black;
     color: #eee;
     padding: 5px;
 }
@@ -266,23 +267,14 @@ body {
 }
 
 #wrapper > main > figure > p {
-    font-size: 14px;
     padding: 5px;
+    font-size: 14px;
 }
 
 #wrapper > footer {
+    background-color: black;
+    box-shadow: 0 0 10px #666;
     margin-top: 20px;
-    background-color: #000;
-    box-shadow: 0 0 5px #666;
-}
-
-#wrapper > footer a, #wrapper > footer h4, #wrapper > footer p {
-    color: #fff;
-}
-
-#wrapper > footer h4 {
-    font-weight: bold;
-    font-size: 20px;
 }
 
 #wrapper > footer > article {
@@ -294,37 +286,48 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+#wrapper > footer, #wrapper > footer a {
+    color: white;
+}
+
+#wrapper > footer h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
 .mobile-only {
     display: none;
 }
 
-@media screen and (max-width: 900px) {
+
+@media screen and (max-width: 850px) {
     #wrapper > main > figure {
-        width: 31.33333333333333%;
+        width: 48%;
     }
 }
 
 @media screen and (max-width: 600px) {
-    .mobile-only {
-        display: block;
-    }
-
     #wrapper > header > nav {
         flex-direction: column;
     }
 
     #menu {
         flex-direction: column;
+        margin-left: 0px;
     }
 
-    #wrapper nav input {
+    #wrapper > header > nav input {
         width: 96%;
         margin: 2%;
         padding: 10px;
     }
 
-    #wrapper nav input:focus {
+    #wrapper > header > nav input:focus {
         width: 96%;
+    }
+
+    .mobile-only {
+        display: block;
     }
 
     #menu-btn {
@@ -340,11 +343,7 @@ body {
     }
 
     #menu-btn:focus + #menu, #menu:hover {
-        height: 200px;
-    }
-
-    #jumbo > article {
-        width: 80%;
+        height: 205.44px;
     }
 
     #wrapper > main > figure {
@@ -353,7 +352,11 @@ body {
 
     #wrapper > footer > article {
         grid-template-columns: 1fr;
-        grid-gap: 20px;
+        gap: 20px;
+    }
+
+    #jumbo > article {
+        width: 80%;
     }
 }
 </code></pre>
