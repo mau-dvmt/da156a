@@ -28,8 +28,6 @@
     <li>Skapandet av en CSS-stilmall som ger webbsidan ett anpassat utseende. Vissa CSS-egenskaper måste användas, men du är fri att välja utseendet själv. Visuell fokus bör dock ligga på läsbarhet, enkelhet och trovärdighet.</li>
 </ol>
 
-<p>Din färdiga webbsida ska till sist publiceras på internet, via WebShare, så att andra kan ta del och lära sig av informationen.</p>
-
 <h4>1.1. Teknisk kravspecifikation</h4>
 
 <ul>

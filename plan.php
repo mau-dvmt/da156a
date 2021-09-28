@@ -106,7 +106,7 @@
                     <td rowspan="3">39</td>
                     <td>28/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 9: Webbutveckling med JavaScript</td>
+                    <td>Föreläsning 9: <a href="/lectures.php?nr=9">Webbutveckling med JavaScript</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="lecture even">
@@ -118,7 +118,7 @@
                 <tr class="laboration even">
                     <td>1/10</td>
                     <td>08-12</td>
-                    <td>Laboration 5: JavaScript på webben</td>
+                    <td>Laboration 5: <a href="/exercises.php?title=5">JavaScript på webben</a></td>
 					<td></td>
                 </tr>
 

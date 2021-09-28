@@ -74,7 +74,7 @@
 				</tr>
 				<tr>
 					<td>9</td>
-					<td>Webbutveckling med JavaScript</td>
+					<td><a href="/lectures.php?nr=9">Webbutveckling med JavaScript</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>

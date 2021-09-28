@@ -1,14 +1,14 @@
 <h2>Föreläsning 9 - JavaScript i webbutveckling</h2>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/f14096bbee114e65ba54e7c3f9ba303d" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/bf2a1154113043b3b40ae032bf4c6874" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0gFN7uXgRgE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/Hu6x10afirE?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
 
 <hr>
 
-<a href="/resources/pdf/JavaScript.pdf">Ladda ner föreläsningen här</a>
+<a href="/resources/pdf/JavaScript-2021.pdf">Ladda ner föreläsningen här</a>
 
 <h2>Dagens exempel</h2>
 
