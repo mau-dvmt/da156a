@@ -1,10 +1,10 @@
 <h2>Föreläsning 10 - Ramverk och bibliotek</h2>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/ed6cee2141064020bc6288e59dce65e9" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/32e220c477b94179b442eb70835077f3" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQEpq6K6jpY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/Q0yOE82Qes4?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
 
 <hr>
 
@@ -18,9 +18,11 @@
 
 <h2>Dagens exempel</h2>
 
+<p>Ni kan ladda ner dagens exempel i sin helhet <a href="/lectures/10/l10.zip">här</a>.</p>
+
 <h3>Bootstrap</h3>
 
 <h4>HTML</h4>
 <p>
-    <a href="/lectures/10/bootstrap2/index.html">Här hittar du exemplet live (högerklicka > visa sidkälla för att se källkoden)</a>
+    <a href="/lectures/10/bootstrap/index.html">Här hittar du exemplet live (högerklicka > visa sidkälla för att se källkoden)</a>
 </p>

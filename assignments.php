@@ -34,11 +34,11 @@
 			    </tr>
 				<tr>
 					<td>17/10	</td>
-                    <td>Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</td>
+                    <td><a href="assignments.php?nr=2">Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</a></td>
 			    </tr>
 				<tr>
 					<td>7/11</td>
-                    <td>Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</td>
+                    <td><a href="assignments.php?nr=3">Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</a></td>
 			    </tr>
 			</table>
 		</div>

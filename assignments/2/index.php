@@ -81,32 +81,32 @@
 <pre class="language-javascript line-numbers" data-type="javascript"><code class="language-javascript line-numbers">
 // Väntar på att sidan ska bli redo för att köra vårt JavaScript
 $(document).ready(function(){
-	$("#changeColor").on("click", function() {
+	$("#change-color").on("click", function() {
         // Frågar användaren efter en textfärg
 		var color = prompt("Ange ny textfärg");
         // Ändrar textfärgen på alla element
 		$("*").css("color", color);
 	});
 
-	$("img.bigImage").on("click", function() {
+	$("img.big-image").on("click", function() {
         // Hämtar adressen till bilden som användaren klickade på
 		var src = $(this).attr("src");
         // Lägger till en större version av bilden (dold)
 		$("body").prepend("&lt;img src='" + src + "' style='position: fixed; width: 50%; left: 25%; top: 10%; z-index: 6; border: 10px solid #fff; box-shadow: 0 0 20px #000; display: none;' id='imageModal'&gt;")
         // Lägger till en svart bakgrund (dold)
-		$("body").prepend("&lt;div id='backgroundModal' style='top: 0; bottom: 0; left: 0; right: 0; position: fixed; background-color: rgba(0,0,0,0.5); display:none; z-index: 5;'&gt;&lt;/div&gt;");
+		$("body").prepend("&lt;div id='background-modal' style='top: 0; bottom: 0; left: 0; right: 0; position: fixed; background-color: rgba(0,0,0,0.5); display:none; z-index: 5;'&gt;&lt;/div&gt;");
         // Visar bakgrunden genom en animation
-		$("#backgroundModal").fadeIn(500);
+		$("#background-modal").fadeIn(500);
         // Visar bilden genom en animation
-		$("#imageModal").fadeIn(500);
+		$("#image-modal").fadeIn(500);
 
         // När man klickar på den svarta bakgrunden tas bilden bort
-		$("#backgroundModal").on("click", function() {
-			$("#backgroundModal").fadeOut(500);
-			$("#imageModal").fadeOut(500);
+		$("#background-modal").on("click", function() {
+			$("#background-modal").fadeOut(500);
+			$("#image-modal").fadeOut(500);
 			setTimeout(function() {
-				$("#backgroundModal").remove(500);
-				$("#imageModal").remove(500);
+				$("#background-modal").remove(500);
+				$("#image-modal").remove(500);
 			}, 500);
 		})
 	});
@@ -133,12 +133,18 @@ $(document).ready(function(){
     <li>Din JavaScript-kod ska läggas i en extern fil.</li>
 </ul>
 
-<h3>4. Redovisning</h3>
+<h3>4. Video - Exempellösning</h3>
 
-<p>Ditt resultat ska publiceras på <strong>WebShare och länken till startsidan lämnas in på Canvas</strong>. Till inlämningen ska du även bifoga en kopia på <strong>alla webbplatsens filer i en ZIP-fil</strong>. Deadline är söndagen den 18/10, klockan 23:59. Vid senare inlämning bedöms resultatet i samband med inlämningsuppgift 3.</p>
+<p>Videon nedan visar upp hur sidans layout ska se ut och fungera. Läs noga igenom uppgiftbeskrivningen ovan för alla detaljer kring sidans innehåll m.m.</p>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/vRNaD16mewA?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
+
+<h3>5. Redovisning</h3>
+
+<p>Ni lämnar in ert resultat på Canvas via följande länk <a href="https://mau.instructure.com/courses/9345/assignments/62521">https://mau.instructure.com/courses/9345/assignments/62521</a>. <strong>OBS.</strong> Lämna in <strong>alla filer</strong> som tillhör er lösning d.v.s. HTML, CSS, ev. bilder, etc.</p>
 
 
-<h3>5. Notis om individuellt genomförande</h4>
+<h3>6. Notis om individuellt genomförande</h4>
 <div class="well">
     <p>Det inlämnade resultatet ska vara skapat av dig och ska representera ditt individuellt utförda arbete. Samarbete (gemensamt skapande av resultat) är inte tillåtet.</p>
 

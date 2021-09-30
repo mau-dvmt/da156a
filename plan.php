@@ -112,7 +112,7 @@
                 <tr class="lecture even">
                     <td>29/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 10: Ramverk &amp; bibliotek</td>
+                    <td>Föreläsning 10: <a href="/lectures.php?nr=10">Ramverk &amp; bibliotek</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="laboration even">
@@ -152,7 +152,7 @@
                 <tr class="tenta assignment even">
                     <td>17/10</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 2</strong></td>
+                    <td><strong>Deadline: <a href="assignments.php?nr=2">Inlämningsuppgift 2</a></strong></td>
 					<td></td>
                 </tr>
 
@@ -182,7 +182,7 @@
                  <tr class="tenta assignment odd">
                     <td>7/11</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 3</strong></td>
+                    <td><strong>Deadline: <a href="assignments.php?nr=3">Inlämningsuppgift 3</a></strong></td>
 					<td></td>
                 </tr>
 

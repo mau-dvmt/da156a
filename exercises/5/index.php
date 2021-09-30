@@ -63,15 +63,15 @@ $(document).ready(function() {
 <h4>1. Skapa en webbsida utifrån bootstraps ramverk</h4>
 <p>Ni kan nu välja mellan två metoder att skapa er webbplats:</p>
 <ol>
-    <li>Skapa layouten själva, börja då att läsa <a href="http://getbootstrap.com/docs/4.1/getting-started/introduction/">här</a></li>
-    <li>Utgå från en färdig layout som bootstrap erbjuder, börja då att läsa <a href="http://getbootstrap.com/docs/4.1/examples/">här</a></li>
+    <li>Skapa layouten själva, börja då att läsa <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/">här</a></li>
+    <li>Utgå från en färdig layout som bootstrap erbjuder, börja då att läsa <a href="https://getbootstrap.com/docs/5.1/examples/">här</a></li>
 </ol>
 <h4>2. Bildspel med komponenten <em>Carousel</em></h4>
-<p>När ni fått en fram en webbsida som ni tycker ser bra ut är det dags för er att implementera ett bildspel. Bootstrap har en <a href="http://getbootstrap.com/docs/4.1/components/carousel/">komponent</a> som vi ska använda till detta. Ditt jobb är ni är nu att läsa dokumentationen för komponenten - och implementera bildspelet på din webbsida.
+<p>När ni fått en fram en webbsida som ni tycker ser bra ut är det dags för er att implementera ett bildspel. Bootstrap har en <a href="https://getbootstrap.com/docs/5.1/components/carousel/">komponent</a> som vi ska använda till detta. Ditt jobb är ni är nu att läsa dokumentationen för komponenten - och implementera bildspelet på din webbsida.
 
 <h4>Exempel på hur resultatet kan se ut</h4>
 <img src="/exercises/5/5.2.gif" alt="Result">
 
 <h3>Del 3 - Bootstrap and beyond!</h3>
 <p><strong>Denna del är viktig träning, men behöver inte lämnas in på Canvas</strong></p>
-<p>Nu är det upp till dig att bygga ut din webbsida. Titta gärna på <a href="http://getbootstrap.com/docs/4.1/getting-started/introduction/">Bootstraps dokumentation</a> för att inspirerad kring hur man kan använda deras komponenter för att bygga en mordern webbplats. Välj gärna ut några komponenter i bootstrap som ni implementerar på er webbplats. Fråga gärna labbhandledare om ni har några frågor eller andra tankar kring detta!</p>
+<p>Nu är det upp till dig att bygga ut din webbsida. Titta gärna på <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/">Bootstraps dokumentation</a> för att inspirerad kring hur man kan använda deras komponenter för att bygga en mordern webbplats. Välj gärna ut några komponenter i bootstrap som ni implementerar på er webbplats. Fråga gärna labbhandledare om ni har några frågor eller andra tankar kring detta!</p>

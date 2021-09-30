@@ -79,7 +79,7 @@
 				</tr>
 				<tr>
 					<td>10</td>
-					<td>Ramverk och bibliotek</td>
+					<td><a href="/lectures.php?nr=9">Ramverk och bibliotek</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
