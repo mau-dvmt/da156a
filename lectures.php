@@ -34,52 +34,52 @@
                 </tr>
                 <tr>
                     <td>1</td>
-					<td><a href="/lectures.php?nr=1">Kursintroduktion</a></td>
+					<td>Kursintroduktion</td>
 					<td>Anton</td>
                 </tr>
 				<tr>
 					<td>2</td>
-					<td><a href="/lectures.php?nr=2">Introduktion till HTML</a></td>
+					<td>Introduktion till HTML</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>3</td>
-					<td><a href="/lectures.php?nr=3">Tabeller &amp; formulär</a></td>
+					<td>Tabeller &amp; formulär</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>4</td>
-					<td><a href="/lectures.php?nr=4">Introduktion till CSS</a></td>
+					<td>Introduktion till CSS</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>5</td>
-					<td><a href="/lectures.php?nr=5">Layout med HTML &amp; CSS (1)</a></td>
+					<td>Layout med HTML &amp; CSS (1)</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>6</td>
-					<td><a href="/lectures.php?nr=6">Layout med HTML &amp; CSS (2)</a></td>
+					<td>Layout med HTML &amp; CSS (2)</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>7</td>
-					<td><a href="/lectures.php?nr=7">Responsiv webbdesign</a></td>
+					<td>Responsiv webbdesign</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>8</td>
-					<td><a href="/lectures.php?nr=8">Tutorial, att bygga en webbsida</a></td>
+					<td>Tutorial, att bygga en webbsida</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>9</td>
-					<td><a href="/lectures.php?nr=9">Webbutveckling med JavaScript</a></td>
+					<td>Webbutveckling med JavaScript</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
 					<td>10</td>
-					<td><a href="/lectures.php?nr=9">Ramverk och bibliotek</a></td>
+					<td>Ramverk och bibliotek</td>
 					<td>Anton</td>
 				</tr>
 				<tr>
@@ -90,6 +90,11 @@
 				<tr>
 					<td>12</td>
 					<td>Användbarhet: Fokus IT</td>
+					<td>Anton</td>
+				</tr>
+				<tr>
+					<td>Bonus</td>
+					<td>Att publicera webbplatser på internet</td>
 					<td>Anton</td>
 				</tr>
             </table>

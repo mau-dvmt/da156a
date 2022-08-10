@@ -1,8 +1,8 @@
-<h2>Laboration 1: En personlig webbsida</h2>
+<h2>Laboration 1: En första webbsida!</h2>
 
 <h3>1. Inledning</h3>
-<p>Alla bör ha en personlig webbplats!</p>
-<p>Som student på Malmö universitet har du automatiskt möjlighet att publicera webbsidor på Internet. Det är vanligt att där skapa en startsida, med en presentation, kontaktinformation, länkar - och annat du känner för. Att skapa och publicera en egen presentationssida är alltså syftet för denna laboration!</p>
+<p>Alla bör ha en webbplats!</p>
+<p>Som student på Malmö universitet har du automatiskt möjlighet att publicera webbsidor på Internet. Där finns det möjlighet att publicera information, bilder, länkar, m.m. som blir tillgängligt för alla! (som har adressen till din webbplats, såklart). Att skapa och publicera en webbsida är alltså syftet för denna laboration!</p>
 
 <h4>1.1. Exempel</h4>
 <p>Såhär har några (nuvarande och föredetta) lärare och forskare vid Institutionen för datavetenskap valt att göra med sina startsidor:</p>
@@ -52,6 +52,7 @@
         <ul>
             <li>I kursboken <a href="http://www.bokfynd.nu/1118871642.html">HTML and CSS: Design and Build Websites</a> görs detta bra.</li>
             <li>Mozilla publicerar ett slags upppslagsverk för många aspekter kring HTML: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla HTML Reference</a>.</li>
+            <li>Även webbplatsen <a href="https://www.w3schools.com/tags/default.asp">w3schools</a> har bra och tydligt information kring HTML-element och hur man kan använda dessa.</li>
         </ul>
     </li>
 </ul>
@@ -80,7 +81,7 @@
         <p>Skapa ett nytt dokument i din textredigerare (t.ex. VS code, Atom, Notepad++, etc.) och klistra in ovanstående kod i dokumentet. Spara filen i din <code>Webshare</code>-plats, med filnamnet <code>index.html</code>.</p>
     </li>
 
-    <li><p>För att nu surfa in till sidan som ni precis publicerade, surfar ni till <code>http://webshare.mah.se/datorid</code>, där datorid är din egen datoridentitet.</p></li>
+    <li><p>För att nu surfa in till sidan som ni precis publicerade, surfar ni till <code>http://webshare.mah.se/datorid</code>, där datorid är din egen datoridentitet (den som du använder för att logga in på Canvas).</p></li>
 
     <li><p>Om du får felet <code>404 - File or directory not found</code> så betyder det att ingen fil med namnet <code>index.html</code> (eller <code>index.htm</code>) hittas. Använd i så fall utforskaren för att kontrollera att filen från steg 1 är sparad i nätverksplatsen <code>Webshare</code>. Börja om från steg 1 om du inte hittar filen alls. Om filen finns, men har fel filnamn - använd utforskaren rätta till namnet.</p>
 
@@ -95,7 +96,7 @@
 
     <h5>3.2.2. Andra metoder för att komma åt hemkatalogen</h4>
 
-    <p>Om man inte är inne på Malmö universitets nätverk så kan man använda <a href="http://access.mah.se">ett webbgränssnitt</a> för att överföra filer till Webshare. Se <strong>videon nedan</strong> för hur ni kan arbeta med Webshare.</p>
+    <p>Om man inte är inne på Malmö universitets nätverk så kan man använda <a href="http://access.mah.se">ett webbgränssnitt</a> för att överföra filer till Webshare. Se <strong>videon nedan</strong> för hur ni kan arbeta med Webshare. (Obs. videon är från 2021, alltså behöver själva webbsidan som publiceras inte vara samma som vi gjorde på årets föreläsning.)</p>
 
     <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/36iM3rZ5LBU?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
 
@@ -104,8 +105,22 @@
     <ol>
         <li><a href="https://www.w3schools.com/html/html_intro.asp">w3schools - HTML introduction</a></li>
     </ol>
-    <p>Med den genomgången är det dags för dig att fylla på med valfritt innehåll! </p>
-    <p>Ett förslag är att du tänker dig målgruppen <em>lärare och studenter vid Malmö högskola</em> - vad vill dessa veta? Saker som kanske finns med på listan är ditt namn, vad du läser, en kort presentation av din bakgrund, kontakinformation, länkar till dina profiler på sociala nätverk, länkar till webbplatser som intresserar dig, bild(er) på dig eller något annat relevant, med mera. Det är förstås fritt att välja vad du inkluderar - men ju mer desto roligare.</p>
+    <p>Med den genomgången är det dags för dig att fylla på med valfritt innehåll!</p>
+    <blockquote>
+        <strong>Viktigt!</strong> Eftersom att era inlämninade uppgifter är <em>allmäna handlingar</em> och då potentiellt skulle kunna hämtas ut på begäran (som en kopia) av andra än er själva, är det lämpligt att i denna uppgift inte ange någon information som skulle kunna vara känslig.
+    </blockquote>
+    <h4>Vad för innehåll?</h4>
+    <p>Ni har fria tyglar på vad er webbsida ska handla om, det viktigaste är att ni använder <em>som minimum</em> de element som finns i tabellen nedan. Har ni idétorka så kommer här några förslag på var ni skulle kunna ha för information på den webbplatsen som ni ska skapa:</p>
+    <ul>
+        <li>En känd person</li>
+        <li>Ett sportlag</li>
+        <li>Ett land</li>
+        <li>Ett djur</li>
+        <li>En bilmodell</li>
+        <li>Ett företag</li>
+        <li>etc.</li>
+    </ul>
+    <p>Det är förstås fritt att välja vad du inkluderar - men ju mer desto roligare.</p>
     <p>Du bör också öva på att använda flera viktiga element i HTML. Förslagsvis bör din webbsida innehålla minst dessa (men även här - ju fler du övar på desto bättre):</p>
 
     <table class="table table-striped">

@@ -92,7 +92,7 @@ $(document).ready(function(){
         // Hämtar adressen till bilden som användaren klickade på
 		var src = $(this).attr("src");
         // Lägger till en större version av bilden (dold)
-		$("body").prepend("&lt;img src='" + src + "' style='position: fixed; width: 50%; left: 25%; top: 10%; z-index: 6; border: 10px solid #fff; box-shadow: 0 0 20px #000; display: none;' id='imageModal'&gt;")
+		$("body").prepend("&lt;img src='" + src + "' style='position: fixed; width: 50%; left: 25%; top: 10%; z-index: 6; border: 10px solid #fff; box-shadow: 0 0 20px #000; display: none;' id='image-modal'&gt;")
         // Lägger till en svart bakgrund (dold)
 		$("body").prepend("&lt;div id='background-modal' style='top: 0; bottom: 0; left: 0; right: 0; position: fixed; background-color: rgba(0,0,0,0.5); display:none; z-index: 5;'&gt;&lt;/div&gt;");
         // Visar bakgrunden genom en animation

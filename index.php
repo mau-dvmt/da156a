@@ -9,7 +9,7 @@ include "_header.php";
 		<h3>Syfte</h3>
 		<p>I den bakomliggande kursplanen beskrivs syfte och mål:</p>
 		<div class="well">Kursen syftar till att introducera fundamentala koncept och tekniker som ingår i modern webbutveckling. Studenten ska ges praktiska färdigheter i utveckling av webbplatser, liksom en teoretisk bakgrund till de begränsningar och möjligheter som ges av aktuella standarder och plattformar. Studenten ska också utveckla en inledande förståelse av hur användarbehov och -beteende kan styra utvecklingen av ett gränssnitt.</div>
-		<p>Den beskrivningen är väldigt avsiktligt formulerad utan att nämna specifika tekniker. Istället ligger fokus på "modern webbutveckling" och "aktuella standarder och plattformar". Målet är således att hålla en bra balans mellan grundläggande principer och viktiga nya utvecklingar. Hösten 2021 betyder det bland annat HTML5 och CSS3, med fokus på tillgänglighet och användbarhet för olika enheter.</p>
+		<p>Den beskrivningen är väldigt avsiktligt formulerad utan att nämna specifika tekniker. Istället ligger fokus på "modern webbutveckling" och "aktuella standarder och plattformar". Målet är således att hålla en bra balans mellan grundläggande principer och viktiga nya utvecklingar. Hösten 2022 betyder det bland annat HTML5 och CSS3, med fokus på tillgänglighet och användbarhet för olika enheter.</p>
 
 		<h3>Upplägg</h3>
 		<p>Webbplatsen är baserad på en universitetskurs där ämnen introduceras vid en serie föreläsningar. Bilder, länkar och exempel publiceras <a href="/lectures.php">här</a>.</p>
@@ -32,9 +32,9 @@ include "_header.php";
 		
 		<div class="list-group">
 			<!--
+			<a class="list-group-item" href="/lectures.php?nr=13">Instruktioner - One.com</a>	
 			<a class="list-group-item" href="/lectures.php?nr=12">F12: Användbarhet(2)</a>	
 			<a class="list-group-item" href="/lectures.php?nr=11">F11: Användbarhet(1)</a>		
-			-->
 			<a class="list-group-item" href="/assignments.php?nr=3">I3: Inlämning 3</a>
 			<a class="list-group-item" href="/lectures.php?nr=10">F10: Ramverk &amp; bibliotek</a>
 			<a class="list-group-item" href="/assignments.php?nr=2">I2: Inlämning 2</a>
@@ -54,7 +54,7 @@ include "_header.php";
 			<a class="list-group-item" href="/lectures.php?nr=2">F2: Intro HTML</a>
 			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kurslintroduktion</a>
 			<a class="list-group-item" href="/exercises.php?title=1">L1: En första webbsida</a>
-			
+			-->
 		</div>
 	</div>
 </div>

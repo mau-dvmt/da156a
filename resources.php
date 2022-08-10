@@ -40,10 +40,10 @@ include "_header.php";
 				<a href="https://developer.mozilla.org/en-US/docs">Mozilla Developer Network</a> fyller samma syfte som SitePoint, men kan vara mer utförlig för avancerade ämnen.
 			</li>
 			<li>
-				<a href="http://eloquentjavascript.net/">Eloquent JavaScript</a> är en gratisbok som introducerar och fördjupar inom programmering med JavaScript.
+				<a href="https://www.w3schools.com/">w3schools</a> är en sida med guider och <em>do it yourself</em>-exempel för att lära sig <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, etc.
 			</li>
 			<li>
-				<a href="http://dvwebb.mah.se/tsanti/HT2012/DA156A/index.html">JavaScriptföreläsningar</a> (på svenska) med exempel och övningar. Från grunderna till händelsehantering och DOM.
+				<a href="http://eloquentjavascript.net/">Eloquent JavaScript</a> är en gratisbok som introducerar och fördjupar inom programmering med JavaScript.
 			</li>
 		</ul>
 

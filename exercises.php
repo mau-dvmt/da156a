@@ -21,7 +21,7 @@
 		<div class="row">
 		<div class="col-lg-8 create-submenu">
 			<h2>Laborationer</h2>
-			<p>Laborationer är rekommenderade övningsuppgifter, som tar upp många viktiga koncept på ett förklarande vis. Studenter kan titta på <a href="plan.php">planen för 2021</a> för handledningstider. Där syns också när respektive labb bör vara gjord, för att hålla kursens tempo.</p>
+			<p>Laborationer är rekommenderade övningsuppgifter, som tar upp många viktiga koncept på ett förklarande vis. Studenter kan titta på <a href="plan.php">planen för 2022</a> för handledningstider. Där syns också när respektive labb bör vara gjord, för att hålla kursens tempo.</p>
 			<p>För varje genomförd labb på plats som redovisas för labbassistent kan man tillgodoräkna sig <code>0.5p</code> till tentamen.</p>
 			<table class="table table-striped">
                 <tr>
@@ -31,27 +31,27 @@
                 </tr>
                 <tr>
                     <td>1</td>
-                    <td><a href="/exercises.php?title=1">En enkel personlig webbsida</a></td>
+                    <td><a href="/exercises.php?title=1">En första webbsida!</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td>a) <a href="/exercises.php?title=2">Formulär &amp; tabeller</a>, b) <a href="/exercises.php?title=2b">Introduktion till CSS</a></td>
+                    <td>a) Formulär &amp; tabeller, b) Introduktion till CSS</td>
                     <td>Anton</td>
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td><a href="/exercises.php?title=3">Layout med CSS</a></td>
+                    <td>Layout med CSS</td>
                     <td>Anton</td>
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td><a href="/exercises.php?title=4">Responsiv webbutveckling</a></td>
+                    <td>Responsiv webbutveckling</td>
                     <td>Anton</td>
                 </tr>
                 <tr>
                     <td>5</td>
-                    <td><a href="/exercises.php?title=5">JavaScript och ramverk</a></td>
+                    <td>JavaScript och ramverk</td>
                     <td>Anton</td>
                 </tr>
 			</table>
