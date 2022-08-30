@@ -20,7 +20,7 @@
                     <td rowspan="3">35</td>
                     <td>30/8</td>
                     <td>10-12</td>
-                    <td>Föreläsning 1: Kursintroduktion</td>
+                    <td>Föreläsning 1: <a href="/lectures.php?nr=1">Kursintroduktion</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="lecture even">
@@ -132,7 +132,7 @@
                 <tr class="laboration odd">
 					<td>7/10</td>
 					<td>08-12</td>
-					<td>Laboration: Extratillfälle</td>
+					<td>Laboration: Att publicera webbplatser på "riktigt"</td>
 					<td></td>
 				</tr>
 
@@ -145,7 +145,7 @@
                 </tr>
                 <tr class="laboration even">
                     <td>14/10</td>
-                    <td>08-10</td>
+                    <td>08-12</td>
                     <td>Laboration: Extratillfälle</td>
 					<td></td>
                 </tr>
