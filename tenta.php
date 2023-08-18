@@ -7,7 +7,6 @@
         <h3>Exempeltentor</h3>
         <p><em>Exempeltentor kommer att publiceras i god tid innan tentamen.</em></p>
 
-        <!--
         <p>För att visa hur uppgifterna ser ut är tre tidigare tentor publicerade. De är alla ganska lika till utformningen, och ger en bra indikation på kommande uppgifter. PDF-format:</p>
         <ol>
             <li><a href="/resources/examns/Tentamen-DA156A-HT14.pdf">HT 2014</a></li>
@@ -25,9 +24,9 @@
         <p>Inför första skrivningen är ett seminarium inbokat, där frågor besvaras och möjliga lösningar kan diskuteras. Se <a href="/plan.php">planen</a>.</p>
 
         <h3>Anmälan</h3>
-        <p>Anmälan till tentamen är <strong>obligatorisk</strong> och görs via <a href="http://schema.mah.se/">Kronox</a> (senast 8 dagar innan tentamen).</p>
+        <p>Anmälan till tentamen är <strong>obligatorisk</strong> och görs via <a href="https://schema.mau.se/">Kronox</a> (senast 8 dagar innan tentamen).</p>
         <p><a href="https://www.mah.se/Ar-student/For-dina-studier/Tentamen/">Mer information om anmälan till tenamen hittar ni här</a></p>
-        -->
+
     </div>
     <div class="col-lg-4 submenu-area">
     </div>

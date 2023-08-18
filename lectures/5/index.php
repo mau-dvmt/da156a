@@ -1,5 +1,7 @@
 <h2>Föreläsning 5 - Layout med CSS (1)</h2>
 
+<p><strong>VIKTIGT!</strong> Eftersom det var byggkaos vid vår föreläsning idag så laddar jag istället upp förra årets inspelning (av en digital live-föreläsning). Detta innebär bl.a. att det finns studentfrågor som t.ex. skrivs i Zoom som ni inte ser, och (viktigt) det kan förekomma information om kursen (förra årets kurs) vilket alltså inte är aktuellt för denna kursomgång. Håll till godo.</p>
+
 <hr>
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/53e29b02cced4877bb8f50592089e218" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>

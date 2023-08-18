@@ -36,22 +36,27 @@
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td>a) Formulär &amp; tabeller, b) Introduktion till CSS</td>
+                    <td>a) <a href="/exercises.php?title=2">Formulär &amp; tabeller</a>, b) <a href="/exercises.php?title=2b">Introduktion till CSS</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td>Layout med CSS</td>
+                    <td><a href="/exercises.php?title=3">Layout med CSS</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Responsiv webbutveckling</td>
+                    <td><a href="/exercises.php?title=4">Responsiv webbutveckling</a></td>
                     <td>Anton</td>
                 </tr>
                 <tr>
                     <td>5</td>
-                    <td>JavaScript och ramverk</td>
+                    <td><a href="/exercises.php?title=5">JavaScript och ramverk</a></td>
+                    <td>Anton</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td><a href="/exercises.php?title=6">Bonus - Webbhotell: one.com</a></td>
                     <td>Anton</td>
                 </tr>
 			</table>

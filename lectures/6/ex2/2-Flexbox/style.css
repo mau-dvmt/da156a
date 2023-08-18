@@ -1,0 +1,27 @@
+#menu {
+    display: flex;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+#menu > a {
+    background-color: yellow;
+    padding: 10px;
+    margin: 5px;
+}
+
+#menu > input {
+    margin-left: auto;
+}
+
+#images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#images > img {
+    width: 25%;
+    flex-grow: 1;
+    object-fit: cover;
+}

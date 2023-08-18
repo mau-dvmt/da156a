@@ -26,7 +26,7 @@
                 <tr class="lecture even">
                     <td>31/8</td>
                     <td>13-15</td>
-                    <td>Föreläsning 2: Introduktion till HTML</td>
+                    <td>Föreläsning 2: <a href="/lectures.php?nr=2">Introduktion till HTML</a></td>
 					<td>HTML &amp; CSS: Kap. 1-5</td>
                 </tr>
                 <tr class="laboration even">
@@ -40,19 +40,19 @@
                     <td rowspan="3">36</td>
                     <td>6/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 3: Tabell &amp; formulär</td>
+                    <td>Föreläsning 3: <a href="/lectures.php?nr=3">Tabell &amp; formulär</a></td>
 					<td>HTML &amp; CSS: Kap. 6-7</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>7/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 4: Introduktion till CSS</td>
+                    <td>Föreläsning 4: <a href="/lectures.php?nr=4">Introduktion till CSS</a></td>
 					<td>HTML &amp; CSS: Kap. 10-14</td>
                 </tr>
                 <tr class="laboration odd">
                     <td>9/9</td>
                     <td>08-12</td>
-                    <td>Laboration 2: a) Formulär &amp; tabeller, b) Introduktion till CSS</td>
+                    <td>Laboration 2: a) <a href="/exercises.php?title=2">Formulär &amp; tabeller</a>, b) <a href="/exercises.php?title=2b">Introduktion till CSS</a></td>
 					<td></td>
                 </tr>
 
@@ -60,19 +60,19 @@
                     <td rowspan="3">37</td>
                     <td>13/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 5: Layout med CSS (1)</td>
+                    <td>Föreläsning 5: <a href="/lectures.php?nr=5">Layout med CSS (1)</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture even">
                     <td>14/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 6: Layout med CSS (2)</td>
+                    <td>Föreläsning 6: <a href="/lectures.php?nr=6">Layout med CSS (2)</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="laboration even">
                     <td>16/9</td>
                     <td>08-12</td>
-                    <td>Laboration 3: Layout med CSS</td>
+                    <td>Laboration 3: <a href="/exercises.php?title=3">Layout med CSS</a></td>
 					<td></td>
                 </tr>
 
@@ -80,25 +80,25 @@
                     <td rowspan="4">38</td>
                     <td>20/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 7: Responsiv webbutveckling</td>
+                    <td>Föreläsning 7: <a href="/lectures.php?nr=7">Responsiv webbutveckling</a></td>
 					<td>HTML &amp; CSS: Kap. 15</td>
                 </tr>
                 <tr class="lecture odd">
                     <td>21/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 8: Tutorial, att bygga en webbsida</td>
+                    <td>Föreläsning 8: <a href="/lectures.php?nr=8">Tutorial, att bygga en webbsida</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration odd">
                     <td>23/9</td>
                     <td>08-12</td>
-                    <td>Laboration 4: Responsiv webbplats</td>
+                    <td>Laboration 4: <a href="/exercises.php?title=4">Responsiv webbplats</a></td>
 					<td></td>
                 </tr>
                 <tr class="tenta assignment odd">
                     <td>25/9</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 1</strong></td>
+                    <td><strong>Deadline: <a href="/assignments.php?nr=1">Inlämningsuppgift 1</a></strong></td>
 					<td></td>
                 </tr>
 
@@ -106,19 +106,19 @@
                     <td rowspan="3">39</td>
                     <td>27/9</td>
                     <td>10-12</td>
-                    <td>Föreläsning 9: Webbutveckling med JavaScript</td>
+                    <td>Föreläsning 9: <a href="/lectures.php?nr=9">Webbutveckling med JavaScript</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="lecture even">
                     <td>28/9</td>
                     <td>13-15</td>
-                    <td>Föreläsning 10: Ramverk &amp; bibliotek</td>
+                    <td>Föreläsning 10: <a href="/lectures.php?nr=10">Ramverk &amp; bibliotek</a></td>
 					<td>-</td>
                 </tr>
                 <tr class="laboration even">
                     <td>30/9</td>
                     <td>08-12</td>
-                    <td>Laboration 5: JavaScript på webben</td>
+                    <td>Laboration 5: <a href="/exercises.php?title=5">JavaScript på webben</a></td>
 					<td></td>
                 </tr>
 
@@ -126,13 +126,13 @@
                     <td rowspan="2">40</td>
 					<td>5/10</td>
 					<td>13-15</td>
-					<td>Föreläsning 11: Introduktion till användbarhet</td>
+					<td>Föreläsning 11: <a href="/lectures.php?nr=11">Introduktion till användbarhet</a></td>
 					<td></td>
 				</tr>
                 <tr class="laboration odd">
 					<td>7/10</td>
 					<td>08-12</td>
-					<td>Laboration: Att publicera webbplatser på "riktigt"</td>
+					<td>Laboration: <a href="/exercises.php?title=6">Att publicera webbplatser på "riktigt"</a></td>
 					<td></td>
 				</tr>
 
@@ -140,7 +140,7 @@
                     <td rowspan="3">41</td>
                     <td>12/10</td>
                     <td>13-15</td>
-                    <td>Föreläsning 12: Användbarhet med fokus på webben</td>
+                    <td>Föreläsning 12: <a href="/lectures.php?nr=12">Användbarhet med fokus på webben</a></td>
 					<td></td>
                 </tr>
                 <tr class="laboration even">
@@ -152,7 +152,7 @@
                 <tr class="tenta assignment even">
                     <td>16/10</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 2</strong></td>
+                    <td><strong>Deadline: <a href="/assignments.php?nr=2">Inlämningsuppgift 2</a></strong></td>
 					<td></td>
                 </tr>
 
@@ -182,7 +182,7 @@
                  <tr class="tenta assignment odd">
                     <td>6/11</td>
                     <td></td>
-                    <td><strong>Deadline: Inlämningsuppgift 3</strong></td>
+                    <td><strong>Deadline: <a href="/assignments.php?nr=3">Inlämningsuppgift 3</a></strong></td>
 					<td></td>
                 </tr>
 

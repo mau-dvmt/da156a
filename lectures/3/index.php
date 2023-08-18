@@ -2,19 +2,11 @@
 
 <hr>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/FtWq3WQLzZM?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/689870cdd004424fac2a4274e3bfc594" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
 
 <hr>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/95b1497424cc41c5865f712f8ffe93ba" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
-
-<hr>
-
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://miro.com/app/embed/o9J_ly9n2AM=/" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
-
-<hr>
-
-<a href="/resources/pdf/F3-Tabeller-formular-ht21.pdf">Ladda ner föreläsningen här</a>
+<a href="/resources/pdf/3-2022.pdf">Ladda ner föreläsningen här</a>
 
 <h3>Dagens exempel</h3>
 
@@ -68,10 +60,10 @@
                 &lt;tr&gt;
                     &lt;td rowspan=&quot;2&quot;&gt;3&lt;/td&gt;
                     &lt;td colspan=&quot;2&quot;&gt;Examensprojekt: Informationsarkitekt och systemutvecklare&lt;/td&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Valbara kurser&lt;/td&gt;
+                    &lt;td colspan=&quot;2&quot;&gt;Examensarbete&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Examensarbete&lt;/td&gt;
+                    &lt;td colspan=&quot;2&quot;&gt;Valbara kurser&lt;/td&gt;
                     &lt;td colspan=&quot;2&quot;&gt;Valbara kurser&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/tbody&gt;

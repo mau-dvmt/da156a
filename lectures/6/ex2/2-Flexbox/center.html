@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+    <head>
+        <title>CSS 3 - Flexbox</title>
+        <style>
+            body {
+                margin: 0px;
+            }
+
+            #login {
+                height: 100vh;
+                width: 100vw;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+            }
+
+            #login > form {
+                width: 40%;
+                padding: 20px;
+                background-color: lightblue;
+                display: flex;
+                flex-direction: column;
+                box-shadow: 0 0 10px #333;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="login">
+            <form>
+                <h1>Logga in</h1>
+                <label>Användarnamn:</label>
+                <input type="text">
+                <label>Lösenord:</label>
+                <input type="password">
+                <input type="submit" value="logga in">
+            </form>
+        </div>
+    </body>
+</html>

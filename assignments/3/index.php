@@ -12,7 +12,7 @@
 </ol>
 <p>Webbplatsen ni ska förbättra heter ”MovieLovers” och är gjord av en hobbyfilmklubb. Målet med webbplatsen är att dela med sig av filmerfarenheter till andra filmfantaster. Sidan är uppbyggd med XHTML och ska moderniseras till HTML5. Dessutom använder många av sidans besökare sin mobiltelefon för att besöka den, så webbplatsen behöver även vara anpassad för sådana, mindre skärmar. Eftersom att webbplatsen är skapad av en hobbyfilmklubb så har det inte varit något fokus vid webbplatsens användbarhet (då kunskap inom detta område saknats), så en liten analys och förbättring av användbarheten ska också göras.</p>
 <p>Hur du löser uppgiften är upp till dig. Du kan antingen uppdatera källkoden där det behövs, skriva om delar av webbplatsen eller skapa en helt ny webbplats. Det är helt valfritt om man vill ändra layout på sidan, byta färger, ändra i menyn, byta rubriker eller strukturera om innehållet. Filmklubben ger dig <strong>fria tyglar</strong> helt enkelt.</p>
-<p>Länk till den nuvarande webbplatsen finns här: <a href="http://dvwebb.mah.se/tsanti/HT2012/DA156A/Inl3/index.html">    dvwebb.mah.se/tsanti/HT2012/DA156A/Inl3/</a>
+<p>Länk till den nuvarande webbplatsen finns här: <a href="https://da106a.ia-mau.se/assignments/3/ex/">https://da106a.ia-mau.se/assignments/3/ex/</a>
 </p>
 <p>Du kan också ladda ner <a href="/assignments/3/Inl3.zip">hela webbplatsen</a>.</p>
 

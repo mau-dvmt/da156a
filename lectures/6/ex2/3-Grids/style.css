@@ -1,0 +1,37 @@
+#grid {
+    display: grid;
+    grid-template-rows: 100px auto 50px;
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-areas: 
+    "header header header"
+    "nav main aside"
+    "footer footer footer";
+    gap: 10px;
+}
+
+#grid > header {
+    grid-area: header;
+    background-color: aqua;
+}
+
+#grid > nav {
+    grid-area: nav;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+}
+
+#grid > main {
+    grid-area: main;
+    background-color: darkmagenta;
+}
+
+#grid > aside {
+    grid-area: aside;
+    background-color: dodgerblue;
+}
+
+#grid > footer {
+    grid-area: footer;
+    background-color:aquamarine;
+}

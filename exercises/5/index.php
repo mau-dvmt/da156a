@@ -73,5 +73,5 @@ $(document).ready(function() {
 <img src="/exercises/5/5.2.gif" alt="Result">
 
 <h3>Del 3 - Bootstrap and beyond!</h3>
-<p><strong>Denna del är viktig träning, men behöver inte lämnas in på Canvas</strong></p>
+<p><strong>Denna del är viktig träning, men behöver inte redovisas.</strong></p>
 <p>Nu är det upp till dig att bygga ut din webbsida. Titta gärna på <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/">Bootstraps dokumentation</a> för att inspirerad kring hur man kan använda deras komponenter för att bygga en mordern webbplats. Välj gärna ut några komponenter i bootstrap som ni implementerar på er webbplats. Fråga gärna labbhandledare om ni har några frågor eller andra tankar kring detta!</p>

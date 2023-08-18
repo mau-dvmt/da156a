@@ -31,9 +31,8 @@ include "_header.php";
 		<h2>Senaste händelser</h2>
 		
 		<div class="list-group">
-			<!--
-			<a class="list-group-item" href="/lectures.php?nr=13">Instruktioner - One.com</a>	
-			<a class="list-group-item" href="/lectures.php?nr=12">F12: Användbarhet(2)</a>	
+			<a class="list-group-item" href="/lectures.php?nr=12">F12: Användbarhet(2)</a>
+			<a class="list-group-item" href="/exercises.php?title=6">L6: Bonus: one.com</a>
 			<a class="list-group-item" href="/lectures.php?nr=11">F11: Användbarhet(1)</a>		
 			<a class="list-group-item" href="/assignments.php?nr=3">I3: Inlämning 3</a>
 			<a class="list-group-item" href="/lectures.php?nr=10">F10: Ramverk &amp; bibliotek</a>
@@ -52,7 +51,6 @@ include "_header.php";
 			<a class="list-group-item" href="/exercises.php?title=2">L2a: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/lectures.php?nr=3">F3: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/lectures.php?nr=2">F2: Intro HTML</a>
--->
 			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kurslintroduktion</a>
 			<a class="list-group-item" href="/exercises.php?title=1">L1: En första webbsida</a>
 		</div>

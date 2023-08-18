@@ -1,5 +1,15 @@
 <h2>Föreläsning 10 - Ramverk och bibliotek</h2>
 
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/1023ba8afac4466b81f9d923497238e7" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
+
+<h3>Dagens exempel</h3>
+
+<p>Ni kan ladda ner dagens exempel i sin helhet <a href="/lectures/10/ramverk-2022.zip">här</a>, eller surfa till vår demosida som använder bootstrap <a href="/lectures/10/bootstrap-2022/index.html">här</a>.</p>
+
+<hr>
+
+<h2>Förra årets föreläsning</h2>
+
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/32e220c477b94179b442eb70835077f3" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
 
 <hr>
