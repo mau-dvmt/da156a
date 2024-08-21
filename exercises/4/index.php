@@ -81,5 +81,5 @@ header{
 <p>En slutversion kan se ut <a href="/exercises/4/case/index-final.html">såhär</a>. Men nu skulle det passa bra med valfria förbättringar från dig. Kanske några fler brytpunkter? Kanske bör man också testa i flera webbläsare för att säkra att det fungerar som förväntat i de vanligaste webbläsarna.</p>
 
 
-<h3>6. Vidare laboration - Din tur!</h3>
+<h3>6. Avslutande övning - Din tur!</h3>
 <p>Använd nu en av dina tidigare layouter (t.ex. den från <a href="/exercises.php?title=3">labb 3</a>) - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! =)</p>

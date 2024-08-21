@@ -21,7 +21,7 @@
 	<div class="row">
 		<div class="col-lg-8 create-submenu">
 			<h2>Inlämningsuppgifter</h2>
-			<p>Dessa uppgifter är, till skillnad från laborationerna, examinerande - vilket betyder att de är obligatoriska att genomföra för godkänt kursbetyg. Under höstterminen 2022 ingår tre uppgifter, som publiceras under kursens gång (enligt <a href="plan.php">planen</a>). Uppgifterna motsvarar 3,5 hp, och kan ge betyget Godkänd.</p>
+			<p>Dessa uppgifter är, till skillnad från laborationerna, examinerande - vilket betyder att de är obligatoriska att genomföra för godkänt kursbetyg. Under höstterminen 2023 ingår tre uppgifter, som publiceras under kursens gång (enligt <a href="plan.php">planen</a>). Uppgifterna motsvarar 3,5 hp, och kan ge betyget Godkänd.</p>
 			<p>Inlämningsuppgifterna publiceras under kursens gång.</p>
 			<table class="table table-striped">
 			    <tr>
@@ -29,16 +29,16 @@
 			        <th>Inlämningsuppgift</th>
 			    </tr>
 			    <tr>
-					<td>25/9</td>
+					<td>24/9</td>
                     <td><a href="assignments.php?nr=1">Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</a></td>
 			    </tr>
 				<tr>
-					<td>16/10	</td>
-                    <td><a href="assignments.php?nr=2">Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</a></td>
+					<td>15/10	</td>
+                    <td><a href="/assignments.php?nr=2">Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</a></td>
 			    </tr>
 				<tr>
-					<td>6/11</td>
-                    <td><a href="assignments.php?nr=3">Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</a></td>
+					<td>5/11</td>
+                    <td><a href="/assignments.php?nr=3">Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</a></td>
 			    </tr>
 			</table>
 		</div>

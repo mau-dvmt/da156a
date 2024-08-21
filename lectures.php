@@ -24,7 +24,7 @@
 	<div class="row">
 		<div class="col-lg-8 create-submenu">
 			<h2>Föreläsningar</h2>
-			<p>I kursen ges en föreläsningsserie, med sammanfattande förklaring, exempel, livedemos och tips. Föreläsningarna spelas ev. in, men det mesta av stödmaterialet (bildspel, exempeldokument, etc.) publiceras här.</p>
+			<p>I kursen ges en föreläsningsserie, med sammanfattande förklaring, exempel, livedemos och tips. Presentationer, kodexempel m.m. publiceras här.</p>
 
             <table class="table table-striped">
                 <tr>
@@ -94,7 +94,7 @@
 				</tr>
 				<tr>
 					<td>Bonus</td>
-					<td><a href="/exercises.php?title=6">Att publicera webbplatser på internet</a></td>
+					<td>Att publicera webbplatser på internet</td>
 					<td>Anton</td>
 				</tr>
             </table>

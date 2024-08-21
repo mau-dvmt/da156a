@@ -1,10 +1,17 @@
 <h2>Laboration 3: Layout med CSS</h2>
 <p>I denna laboration ska du öva på positionering genom CSS och att få flera element i en webbsida att samverka. Du kommer lära dig att göra grunden till en webbplats och att använda denna på flera webbsidor.</p>
 
+<h3>Viktigt - Om olika tekniker</h3>
 <p>
-    Avancerat:
-    <strong>Labben får gärna göras med <code>grids</code> och/eller <code>flexbox</code> för de som föredrar detta. Information om detta finns <a href="#" title="Kommer att komma upp när föreläsningen har varit">här</a>.</strong>
+    För att bli en bra webbutvecklare så behöver man behärska olika tekniker. Detta framförallt för att kunna veta när vilken teknik är bäst att använda, men också för att man ibland inte får välja vilken teknik som ska användas. När det kommer till att bygga layouter så kan vi bygga upp dem på tre olika sätt (olika tekniker):
 </p>
+<ul>
+    <li>Genom <code>float</code></li>
+    <li>Genom <code>grid</code></li>
+    <li>Genom <code>flex</code></li>
+</ul>
+
+<p>Laborationen börjar med att vi testar på <code>float</code>, vilket är den älsta tenkiken. <strong>För att bli godkänd på labben behöver ni göra layouten om beskrivs nedan genom båda teknikerna: <code>float</code> och <code>grid</code></strong>. Bonus (och väldigt bra träning) är att även göra den genom tekniken <code>flex</code></p>
 
 <h3>1. Uppgift</h3>
 <p>Målet är att producera en layout, som likt många webbplatser på Internet består utav ett sidhuvud, en menykolumn, en innehållskolumn och en sidfot. Följande bild illustrerar målet:</p>
@@ -111,15 +118,12 @@
 <h4>1.5. Flera sidor</h4>
 <p>Eftersom all CSS ligger i en externa stilmall kan samma utseende enkelt fås på flera sidor. Kopiera ditt HTML-dokument till en ny fil. Byt ut innehållet i <code>section</code> till något annat och länka sedan mellan dina två dokument (kanske i navigationsmenyn?).</p>
 
-<h3>2. Validering och feedback</h3>
+<h3>2. Layout med <code>grid</code></h3>
+<p>Toppen! Nu var den första delen av laborationen klar! Nu är det dags att bygga samma layout med med tekniken <code>grid</code> istället. För inspiration, spana gärna in föreläsningen och exemplen som vi gick igenom på föreläsningen om <code>grid</code> (publiceras när föreläsningen varit).</p>
+
+<h3>3. Validering och feedback</h3>
 <p>Som alltid, se till att dokumentet <a href="http://validator.w3.org/">validerar</a>. Använd <a href="http://jigsaw.w3.org/css-validator/">CSS-validatorn</a> för alla stilmallar. Be kursare och labbassistenter om feedback för en djupare bild av vad som är bra och dåligt.</p>
 
-<h3>3. Bonus - mer träning på layouter!</h3>
-<p>Gjorde du layouten med:</p>
-<ul>
-    <li><code>floats</code> - Toppen, testa att göra layouten med <code>grids</code> istället</li>
-    <li><code>grids</code> - Toppen, testa att göra layouten med <code>floats</code> istället</li>
-    <li><code>flexbox</code> - Toppen, testa att göra layouten med <code>floats</code> istället</li>
-    <li>etc. :)</li>
-</ul>
+<h3>4. Bonus - mer träning på layouter!</h3>
+<p>Klar? Grymt! Testa då att göra samma layout genom tekniken <code>flex</code></p>
 <p>Tänk på att det är viktigt att behärska <strong>alla tre teknikerna</strong> för att bli en bra webbutvecklare!</p>

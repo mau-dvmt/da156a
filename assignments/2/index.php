@@ -141,7 +141,7 @@ $(document).ready(function(){
 
 <h3>5. Redovisning</h3>
 
-<p>Ni lämnar in ert resultat på Canvas via följande länk <a href="https://mau.instructure.com/courses/11435/assignments/78679">https://mau.instructure.com/courses/11435/assignments/78679</a>. <strong>OBS.</strong> Lämna in <strong>alla filer</strong> som tillhör er lösning d.v.s. HTML, CSS, ev. bilder, etc.</p>
+<p>Ni lämnar in ert resultat på Canvas via följande länk <a href="https://mau.instructure.com/courses/14521/assignments/101602">https://mau.instructure.com/courses/14521/assignments/101602</a>. <strong>OBS.</strong> Lämna in <strong>alla filer</strong> som tillhör er lösning d.v.s. HTML, CSS, ev. bilder, etc.</p>
 
 
 <h3>6. Notis om individuellt genomförande</h4>

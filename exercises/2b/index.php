@@ -36,7 +36,7 @@ Det kan även vara bra att undersöka hur <a href="http://reference.sitepoint.co
 <div class="extra">
     <h5>3.1.2 Om typsnitt - tänk på</h5>
     <ul>
-    <li>Alla typsnitt finns inte installerade överallt. <a href="http://media.24ways.org/2007/17/fontmatrix.html">Denna tabell</a> kan hjälpa dig att avgöra hur vanliga typsnitt är.</li>
+    <li>Alla typsnitt finns inte installerade överallt. <a href="https://www.askingbox.com/article/fonts-for-windows-linux-and-mac-on-the-web">Denna tabell</a> kan hjälpa dig att avgöra hur vanliga typsnitt är.</li>
     <li>Ange gärna mer än ett typsnitt. Genom att ge en lista på flera typsnitt så kan man även styra andra- och tredjeval (osv.). Typsnitten separeras helt enkelt med kommatecken: <code>font-family: Helvetica, Arial, sans-serif;</code>.</li>
     <li>Ange alltid typsnittsfamilj som sistaval. Detta handlar oftast om typsnitt med eller utan <a href="http://sv.wikipedia.org/wiki/Serif">seriffer</a> (<code>sans-serif</code> eller <code>serif</code>).</li>
     <li>Om ett typsnitt har fler än ett ord i namnet så måste det anges inom citattecken, ex: <code>"Times New Roman"</code>.</li>

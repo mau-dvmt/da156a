@@ -1,28 +1,20 @@
 #images {
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b3dced+0,29b8e5+50,bce0ee+100;Blue+Pipe */
-background: #b3dced; /* Old browsers */
-background: -moz-linear-gradient(top,  #b3dced 0%, #29b8e5 50%, #bce0ee 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=0 ); /* IE6-9 */
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+    background: linear-gradient(to bottom,  rgba(240,249,255,1) 0%,rgba(203,235,255,1) 47%,rgba(161,219,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 
     overflow: hidden;
-    padding: 20px;
+
 }
 
 #images > figure {
     width: 20%;
     margin: 2.5%;
-    float: left;   
-
-    -webkit-border-radius: 20px 20px 20px 20px;
-    border-radius: 20px 20px 20px 20px;
+    float: left;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
 
     border: 5px solid white;
     box-sizing: border-box;
-
-    -webkit-box-shadow: 0 0 10px 1px #000000;
-    box-shadow: 0 0 10px 1px #000000;
 
     -moz-transform: rotate(15deg);
     -webkit-transform: rotate(15deg);
@@ -30,22 +22,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', end
     -ms-transform: rotate(15deg);
     transform: rotate(15deg);
 
+    opacity: 0.5;
+
     position: relative;
     overflow: hidden;
-
-    opacity: 0.5;
-    transition: all 0.5s;
+    transition: all 1s;
 }
 
 #images > figure:hover {
+    opacity: 1;
+    transition: all 1s;
+
     -moz-transform: rotate(-15deg);
     -webkit-transform: rotate(-15deg);
     -o-transform: rotate(-15deg);
     -ms-transform: rotate(-15deg);
     transform: rotate(-15deg);
-
-    transition: all 0.5s;
-    opacity: 1;
 }
 
 #images > figure > img {
@@ -54,19 +46,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', end
 
 #images > figure > figcaption {
     position: absolute;
-    bottom: 0px;
     left: 0px;
     right: 0px;
-    background-color: rgba(0,0,0,0.5);
-    color: white;
-    text-align: center;
+    bottom: 0px;
     height: 0px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: all 1s;
 }
 
 #images > figure:hover figcaption {
     height: 20px;
-    line-height: 20px;
-    transition: all 0.5s;
 }
 
 #animate-btn {
@@ -83,11 +74,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', end
     height: 50px;
     width: 50px;
     position: absolute;
-    left: 0px;
+    left:0px;
 }
 
 #animate-btn:hover + #box {
-    animation: run 5s infinite;
+    animation: run 5s infinite ;
 }
 
 @keyframes run {
@@ -96,17 +87,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', end
         background-color: red;
         left: 0px;
     }
+
     50% {
         left: calc(100% - 100px);
+        background-color: aqua;
         width: 100px;
         height: 100px;
-        background-color: aqua;
     }
+
     100% {
         left: 0px;
         background-color: red;
-        width: 50px;
         height: 50px;
+        width: 50px;
     }
-    
+
 }

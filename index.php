@@ -9,7 +9,7 @@ include "_header.php";
 		<h3>Syfte</h3>
 		<p>I den bakomliggande kursplanen beskrivs syfte och mål:</p>
 		<div class="well">Kursen syftar till att introducera fundamentala koncept och tekniker som ingår i modern webbutveckling. Studenten ska ges praktiska färdigheter i utveckling av webbplatser, liksom en teoretisk bakgrund till de begränsningar och möjligheter som ges av aktuella standarder och plattformar. Studenten ska också utveckla en inledande förståelse av hur användarbehov och -beteende kan styra utvecklingen av ett gränssnitt.</div>
-		<p>Den beskrivningen är väldigt avsiktligt formulerad utan att nämna specifika tekniker. Istället ligger fokus på "modern webbutveckling" och "aktuella standarder och plattformar". Målet är således att hålla en bra balans mellan grundläggande principer och viktiga nya utvecklingar. Hösten 2022 betyder det bland annat HTML5 och CSS3, med fokus på tillgänglighet och användbarhet för olika enheter.</p>
+		<p>Den beskrivningen är väldigt avsiktligt formulerad utan att nämna specifika tekniker. Istället ligger fokus på "modern webbutveckling" och "aktuella standarder och plattformar". Målet är således att hålla en bra balans mellan grundläggande principer och viktiga nya utvecklingar. Hösten 2023 betyder det bland annat HTML5 och CSS3, med fokus på tillgänglighet och användbarhet för olika enheter.</p>
 
 		<h3>Upplägg</h3>
 		<p>Webbplatsen är baserad på en universitetskurs där ämnen introduceras vid en serie föreläsningar. Bilder, länkar och exempel publiceras <a href="/lectures.php">här</a>.</p>
@@ -31,27 +31,29 @@ include "_header.php";
 		<h2>Senaste händelser</h2>
 		
 		<div class="list-group">
-			<a class="list-group-item" href="/lectures.php?nr=12">F12: Användbarhet(2)</a>
+			<!--
 			<a class="list-group-item" href="/exercises.php?title=6">L6: Bonus: one.com</a>
-			<a class="list-group-item" href="/lectures.php?nr=11">F11: Användbarhet(1)</a>		
+			-->
+			<a class="list-group-item" href="/lectures.php?nr=12">F12: Användbarhet(2)</a>
+			<a class="list-group-item" href="/lectures.php?nr=11">F11: Användbarhet(1)</a>
 			<a class="list-group-item" href="/assignments.php?nr=3">I3: Inlämning 3</a>
 			<a class="list-group-item" href="/lectures.php?nr=10">F10: Ramverk &amp; bibliotek</a>
-			<a class="list-group-item" href="/assignments.php?nr=2">I2: Inlämning 2</a>
 			<a class="list-group-item" href="/exercises.php?title=5">L5: JS &amp; ramverk</a>
 			<a class="list-group-item" href="/lectures.php?nr=9">F9: Intro JavaScript</a>
-			<a class="list-group-item" href="/lectures.php?nr=8">F8: Webbplatsbygge</a>	
+			<a class="list-group-item" href="/assignments.php?nr=2">I2: Inlämning 2</a>
+			<a class="list-group-item" href="/lectures.php?nr=8">F8: Webbplatsbygge</a>
+			<a class="list-group-item" href="/lectures.php?nr=7">F7: Responsiv webb</a>
 			<a class="list-group-item" href="/exercises.php?title=4">L4: Responsiv webb</a>
-			<a class="list-group-item" href="/lectures.php?nr=7">F7: Responsiv webb</a>	
 			<a class="list-group-item" href="/lectures.php?nr=6">F6: Layout med CSS (2)</a>				
 			<a class="list-group-item" href="/assignments.php?nr=1">I1: Inlämning 1</a>
 			<a class="list-group-item" href="/lectures.php?nr=5">F5: Layout med CSS</a>
 			<a class="list-group-item" href="/exercises.php?title=3">L3: Layout med CSS</a>
-			<a class="list-group-item" href="/lectures.php?nr=4">F4: Intro CSS</a>			
+			<a class="list-group-item" href="/lectures.php?nr=4">F4: Intro CSS</a>
+			<a class="list-group-item" href="/lectures.php?nr=3">F3: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/exercises.php?title=2b">L2b: Intro CSS</a>
 			<a class="list-group-item" href="/exercises.php?title=2">L2a: Tabeller &amp; formulär</a>
-			<a class="list-group-item" href="/lectures.php?nr=3">F3: Tabeller &amp; formulär</a>
-			<a class="list-group-item" href="/lectures.php?nr=2">F2: Intro HTML</a>
-			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kurslintroduktion</a>
+			<a class="list-group-item" href="/lectures.php?nr=2">F1: Intro HTML</a>			
+			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kursintroduktion</a>
 			<a class="list-group-item" href="/exercises.php?title=1">L1: En första webbsida</a>
 		</div>
 	</div>

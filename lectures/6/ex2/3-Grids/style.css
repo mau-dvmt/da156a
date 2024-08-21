@@ -1,12 +1,18 @@
 #grid {
     display: grid;
-    grid-template-rows: 100px auto 50px;
-    grid-template-columns: 200px 1fr 200px;
-    grid-template-areas: 
+    width: 100%;
+
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
     "header header header"
     "nav main aside"
     "footer footer footer";
     gap: 10px;
+}
+
+#grid > * {
+    min-height: 100px;
 }
 
 #grid > header {
@@ -16,22 +22,20 @@
 
 #grid > nav {
     grid-area: nav;
-    background-color: burlywood;
-    display: flex;
-    flex-direction: column;
+    background-color:antiquewhite;
 }
 
 #grid > main {
     grid-area: main;
-    background-color: darkmagenta;
+    background-color:aquamarine;
 }
 
 #grid > aside {
     grid-area: aside;
-    background-color: dodgerblue;
+    background-color:chocolate;
 }
 
 #grid > footer {
     grid-area: footer;
-    background-color:aquamarine;
+    background-color:violet;
 }

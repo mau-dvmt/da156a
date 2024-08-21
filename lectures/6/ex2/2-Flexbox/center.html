@@ -4,38 +4,39 @@
         <title>CSS 3 - Flexbox</title>
         <style>
             body {
-                margin: 0px;
-            }
-
-            #login {
                 height: 100vh;
                 width: 100vw;
                 display: flex;
+                background-color: #ddd;
+
                 justify-content: center;
                 align-items: center;
+            }
 
+            #login {
+                background-color: white;
+                width: 50%;
+                padding: 20px;
+                border-radius: 10px;
             }
 
             #login > form {
-                width: 40%;
-                padding: 20px;
-                background-color: lightblue;
                 display: flex;
                 flex-direction: column;
-                box-shadow: 0 0 10px #333;
             }
         </style>
     </head>
     <body>
-        <div id="login">
-            <form>
-                <h1>Logga in</h1>
-                <label>Användarnamn:</label>
-                <input type="text">
-                <label>Lösenord:</label>
-                <input type="password">
-                <input type="submit" value="logga in">
+        <article id="login">
+            <h1>Logga in</h1>
+            <form action="#" method="post">
+                <label for="username">Användarnamn:</label>
+                <input type="text" id="username" name="username">
+                <label for="password">Lösenord:</label>
+                <input type="password" id="password" name="password">
+
+                <input type="submit" value="Logga in">
             </form>
-        </div>
+        </article>
     </body>
 </html>
