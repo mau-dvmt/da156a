@@ -23,9 +23,9 @@ include "_header.php";
 	<div class="col-lg-4">
 		<h2>Bra länkar</h2>
 		<div class="list-group">
-			<a class="list-group-item" href="http://www.mau.se/" target="_blanc">Malmö universitet</a>
-			<a class="list-group-item" href="https://canvas.mau.se" target="_blanc">Canvas</a>
-			<a class="list-group-item" href="http://edu.mah.se/DA106A#Syllabus" target="_blanc">Kursplan</a>
+			<a class="list-group-item" href="http://www.mau.se/" target="_blank">Malmö universitet</a>
+			<a class="list-group-item" href="https://canvas.mau.se" target="_blank">Canvas</a>
+			<a class="list-group-item" href="https://utbildningsinfo.mau.se/kurs/kursplan/DA106A/20242" target="_blank">Kursplan</a>
 		</div>
 
 		<h2>Senaste händelser</h2>
@@ -33,7 +33,7 @@ include "_header.php";
 		<div class="list-group">
 			<!--
 			<a class="list-group-item" href="/exercises.php?title=6">L6: Bonus: one.com</a>
-			-->
+			
 			<a class="list-group-item" href="/lectures.php?nr=12">F12: Användbarhet(2)</a>
 			<a class="list-group-item" href="/lectures.php?nr=11">F11: Användbarhet(1)</a>
 			<a class="list-group-item" href="/assignments.php?nr=3">I3: Inlämning 3</a>
@@ -55,6 +55,7 @@ include "_header.php";
 			<a class="list-group-item" href="/lectures.php?nr=2">F1: Intro HTML</a>			
 			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kursintroduktion</a>
 			<a class="list-group-item" href="/exercises.php?title=1">L1: En första webbsida</a>
+			-->
 		</div>
 	</div>
 </div>

@@ -42,7 +42,6 @@
                     <li><a href="http://brackets.io/">Brackets</a> (Windows, OS X, Linux)</li>
                     <li><a href="http://notepad-plus-plus.org/">Notepad++</a> (Windows)</li>
                     <li><a href="http://www.sublimetext.com/">Sublime Text</a> (Windows, OS X, Linux)</li>
-                    <li><a href="http://www.barebones.com/products/textwrangler/">TextWrangler</a> (OS X)</li>
                 </ul>
             </li>
         </ul>

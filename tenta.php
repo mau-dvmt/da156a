@@ -7,6 +7,7 @@
         <h3>Exempeltentor</h3>
         <p><em>Exempeltentor kommer att publiceras i god tid innan tentamen.</em></p>
 
+        <!--
         <p>För att visa hur uppgifterna ser ut är tre tidigare tentor publicerade. De är alla ganska lika till utformningen, och ger en bra indikation på kommande uppgifter. PDF-format:</p>
         <ol>
             <li><a href="/resources/examns/Tentamen-DA156A-HT14.pdf">HT 2014</a></li>
@@ -16,6 +17,7 @@
             <li><a href="/resources/examns/Tentamen-DA156A-HT18.pdf">HT 2018</a></li>
             <li><a href="/resources/examns/Tentamen-DA156A-HT19.pdf">HT 2019</a></li>
         </ol>
+        -->
 
         <h3>Att läsa</h3>
         <p>Tentan sammanfattar kursens fokus, så god kunskap om innehåll i föreläsningar, laborationer och uppgifter är den bästa förberedelsen.</p>

@@ -62,7 +62,6 @@ include "_header.php";
 				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis)</li>
 				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
-				<li><a href="http://www.sublimetext.com">Sublime Text</a> ($80)</li>
 			</ul>
 		</div>
 
@@ -73,7 +72,6 @@ include "_header.php";
 				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
 				<li><a href="http://notepad-plus-plus.org">Notepad++</a> (gratis)</li>
-				<li><a href="http://www.sublimetext.com">Sublime Text</a> ($80)</li>
 			</ul>
 		</div>
 
