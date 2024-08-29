@@ -37,7 +37,7 @@
             <li>På datorerna i skolan rekommenderas Visual Studio Code, Atom eller Brackets.</li>
             <li>För nedladdning till din egen dator finns otaliga alternativ. Några gratisvarianter är:
                 <ul>
-                    <li><a href="https://code.visualstudio.com/">VS Code</a> (Windows, OS X, Linux)</li>
+                    <li><a href="https://code.visualstudio.com/">VS Code</a> (Windows, OS X, Linux) - <strong>Rekommenderas</strong></li>
                     <li><a href="http://atom.io/">Atom</a> (Windows, OS X, Linux)</li>
                     <li><a href="http://brackets.io/">Brackets</a> (Windows, OS X, Linux)</li>
                     <li><a href="http://notepad-plus-plus.org/">Notepad++</a> (Windows)</li>
@@ -57,7 +57,7 @@
 </ul>
 
 <h4>3.2. Ett startdokument</h3>
-<p>Börja med att aktivera <strong>tjänsten Webshare</strong> <a href="http://idservice.mah.se">här</a>.</p>
+<p>Börja med att aktivera <strong>tjänsten Webshare</strong> <a href="https://ids.mau.se/Service">här</a>.</p>
 <h5>3.2.1. Om du använder en dator i skolan (annars hoppa till 3.2.2.)</h5>
 <p>Du kanske har noterat att det finns nätverksplats som heter <code>Webshare</code> (L:\) när du öppnar "Den här datorn". Detta är en speciell plats, då alla filer som läggs där i automatiskt blir tillgängliga över Internet. Om du redan provat att publicera filer via Webshare kan du hoppa till nästa rubrik. Annars bör du gå igenom följande steg för att testa på webbpublicering via Webshare:</p>
 
@@ -77,7 +77,7 @@
     &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
-        <p>Skapa ett nytt dokument i din textredigerare (t.ex. VS code, Atom, Notepad++, etc.) och klistra in ovanstående kod i dokumentet. Spara filen i din <code>Webshare</code>-plats, med filnamnet <code>index.html</code>.</p>
+        <p>Skapa ett nytt dokument i din textredigerare (t.ex. VS Code, Atom, Notepad++, etc.) och klistra in ovanstående kod i dokumentet. Spara filen i din <code>Webshare</code>-plats, med filnamnet <code>index.html</code>.</p>
     </li>
 
     <li><p>För att nu surfa in till sidan som ni precis publicerade, surfar ni till <code>http://webshare.mah.se/datorid</code>, där datorid är din egen datoridentitet (den som du använder för att logga in på Canvas).</p></li>

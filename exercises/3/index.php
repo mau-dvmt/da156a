@@ -119,11 +119,11 @@
 <p>Eftersom all CSS ligger i en externa stilmall kan samma utseende enkelt fås på flera sidor. Kopiera ditt HTML-dokument till en ny fil. Byt ut innehållet i <code>section</code> till något annat och länka sedan mellan dina två dokument (kanske i navigationsmenyn?).</p>
 
 <h3>2. Layout med <code>grid</code></h3>
-<p>Toppen! Nu var den första delen av laborationen klar! Nu är det dags att bygga samma layout med med tekniken <code>grid</code> istället. För inspiration, spana gärna in föreläsningen och exemplen som vi gick igenom på föreläsningen om <code>grid</code> (publiceras när föreläsningen varit).</p>
+<p>Toppen! Nu var den första delen av laborationen klar! Nu är det dags att bygga samma layout med med tekniken <code>grid</code> istället. För inspiration, spana gärna in föreläsningen och exemplen som vi gick igenom på föreläsningen om <code>grid</code> (publiceras när föreläsningen varit). Läs gärna också <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS Grid Layout Guide</a>.</p>
 
 <h3>3. Validering och feedback</h3>
 <p>Som alltid, se till att dokumentet <a href="http://validator.w3.org/">validerar</a>. Använd <a href="http://jigsaw.w3.org/css-validator/">CSS-validatorn</a> för alla stilmallar. Be kursare och labbassistenter om feedback för en djupare bild av vad som är bra och dåligt.</p>
 
 <h3>4. Bonus - mer träning på layouter!</h3>
-<p>Klar? Grymt! Testa då att göra samma layout genom tekniken <code>flex</code></p>
+<p>Klar? Grymt! Testa då att göra samma layout genom tekniken <code>flex</code>. Utgå från föreläsningen och läs gärna <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Flexbox Layout Guide</a>.</p>
 <p>Tänk på att det är viktigt att behärska <strong>alla tre teknikerna</strong> för att bli en bra webbutvecklare!</p>
