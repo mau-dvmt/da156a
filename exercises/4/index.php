@@ -133,6 +133,7 @@ body {
     </li>
 </ol>
 
+<img style="margin: 0 auto" src="/exercises/4/result.gif">
 
 <h3>4. Utmaningar</h3>
 <ol>
