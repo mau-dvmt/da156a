@@ -22,9 +22,9 @@
 <p>
     Målet med laborationen är att producera en enkel webbsida som förbluffar användaren med interaktiva stilförändringar. Eller, åtminstone, en webbsida som ser lite annorlunda ut beroende på vilken knapp användaren klickar på. Nedan finner du en kort beskrivning av resultatet.
 </p>
-<p>Länk till exemplet för den lilla miniföreläsningen i början av labben hittar ni <a href="/exercises/4/JavaScript-Exempel.zip">här</a>.</p>
+<p>Länk till exemplet för den lilla miniföreläsningen i början av labben hittar ni <a href="/exercises/4-old/JavaScript-Exempel.zip">här</a>.</p>
 <p class="focus">
-    <img src="/exercises/4/i1.png" alt="Texten har webbläsarens standardutseende">
+    <img src="/exercises/4-old/i1.png" alt="Texten har webbläsarens standardutseende">
 </p>
 <p>
     Webbsidan ska innehålla en kort text, vars faktiska budskap inte är viktigt. Bilden ovan visar en synnerligen låg fantasinivå och använder den klassiska texten
@@ -35,13 +35,13 @@
 </p>
 <ul class="focus">
     <li>
-        <img src="/exercises/4/i2.png" alt="Texten har ett formellt utseende">
+        <img src="/exercises/4-old/i2.png" alt="Texten har ett formellt utseende">
     </li>
     <li>
-        <img src="/exercises/4/i3.png" alt="Texten har ett roligt utseende med starka färger">
+        <img src="/exercises/4-old/i3.png" alt="Texten har ett roligt utseende med starka färger">
     </li>
     <li>
-        <img src="/exercises/4/i4.png" alt="Texten ser ut som en gammal datorterminal (grön text, svart bakgrund)">
+        <img src="/exercises/4-old/i4.png" alt="Texten ser ut som en gammal datorterminal (grön text, svart bakgrund)">
     </li>
 </ul>
 <p>
