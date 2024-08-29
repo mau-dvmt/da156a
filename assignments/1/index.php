@@ -5,20 +5,20 @@
 
 <h3>1. Uppgiften</h3>
 
-<p>Du ska skapa en webbsida riktad till målgruppen <em>nybörjare som vill lära sig om webbutveckling</em>. Det gör att uppgiften egentligen har tre delar:</p>
+<p>Du ska skapa en webbsida riktad till målgruppen <em>nybörjare som vill lära sig om webbutveckling</em>. Det gör att uppgiften har tre delar:</p>
 
 <ol>
     <li>
-        <p>Författande av texten som ska synas på webbsidan. Texten behöver svara på dessa frågor:</p>
+        <p>Författande av texten som ska synas på webbsidan. Texten ska svara följande frågor:</p>
 
         <ul>
             <li>Hur skapas en webbsida? Ge en kort beskrivning av syftet för HTML, CSS respektive JavaScript.</li>
             <li>Varför är &#8221;standarder&#8221; ett viktigt begrepp inom webbutveckling? Vad gör W3C?</li>
             <li>Inom webbutveckling, vad menas med att validera? Varför görs detta?</li>
-            <li>Innehåll på webben bör vara <em>tillgängligt</em> för så många som möjligt. Vad menas med detta? Ge något konkret exempel på hur webbutvecklare kan jobba med tillgänglighet.</li>
+            <li>Innehåll på webben bör vara <em>tillgängligt</em> för så många som möjligt. Vad innebär detta? Ge ett konkret exempel på hur webbutvecklare kan jobba med tillgänglighet.</li>
         </ul>
 
-        <p>Du kan öka trovärdigheten för din text genom att hänvisa till andra källor, exempelvis de som återfinns på labbinstruktioner och föreläsningsantecknigar. För webbaserade resurser så görs detta bäst genom länkar.</p>
+        <p>Du ska öka trovärdigheten för din text genom att hänvisa till andra källor, exempelvis de som återfinns på labbinstruktioner och föreläsningsantecknigar. För webbaserade resurser görs detta bäst genom länkar. Ni behöver inte använda något referenssystem (t.ex. IEEE).</p>
 
         <p>Fokusera på att skriva en kort och koncis text. Den bör inte vara längre än 750 ord.</p>
     </li>
@@ -33,7 +33,7 @@
 <ul>
     <li>Webbsidan ska validera enligt HTML5.</li>
     <li>CSS-mall(ar) ska validera enligt CSS nivå 3.</li>
-    <li>Semantisk HTML ska användas. Detta betyder att taggar ska välja, så att de i så stor grad som möjligt beskriver innehåll och struktur.</li>
+    <li>Semantisk HTML ska användas. Detta innebär att taggar ska väljas så att de i så stor utsträckning som möjligt beskriver innehåll och struktur.</li>
     <li>Alla HTML-dokument ska vara skapade av dig. Det är inte tillåtet att använda ett verktyg för att generera källkoden.</li>
     <li>All presentation ska styras i det separata CSS-dokumentet. Inbäddade stilmallar (taggen style) eller inline-mallar (attributet style) är inte tillåtna.</li>
     <li>Följande HTML-element måste användas minst en gång: <code>h1</code>, <code>p</code>, <code>a</code>, <code>ul</code>, <code>li</code>.</li>

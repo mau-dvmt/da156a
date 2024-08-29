@@ -2,7 +2,7 @@
 <p>Uppgiften går ut på att redovisa dina kunskaper kring HTML5, CSS 3, Media Queries och användbarhet. Inlämningsuppgiften är individuell, vilket betyder att studenten enskilt ska skriva sin inlämning och kunna redogöra för alla delar av den.</p>
 
 <h3>1. Uppgiften</h3>
-<p>I denna inlämningsuppgift <strong>får CSS-ramverk användas</strong> (t.ex. bootstrap/materializeCSS/foundation/etc.)</p>
+<p>I denna inlämningsuppgift <strong>får CSS-ramverk användas</strong> (t.ex. Bootstrap/Tailwind/Bulma/etc.)</p>
 
 <p>Uppgiften går ut på att uppdatera och förbättra en redan befintlig webbplats. Detta ska göras inom tre områden:</p>
 <ol>
@@ -29,7 +29,7 @@
 <ul>
     <li>Webbplatsen ska validera enligt HTML5. Semantiska HTML-element ska användas, t.ex. <code>header</code>, <code>footer</code>, <code>nav</code>, etc.</li>
     <li>Använd i övrigt element som i så stor grad som möjligt beskriver innehåll och struktur. Koden ska vara välstrukturerad och hålla god kvalitet.</li>
-    <li>All presentation ska styras separata CSS-dokument. Inbäddade stilmallar (taggen style) eller inline-mallar (attributet style) är inte tillåtna. CSS-mall(ar) ska validera enligt CSS nivå 3.</li>
+    <li>All presentation ska styras via separata CSS-dokument. Inbäddade stilmallar (taggen style) eller inline-mallar (attributet style) är inte tillåtna. CSS-mall(ar) ska validera enligt CSS nivå 3.</li>
     <li>Alla HTML-dokument ska vara skapade av dig. Det är inte tillåtet att använda ett verktyg för att generera källkoden.</li>
     <li>Minst tre stycken användbarhetsåtgärder ska ha gjorts och motiverats för nya version av webbplatsen.</li>
     <li>Webbplatsen ska vara anpassad för webbläsare av olika storlek (”dator” och ”mobil”).</li>
