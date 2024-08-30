@@ -213,7 +213,7 @@ function converter(){
 	&lt;/head&gt;
 	&lt;body&gt;
 		&lt;h1 id=&quot;welcome&quot;&gt;V&auml;lkommen!&lt;/h1&gt;
-		&lt;p&gt;&lt;i&gt;Till min vackra webbplats =)&lt;/i&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;i&gt;Till min vackra webbplats 😊&lt;/i&gt;&lt;/p&gt;
 		&lt;h2&gt;Inneh&aring;ll&lt;/h2&gt;
 		&lt;p&gt;H&auml;r kommer en snabb inneh&aring;llsf&ouml;rteckning:&lt;/p&gt;
 		&lt;ol class=&quot;list&quot;&gt;

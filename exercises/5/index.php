@@ -31,7 +31,7 @@ $(document).ready(function() {
 </code></pre>
 
 <h4>1. Förbered ett HTML-dokument</h4>
-<p>Börja med att skapa en ny mapp för denna del av labben (t.ex. mappen <code>Labb 5.a</code>) med ett HTML-dokument i (t.ex. HTML-filen <code>index.html</code>) (detta borde ni vara experter på nu =) ). Det är i denna mapp som alla filer i denna del av labben ska ligga i sedan.</p>
+<p>Börja med att skapa en ny mapp för denna del av labben (t.ex. mappen <code>Labb 5.a</code>) med ett HTML-dokument i (t.ex. HTML-filen <code>index.html</code>) (detta borde ni vara experter på nu 😊). Det är i denna mapp som alla filer i denna del av labben ska ligga i sedan.</p>
 
 <h4>2. Skapa och inkludera JavaScript-dokumentet</h4>
 <p>Skapa ett nytt JavaScript-dokument (t.ex. <code>script.js</code>) och lägg i samma mapp som den HTML-fil som du skapade i steg 1. Klistra sedan in JavaScript-koden ovan i dokumentet. Slutligen länka in följande JavaScript i ditt HTML-dokument, genom koden:</p>

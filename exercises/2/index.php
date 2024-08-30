@@ -124,4 +124,4 @@
     </li>
 </ul>
 <p>När du byggt klart ditt formulär så kan du på ett enkelt sätt göra flera gästboksinlägg.</p>
-<p>Du har nu inte bara byggt ett formulär som skickar iväg data - du har även byggt ihop din hemsida (formulär) med en <em>extern <strong>webbtjänst</strong></em> - coolt! =)</p>
+<p>Du har nu inte bara byggt ett formulär som skickar iväg data - du har även byggt ihop din hemsida (formulär) med en <em>extern <strong>webbtjänst</strong></em> - coolt! 😎</p>

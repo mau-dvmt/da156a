@@ -82,4 +82,4 @@ header{
 
 
 <h3>6. Avslutande övning - Din tur!</h3>
-<p>Använd nu en av dina tidigare layouter (t.ex. den från <a href="/exercises.php?title=3">labb 3</a>) - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! =)</p>
+<p>Använd nu en av dina tidigare layouter (t.ex. den från <a href="/exercises.php?title=3">labb 3</a>) - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! 😊</p>
