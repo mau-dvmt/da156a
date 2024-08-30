@@ -142,6 +142,5 @@ body {
 </ol>
 
 
-
-<h3>6. Avslutande övning</h3>
-Använd nu en din layout från labb 3 - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! 😊
+<h3>5. Avslutande övning</h3>
+<p>Använd nu en din layout från labb 3 - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! 😊<p>
