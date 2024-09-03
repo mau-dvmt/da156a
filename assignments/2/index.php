@@ -3,11 +3,11 @@
 
 <h3>1. Uppgiften</h3>
 
-<p><strong><em>OBS.</em> i denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. bootstrap/materializeCSS/foundation/etc.)</strong></p>
+<p><strong><em>OBS.</em> i denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. Bootstrap/Tailwind/Bulma/etc.)</strong></p>
 
 <h4>1.1. Webbsidornas layout</h4>
 
-<p>Du ska skapa en webbplats bestående av minst 2 webbsidor, som båda följer samma visuella utformning. Bilderna till vänster visar layouten för datorer och bilden längst till höger visar hur webbsidan ska se ut på en mobil.</p>
+<p>Du ska skapa en webbplats bestående av minst 2 webbsidor, som båda följer samma visuella utformning. Bilderna till vänster visar layouten för datorer och bilden längst till höger visar hur webbsidan ska se ut på en mobil. Sidan ska vara responsiv för alla vanliga skärmstorlekar hela vägen ner till 320 pixlar i bredd.</p>
 
 <div class="row">
     <div class="col-sm-12 col-md-7">
@@ -125,7 +125,7 @@ $(document).ready(function(){
 
 <ul>
     <li>Webbplatsen måste följa beskrivningen ovan, avseende innehåll, visuell utformning och funktionalitet.</li>
-    <li>I denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. bootstrap/materializeCSS/foundation/etc.)</li>
+    <li>I denna inlämningsuppgift får inga CSS-ramverk användas (t.ex. Bootstrap/Tailwind/Bulma/etc.)</li>
     <li>Alla webbsidor ska validera enligt HTML5.</li>
     <li>Semantisk HTML ska användas. Detta betyder att taggar ska välja, så att de i så stor grad som möjligt beskriver innehåll och struktur.</li>
     <li>Alla webbsidor ska använda samma stilmall(ar).</li>

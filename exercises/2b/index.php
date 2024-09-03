@@ -151,4 +151,4 @@ ia-guestbook/
 
 <p><img src="/exercises/2b/console-elements.png" alt="" width="100%" /></p>
 
-<p>När är det bara att gå loss och vara kreativ! =)</p>
+<p>När är det bara att gå loss och vara kreativ! 😊</p>

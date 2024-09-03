@@ -1,0 +1,16 @@
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+#first {
+  background-color: #abd6ff;
+}
+
+#second {
+  background-color: #b6ffc8;
+}
