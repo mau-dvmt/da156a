@@ -79,7 +79,12 @@ include "_header.php";
 			Verktyg där man grafiskt skapar en webbsida utan att själv skriva koden (&quot;what you see is what you get&quot;) rekommenderas inte - och är inte tillåtna i kursens uppgifter. En viktig poäng är att förstå bakomliggande tekniker och principer. Resultatet mycket bättre om man själv författar källkoden.
 		</p>
 
-		<h3>4. Malmö universitet-specifikt</h3>
+		<h3>4. Visual Studio Code</h3>
+		<p>
+			Visual Studio Code är en textredigerare från Microsoft, som är gratis och öppen källkod. Den är kraftfull och har många funktioner. Vi har därför satt ihop en <a href="/vs-code.php">liten guide för att komma igång</a>.
+		</p>
+
+		<h3>5. Malmö universitet-specifikt</h3>
 		<p>
 			För kursens studenter finns några specifika länkar, listade här av bekvämlighetsskäl:
 		</p>
