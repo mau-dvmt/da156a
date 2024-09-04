@@ -36,6 +36,7 @@ include "_header.php";
       <li>Ctrl + Shift + F (Cmd + Shift + F) - Sök i filer</li>
       <li>Ctrl + P (Cmd + P) - Öppna fil</li>
       <li>Ctrl + Shift + P (Cmd + Shift + P) - Öppna kommandorad</li>
+      <li>Ctrl + Shift + I (Cmd + Shift + I) - Formatera kod</li>
     </ul>
 
     <h3>Inställningar</h3>
