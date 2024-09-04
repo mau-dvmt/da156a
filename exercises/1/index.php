@@ -33,15 +33,15 @@
     <li>
         <p>Ett bra textredigeringsprogram. Med &#8220;bra&#8221; menas framförallt att programmet stödjer <a href="http://en.wikipedia.org/wiki/Syntax_highlighting">syntaxmarkering</a> för HTML - därutöver finns en mängd andra personliga preferenser.</p>
         <ul>
-            <li>För Windows så medföljer Notepad (Anteckningar), för Mac OS X medföljer TextEdit (Textredigerare). Dessa är inte jättebra.</li>
+            <li>För Windows så medföljer Notepad (Anteckningar), för macOS medföljer TextEdit (Textredigerare). Dessa är inte jättebra.</li>
             <li>På datorerna i skolan rekommenderas Visual Studio Code, Atom eller Brackets.</li>
             <li>För nedladdning till din egen dator finns otaliga alternativ. Några gratisvarianter är:
                 <ul>
-                    <li><a href="https://code.visualstudio.com/">VS Code</a> (Windows, OS X, Linux) - <strong>Rekommenderas</strong></li>
-                    <li><a href="http://atom.io/">Atom</a> (Windows, OS X, Linux)</li>
-                    <li><a href="http://brackets.io/">Brackets</a> (Windows, OS X, Linux)</li>
+                    <li><a href="https://code.visualstudio.com/">VS Code</a> (Windows, macOS, Linux) - <strong>Rekommenderas</strong></li>
+                    <li><a href="http://atom.io/">Atom</a> (Windows, macOS, Linux)</li>
+                    <li><a href="http://brackets.io/">Brackets</a> (Windows, macOS, Linux)</li>
                     <li><a href="http://notepad-plus-plus.org/">Notepad++</a> (Windows)</li>
-                    <li><a href="http://www.sublimetext.com/">Sublime Text</a> (Windows, OS X, Linux)</li>
+                    <li><a href="http://www.sublimetext.com/">Sublime Text</a> (Windows, macOS, Linux)</li>
                 </ul>
             </li>
         </ul>
