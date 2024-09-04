@@ -20,7 +20,7 @@ include "_header.php";
       När du öppnar programmet ser du en ganska tom skärm. I mitten finns en vit yta där du skriver din kod. Till vänster finns en meny med filer och mappar, och till höger finns en meny med verktyg och inställningar.
     </p>
     <p>
-      För att skapa en ny fil, tryck på <strong>File</strong> och sedan <strong>New file</strong>. Skriv din kod och spara filen genom att trycka på <strong>File</strong> och sedan <strong>Save</strong>, alternativt klicka Ctrl + C (för Windows) eller Cmd + C (för macOS).
+      För att skapa en ny fil, tryck på <strong>File</strong> och sedan <strong>New file</strong>. Skriv din kod och spara filen genom att trycka på <strong>File</strong> och sedan <strong>Save</strong>, alternativt klicka Ctrl + S (för Windows) eller Cmd + S (för macOS).
     </p>
 
     <h3>Kortkommandon</h3>
