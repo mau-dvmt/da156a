@@ -50,16 +50,16 @@ include "_header.php";
 
 		<h3>3. Verktyg</h3>
 		<p>
-			Webbutveckling är tacksamt, eftersom det inte kräver några speciella verktyg eller programvaror. I grunden behövs endast en enkel <a href="http://sv.wikipedia.org/wiki/Textredigerare">textredigerare</a>. Just enkla sådana följer med i princip alla operativsystem, som Notepad (Anteckningar) för Microsoft Windows, och TextEdit (Textredigerare) för Mac OS X.
+			Webbutveckling är tacksamt, eftersom det inte kräver några speciella verktyg eller programvaror. I grunden behövs endast en enkel <a href="http://sv.wikipedia.org/wiki/Textredigerare">textredigerare</a>. Just enkla sådana följer med i princip alla operativsystem, som Notepad (Anteckningar) för Microsoft Windows, och TextEdit (Textredigerare) för macOS.
 		</p>
 		<p>
 			Det blir dock roligare om man använder en textredigerare som &quot;förstår&quot; språken man använder. Minsta nivån att sträva efter är <a href="http://en.wikipedia.org/wiki/Syntax_highlighting">syntaxmarkering</a>, alltså en presentation av texten anpassat till att synliggöra språkets delar. Utöver detta finns många funktioner som kan vara hjälpsamma - men vad man prioriterar är väldigt personligt. Rekommendationen är att testa flera olika för att få en egen favorit.
 		</p>
 
 		<div class="col">
-			<h4>3.1. OS X</h4>
+			<h4>3.1. macOS</h4>
 			<ul>
-				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis)</li>
+				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis) - <strong>Rekommenderas</strong></li>
 				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
 			</ul>
@@ -68,7 +68,7 @@ include "_header.php";
 		<div class="col">
 			<h4>3.2. Windows</h4>
 			<ul>
-				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis)</li>
+				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis) - <strong>Rekommenderas</strong></li>
 				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
 				<li><a href="http://notepad-plus-plus.org">Notepad++</a> (gratis)</li>
