@@ -39,7 +39,7 @@
                 <tr class="lecture odd">
                     <td rowspan="3">37</td>
                     <td>10/9</td>
-                    <td>15-17</td>
+                    <td>10-12</td>
                     <td>Föreläsning 3: Tabell &amp; formulär</td>
 					<td>HTML &amp; CSS: Kap. 6-7</td>
                 </tr>
