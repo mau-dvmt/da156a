@@ -54,6 +54,11 @@ include "_header.php";
       En annan inställning som kan vara bra att ändra är <strong>Auto Close Tag</strong>. När denna inställning är påslagen stänger Visual Studio Code automatiskt HTML-taggar när du skriver dem. Denna inställning är på som standard, men om du vill går den att stänga av. Du kan ändra inställningen genom att trycka på <strong>File</strong> och sedan <strong>Preferences</strong> och sedan <strong>Settings</strong>. Sök efter <strong>Auto Close Tag</strong> och bocka ur rutan.
     </p>
 
+    <h4>Word Wrap</h4>
+    <p>
+      En tredje inställning som kan vara bra att ändra är <strong>Word Wrap</strong>. När denna inställning är påslagen bryter Visual Studio Code raden när den blir för lång, så att du inte behöver scrolla horisontellt. Denna inställning är av som standard. Du kan ändra inställningen genom att trycka på <strong>File</strong> och sedan <strong>Preferences</strong> och sedan <strong>Settings</strong>. Sök efter <strong>Word Wrap</strong> och bocka i rutan. Alternativt kan du trycka på Ctrl + Shift + P (Cmd + Shift + P) och skriva <strong>Word Wrap</strong>.
+    </p>
+
     <h3>Themes</h3>
     <p>
       Visual Studio Code har stöd för olika teman, som ändrar färgschemat på texten. Du kan ändra tema genom att trycka på <strong>File</strong> och sedan <strong>Preferences</strong> och sedan <strong>Color Theme</strong>. Välj ett tema som passar dig bäst.
@@ -69,7 +74,7 @@ include "_header.php";
 
     <ul>
       <li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> - Startar en live-server som uppdateras automatiskt när du sparar</li>
-      <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a> - Uppdaterar motsvarande HTML-taggar när du ändrar en</li>
+      <li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a> - Uppdaterar motsvarande HTML-taggar när du ändrar den ena</li>
       <li><a href="https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator">W3C Validation</a> - Validerar din HTML-kod mot W3C-standarden</li>
     </ul>
 
