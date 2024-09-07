@@ -143,7 +143,7 @@
             </tr>
             <tr>
                 <td>Rubrik</td>
-                <td><code>h1</code> - <code>h6</code></td>
+                <td><code>h1</code> - <code>h6</code> (Ni behöver inte använda alla)</td>
                 <td><a href="/tutorials.php?type=HTML&title=Headings">Tutorial</a></td>
             </tr>
             <tr>
