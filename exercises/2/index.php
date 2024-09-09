@@ -100,19 +100,19 @@
 <h3>7. Bonus! Bygg formulär till föreläsningens gästbok!</h3>
 <p><em>Denna uppgift är frivillig, men rekommenderad</em>.</p>
 <h4>7.1. Gästbokstjänst</h4>
-<p>På föreläsningen så tittade vi på en gästbok - där man genom ett formulär kan skicka <code>name</code> och <code>message</code> som ska sparas i gästboken. Ni hittar gästboken här: <a href="http://mah.antontibblin.se/ia-gb">http://mah.antontibblin.se/ia-gb</a>.</p>
+<p>På föreläsningen så tittade vi på en gästbok - där man genom ett formulär kan skicka <code>name</code> och <code>message</code> som ska sparas i gästboken. Ni hittar gästboken här: <a href="https://guestbook.ia-mau.se">https://guestbook.ia-mau.se</a>.</p>
 <p><strong>Tänk på att allt ni skickar till gästboken finns tillgängligt för de som besöker den</strong>.</p>
 <p>Man kan skicka in nya inlägg till gästboken genom antingen metoden <code>GET</code> eller <code>POST</code>. <code>GET</code> kan man använda som metod i formulär, men även direkt genom URL (webbadressen) på följande sätt:</p>
 <ul>
     <li>
-        http://mah.antontibblin.se/ia-gb/new-post?name=<em>namn</em>&amp;message=<em>meddelande</em>
+        https://guestbook.ia-mau.se/new-post?name=<em>namn</em>&amp;message=<em>meddelande</em>
     </li>
 </ul>
 <p>Ovan så byt ut <em>ditt namn</em> mot ditt namn, och <em>ditt meddelande</em> mot ditt meddelande - och testa att skriva in adressen i en webbläsare. Fungerar det som förväntat?</p>
 <h4>7.2. Bygg ett formulär till gästboken</h4>
 <p>Ditt formulär ska ha följande information:</p>
 <ul>
-    <li>Formuläret ska skickas till adressen: <a href="http://mah.antontibblin.se/ia-gb/new-post">http://mah.antontibblin.se/ia-gb/new-post</a>
+    <li>Formuläret ska skickas till adressen: <a href="https://guestbook.ia-mau.se">https://guestbook.ia-mau.se</a>
     </li>
     <li>Formuläret ska skickas genom metoden <code>POST</code></li>
     <li>Formuläret ska ha följande komponenter:
