@@ -44,7 +44,7 @@
 				</tr>
 				<tr>
 					<td>3</td>
-					<td><a href="/lectures.php?nr=2">Tabeller &amp; formulär</a></td>
+					<td><a href="/lectures.php?nr=3">Tabeller &amp; formulär</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
