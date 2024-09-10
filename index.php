@@ -44,12 +44,13 @@ include "_header.php";
 			<a class="list-group-item" href="/lectures.php?nr=8">F8: Webbplatsbygge</a>
 			<a class="list-group-item" href="/lectures.php?nr=7">F7: Responsiv webb</a>
 			<a class="list-group-item" href="/exercises.php?title=4">L4: Responsiv webb</a>
-			<a class="list-group-item" href="/lectures.php?nr=6">F6: Layout med CSS (2)</a>				
-			<a class="list-group-item" href="/assignments.php?nr=1">I1: Inlämning 1</a>
+			<a class="list-group-item" href="/lectures.php?nr=6">F6: Layout med CSS (2)</a>
 			<a class="list-group-item" href="/lectures.php?nr=5">F5: Layout med CSS</a>
 			<a class="list-group-item" href="/exercises.php?title=3">L3: Layout med CSS</a>
+						-->				
+			<a class="list-group-item" href="/assignments.php?nr=1">I1: Inlämning 1</a>
+			
 			<a class="list-group-item" href="/lectures.php?nr=4">F4: Intro CSS</a>
-			-->
 			<a class="list-group-item" href="/lectures.php?nr=3">F3: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/exercises.php?title=2b">L2b: Intro CSS</a>
 			<a class="list-group-item" href="/exercises.php?title=2">L2a: Tabeller &amp; formulär</a>

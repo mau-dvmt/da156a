@@ -8,82 +8,55 @@
 
 <a href="/resources/pdf/HT24-f3.pdf">Ladda ner föreläsningen här</a>
 
-<!--
-
 <h3>Dagens exempel</h3>
 
-<a href="/lectures/3/table.jpg"><img src="/lectures/3/table.jpg" alt="Tabell ritad på tavlan"></a>
+<a href="/lectures/3/table-24-1.jpg"><img src="/lectures/3/table-24-1.jpg" alt="Tabell ritad på tavlan"></a>
+
+<hr>
+
+<a href="/lectures/3/table-24-2.jpg"><img src="/lectures/3/table-24-2.jpg" alt="Tabell ritad på tavlan"></a>
 
 <h4>table.html</h4>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
     &lt;head&gt;
-        &lt;title&gt;&Ouml;versikt &ouml;ver IA-programmet&lt;/title&gt;
+        &lt;title&gt;Tabeller&lt;/title&gt;
         &lt;meta charset=&quot;utf-8&quot;&gt;
     &lt;/head&gt;
     &lt;body&gt;
         &lt;table border=&quot;1&quot;&gt;
-            &lt;caption&gt;Kurser i IA-programmet&lt;/caption&gt;
             &lt;thead&gt;
                 &lt;tr&gt;
                     &lt;th&gt;&lt;/th&gt;
-                    &lt;th&gt;LP 1&lt;/th&gt;
-                    &lt;th&gt;LP 2&lt;/th&gt;
-                    &lt;th&gt;LP 3&lt;/th&gt;
-                    &lt;th&gt;LP 4&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 1&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 2&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 3&lt;/th&gt;
+                    &lt;th&gt;L&auml;speriod 4&lt;/th&gt;
                 &lt;/tr&gt;
             &lt;/thead&gt;
             &lt;tbody&gt;
                 &lt;tr&gt;
-                    &lt;th rowspan=&quot;2&quot;&gt;1&lt;/th&gt;
-                    &lt;td&gt;Introduktion till webbutveckling&lt;/th&gt;
-                    &lt;td&gt;Introduktion till programmering&lt;/td&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Systemutv. och projekt 1&lt;/td&gt;
+                    &lt;th rowspan=&quot;2&quot;&gt;Termin 1&lt;/th&gt;
+                    &lt;td&gt;Webbutveckling&lt;/td&gt;
+                    &lt;td&gt;Programmering&lt;/td&gt;
+                    &lt;td colspan=&quot;2&quot;&gt;Systemutveckling och projekt 1&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
-                    &lt;td&gt;Intro studier i dv&lt;/td&gt;
-                    &lt;td&gt;Interaktionsdesign f&ouml;r IA&lt;/td&gt;
+                    &lt;td&gt;Datavetenskap&lt;/td&gt;
+                    &lt;td&gt;Interaktionsdesign&lt;/td&gt;
                     &lt;td&gt;Databasteknik&lt;/td&gt;
-                    &lt;td&gt;IA f&ouml;r flerplattformsapp&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;th rowspan=&quot;2&quot;&gt;2&lt;/th&gt;
-                    &lt;td&gt;OOP f&ouml;r IA&lt;/td&gt;
-                    &lt;td&gt;Webbtj&auml;nster&lt;/td&gt;
-                    &lt;td&gt;Metoder f&ouml;r UX&lt;/td&gt;
-                    &lt;td&gt;Forskningsmetodik&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;Information bortom sk&auml;rmar&lt;/td&gt;
-                    &lt;td&gt;Informationsdesign&lt;/td&gt;
-                    &lt;td&gt;Informationss&auml;kerhet&lt;/td&gt;
-                    &lt;td&gt;Webbutveckling f&ouml;r fler.&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;th rowspan=&quot;2&quot;&gt;3&lt;/th&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;Examensprojekt&lt;/td&gt;
-                    &lt;td colspan=&quot;2&quot;&gt;C-uppsats&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;Valbar kurs&lt;/td&gt;
-                    &lt;td&gt;Valbar kurs&lt;/td&gt;
-                    &lt;td&gt;Valbar kurs&lt;/td&gt;
-                    &lt;td&gt;Valbar kurs&lt;/td&gt;
+                    &lt;td&gt;Informationsarkitektur&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/tbody&gt;
-            &lt;tfoot&gt;
-                &lt;tr&gt;
-                    &lt;td colspan=&quot;5&quot;&gt;
-                        &lt;a href=&quot;https://edu.mah.se/tgiaa&quot;&gt;Klicka h&auml;r f&ouml;r att l&auml;sa hela utbildningsplanen&lt;/a&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/tfoot&gt;
         &lt;/table&gt;
     &lt;/body&gt;
-&lt;/html&gt;</code></pre>
+&lt;html&gt;
+</code></pre>
 
-<h4>form.html (1)</h4>
+<hr>
+
+<h4>form.html</h4>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -92,20 +65,45 @@
         &lt;meta charset=&quot;utf-8&quot;&gt;
     &lt;/head&gt;
     &lt;body&gt;
-        &lt;form action=&quot;http://mah.antontibblin.se/ia-gb/new-post&quot; method=&quot;post&quot;&gt;
-            &lt;label for=&quot;name-field&quot;&gt;Namn:&lt;/label&gt;
-            &lt;input type=&quot;text&quot; name=&quot;name&quot; id=&quot;name-field&quot; required&gt;
-            &lt;br&gt;
-            &lt;label for=&quot;message-field&quot;&gt;Meddelande: &lt;/label&gt;
-            &lt;textarea id=&quot;message-field&quot; name=&quot;message&quot; required&gt;&lt;/textarea&gt;
-            &lt;br&gt;
-            &lt;input type=&quot;checkbox&quot; name=&quot;agree&quot; value=&quot;yes&quot; id=&quot;agree-box&quot;&gt;
-            &lt;label for=&quot;agree-box&quot;&gt;Jag godk&auml;nner allt&lt;/label&gt;
-            &lt;br&gt;
-            &lt;input type=&quot;submit&quot; value=&quot;Skapa inl&auml;gg&quot;&gt;
+        &lt;h1&gt;Logga in&lt;/h1&gt;
+        &lt;form action=&quot;form.html&quot; method=&quot;get&quot;&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;username-field&quot;&gt;Anv&auml;ndarnamn: &lt;/label&gt;
+                &lt;input type=&quot;text&quot; name=&quot;username&quot; id=&quot;username-field&quot; placeholder=&quot;Skriv ditt anv&auml;ndarnamn h&auml;r...&quot; required&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;password-field&quot;&gt;L&ouml;senord: &lt;/label&gt;
+                &lt;input type=&quot;password&quot; name=&quot;password&quot; id=&quot;password-field&quot;&gt;
+            &lt;/p&gt;
+            &lt;input type=&quot;submit&quot; value=&quot;Logga in&quot;&gt;
         &lt;/form&gt;
     &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
 
-        -->
+<hr>
+
+<h4>guestbook.html</h4>
+<pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;Formul&auml;r&lt;/title&gt;
+        &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h1&gt;Skapa gästboksinlägg&lt;/h1&gt;
+        &lt;form action=&quot;https://guestbook.ia-mau.se/new-post&quot; method=&quot;get&quot;&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;name-field&quot;&gt;Namn: &lt;/label&gt;
+                &lt;input type=&quot;text&quot; name=&quot;name&quot; id=&quot;name-field&quot; placeholder=&quot;Skriv ditt namn h&auml;r...&quot; required&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;label for=&quot;message-field&quot;&gt;Meddelande: &lt;/label&gt;
+                &lt;textarea id=&quot;message-field&quot; name=&quot;message&quot;&gt;&lt;/textarea&gt;
+            &lt;/p&gt;
+            &lt;input type=&quot;submit&quot; value=&quot;Skapa meddelande&quot;&gt;
+        &lt;/form&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>

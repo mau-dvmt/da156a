@@ -49,5 +49,7 @@
 
     <p>Det inlämnade resultatet ska vara skapat av dig och ska representera ditt individuellt utförda arbete. Samarbete (gemensamt skapande av resultat) är inte tillåtet.</p>
 
+    <p>Det är förbjudet att använda hjälpmedel för att skapa/generera kod och/eller lösningar (eller delar av lösning) för uppgiften genom verktyg som t.ex. ChatGPT, Github Copilot, eller liknande/motsvarande verktyg, på exeminerande uppgifter (som denna) i denna kurs. Skulle detta ske betraktas det som misstanke om fusk, vilket kommer leda till en anmälan till disciplinnämnden och ev. avstängning från studier.</p>
+
     <p>Plagiat kan leda till anmälning för fusk enligt högskoleförordningens 10 kap om disciplinära åtgärder för studenter. Med plagiat menas kopiering/avskrift från böcker, artiklar, studentarbeten (egna eller andras), eller andra källor utan korrekt hänvisning, i syfte att få det att framstå som du själv har skapat resultatet. Såväl text som källkod kan plagieras.</p>
 </div>

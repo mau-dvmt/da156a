@@ -2,12 +2,14 @@
 
 <hr>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2696%; padding-top: 58px;"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3oAdRd2ctYR6aZ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2696%; padding-top: 58px;"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/8mOULhFtT85SSr" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 
 <hr>
 
-<a href="/resources/pdf/f4-CSS.pdf">Ladda ner föreläsningen här</a>
+<a href="/resources/pdf/F4-HT24.pdf">Ladda ner föreläsningen här</a>
 
+
+<!--
 <h3>Dagens exempel</h3>
 
 <h4>HTML - Exempel på block / inline-element</h4>
@@ -291,3 +293,5 @@ h3 {
     text-align: center;
 }
 </code></pre>
+
+-->
