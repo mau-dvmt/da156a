@@ -8,8 +8,6 @@
 
 <a href="/resources/pdf/F4-HT24.pdf">Ladda ner föreläsningen här</a>
 
-
-<!--
 <h3>Dagens exempel</h3>
 
 <h4>HTML - Exempel på block / inline-element</h4>
@@ -43,26 +41,50 @@
 		&lt;meta charset=&quot;utf-8&quot;&gt;
 		&lt;title&gt;Min f&ouml;rsta webbsida!&lt;/title&gt;
 		&lt;style&gt;
+			h1 {
+				background-color: aqua;
+				padding: 20px;
+				border: 5px solid black;
+				font-size: 24px;
+				text-align: center;
+			}
+
 			li {
-				background-color: aquamarine;
+				background-color: rgb(0, 255, 225);
 			}
+
+			a {
+				color: green;
+			}
+
 			img {
-				width: 300px;
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-				border-radius: 10px;
-				box-shadow: 0 0 10px #000;
+				width: 400px;
+				border-radius: 20px;
 			}
+
+			table {
+				border: 2px dotted red;
+				background-color: aqua;
+			}
+
+			thead {
+				background-color: brown;
+			}
+
+			td, th {
+				padding: 5px;
+				border: 1px dotted black;
+			}
+
 		&lt;/style&gt;
 	&lt;/head&gt;
-	&lt;body style=&quot;background-color: #A071A7;&quot;&gt;	
-		&lt;h1 style=&quot;color: pink;&quot;&gt;V&auml;lkommen till min sida!&lt;/h1&gt;
+	&lt;body&gt;	
+		&lt;h1&gt;V&auml;lkommen till min sida!&lt;/h1&gt;
 		&lt;p&gt;Kursen g&aring;r p&aring; &lt;abbr title=&quot;Malm&ouml; univeristet&quot;&gt;mau&lt;/abbr&gt;&lt;/p&gt;
 		&lt;hr&gt;
 		&lt;p&gt;Bra filmer:&lt;/p&gt;
 		&lt;ol&gt;
-			&lt;li id=&quot;star-wars&quot;&gt;Star Wars&lt;/li&gt;
+			&lt;li&gt;Star Wars&lt;/li&gt;
 			&lt;li&gt;Fight Club&lt;/li&gt;
 			&lt;li&gt;American beauty&lt;/li&gt;
 			&lt;li&gt;Inception&lt;/li&gt;
@@ -74,11 +96,11 @@
 			&lt;li&gt;&lt;a href=&quot;https://www.mah.se/ext/Canvas/&quot;&gt;Canvas&lt;/a&gt;&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;hr&gt;
-		&lt;p class=&quot;left&quot;&gt;S&aring;h&auml;r kul tycker jag att HTML &auml;r:&lt;/p&gt;
+		&lt;p&gt;S&aring;h&auml;r kul tycker jag att HTML &auml;r:&lt;/p&gt;
 		&lt;p&gt;
 			&lt;img src=&quot;bilder/me.jpg&quot; alt=&quot;En bild p&aring; mig&quot;&gt;
 		&lt;/p&gt;
-		&lt;p class=&quot;right&quot;&gt;S&aring;h&auml;r kul tycker jag att CSS &auml;r:&lt;/p&gt;
+		&lt;p&gt;S&aring;h&auml;r kul tycker jag att CSS &auml;r:&lt;/p&gt;
 		&lt;p&gt;
 			&lt;img src=&quot;bilder/me2.jpg&quot; alt=&quot;En bild p&aring; mig&quot;&gt;
 		&lt;/p&gt;
@@ -132,7 +154,7 @@
 	&lt;body&gt;
 		&lt;h1&gt;Om Star Wars&lt;/h1&gt;
 		
-		&lt;p&gt;Star Wars &auml;r en franchise som fr&auml;mst best&aring;r av en serie amerikanska science fiction-filmer skapade av George Lucas under 1970-, 1980-, 1990-, 2000- och 2010-talet. Den f&ouml;rsta i filmserien, Stj&auml;rnornas krig, hade premi&auml;r 25 maj 1977 i USA och blev snabbt ett v&auml;rldsomfattande popul&auml;rkulturfenomen. Filmens framg&aring;ng ledde till tv&aring; uppf&ouml;ljare, Rymdimperiet sl&aring;r tillbaka (1980) och Jedins &aring;terkomst (1983). Tjugotv&aring; &aring;r efter den ursprungliga filmens premi&auml;r b&ouml;rjade George Lucas arbetet med en andra trilogi som en prequel till originaltrilogin best&aring;ende av Episod I &ndash; Det m&ouml;rka hotet (1999), Episod II &ndash; Klonerna anfaller (2002) och Episod III &ndash; M&ouml;rkrets h&auml;mnd (2005). Under 2012 s&aring;lde Lucas r&auml;ttigheterna till Walt Disney Company. Tio &aring;r efter Episod III sl&auml;pptes den f&ouml;rsta delen i uppf&ouml;ljartrilogin, den sjunde filmen i serien Episod VII &ndash; The Force Awakens (2015). Ytterligare tv&aring; uppf&ouml;ljare &auml;r planerade, Episod VIII (2017) och Episod IX (2019).&lt;/p&gt;
+		&lt;p id=&quot;first-p&quot;&gt;Star Wars &auml;r en franchise som fr&auml;mst best&aring;r av en serie amerikanska science fiction-filmer skapade av George Lucas under 1970-, 1980-, 1990-, 2000- och 2010-talet. Den f&ouml;rsta i filmserien, Stj&auml;rnornas krig, hade premi&auml;r 25 maj 1977 i USA och blev snabbt ett v&auml;rldsomfattande popul&auml;rkulturfenomen. Filmens framg&aring;ng ledde till tv&aring; uppf&ouml;ljare, Rymdimperiet sl&aring;r tillbaka (1980) och Jedins &aring;terkomst (1983). Tjugotv&aring; &aring;r efter den ursprungliga filmens premi&auml;r b&ouml;rjade George Lucas arbetet med en andra trilogi som en prequel till originaltrilogin best&aring;ende av Episod I &ndash; Det m&ouml;rka hotet (1999), Episod II &ndash; Klonerna anfaller (2002) och Episod III &ndash; M&ouml;rkrets h&auml;mnd (2005). Under 2012 s&aring;lde Lucas r&auml;ttigheterna till Walt Disney Company. Tio &aring;r efter Episod III sl&auml;pptes den f&ouml;rsta delen i uppf&ouml;ljartrilogin, den sjunde filmen i serien Episod VII &ndash; The Force Awakens (2015). Ytterligare tv&aring; uppf&ouml;ljare &auml;r planerade, Episod VIII (2017) och Episod IX (2019).&lt;/p&gt;
 		
 		&lt;p&gt;Filmserien har ocks&aring; resulterat i b&ouml;cker, tv-serier, datorspel och serietidningar. Dessa till&auml;gg utg&ouml;r grunden f&ouml;r Star Wars: Expanded Universe, och har resulterat i en m&auml;rkbar utveckling i seriens fiktiva universum. Fram till mars 2016 har de sex filmerna tillsammans genererat uppskattningsvis 9,2 miljarder US dollar, vilket g&ouml;r dem till den tredje mest inkomstbringande filmserien.&lt;/p&gt;
 		
@@ -189,7 +211,7 @@
 				&lt;/tr&gt;
 				&lt;tr&gt;
 					&lt;td&gt;IX&lt;/td&gt;
-					&lt;td&gt;Star Wars: Episod IX&lt;/td&gt;
+					&lt;td&gt;Star Wars: The rise of Skywalker&lt;/td&gt;
 					&lt;td&gt;24 maj 2019&lt;/td&gt;
 				&lt;/tr&gt;
 			&lt;/tbody&gt;
@@ -237,8 +259,9 @@
 		&lt;p&gt;Efter att ha funnit Luke Skywalker f&ouml;rs&ouml;ker Rey &ouml;vertala honom att ansluta sig till rebellstyrkorna, men Luke har tappat tron p&aring; jediriddarnas roll i kampen efter att ha misslyckats med Ben Solo. Samtidigt leder Leia rebellstyrkorna i kraftigt underl&auml;ge, och deras chanser blir inte b&auml;ttre n&auml;r det visar sig att F&ouml;rsta orden har utvecklat en teknologi som kan sp&aring;ra deras skepp i ljushastighet.&lt;/p&gt;
 		&lt;p class=&quot;center&quot;&gt;K&auml;lla: &lt;a href=&quot;https://sv.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi&quot;&gt;https://sv.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi&lt;/a&gt;&lt;/p&gt;
 		
-		&lt;h3&gt;Star Wars IX - ?&lt;/h3&gt;
-		&lt;p&gt;Mer info kommer...&lt;/p&gt;
+		&lt;img src=&quot;https://images.justwatch.com/poster/178536888/s718/star-wars-episode-ix.jpg&quot; alt=&quot;Star Wars episode 9 poster&quot;&gt;
+		&lt;h3 class=&quot;center&quot;&gt;Star Wars IX - The rise of Skywalker&lt;/h3&gt;
+		&lt;p&gt;&quot;Star Wars: The Rise of Skywalker&quot; &auml;r det nionde och sista kapitlet i den episka Skywalker-sagan. Det episka, avg&ouml;rande slaget mellan det goda och det onda n&auml;rmar sig. Hj&auml;ltarna Rey, Poe och Finn forts&auml;tter Motst&aring;ndsr&ouml;relsens kamp mot F&ouml;rsta ordningen, och Kylo Ren f&aring;r ett meddelande fr&aring;n kejsaren Palpatine som troddes vara d&ouml;d.&lt;/p&gt;
 		
 	&lt;/body&gt;
 &lt;/html&gt;
@@ -248,50 +271,45 @@
 
 <pre class="language-css line-numbers" data-type="css"><code class="language-css line-numbers">
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: aquamarine;
+    background-color: beige;
+    margin: 0px;
 }
 
-table {
-    margin-left: auto;
-    margin-right: auto;
-    border: 2px solid black;
-}
-
-th, td {
-    border: 1px solid black;
-    padding: 5px;
-}
-
-thead {
-    background-color:brown;
+h1 {
+    background-color: black;
     color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0px;
+}
+
+p, h2, h3 {
+    color: darkslategrey;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+img {
+    width: 150px;
+    display: block;
+    margin: auto;
+}
+
+#important {
+    border: dotted 5px black;
+    text-align: center;
+    padding: 10px;
 }
 
 .center {
     text-align: center;
-    margin-bottom: 50px;
 }
 
-#important {
-    background-color: red;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: white;
-    border-radius: 10px;
+#first-p {
+    margin-bottom: 40px;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-}
-
-h3 {
-    text-align: center;
+table, td, th {
+    border: 1px solid black;
 }
 </code></pre>
-
--->
