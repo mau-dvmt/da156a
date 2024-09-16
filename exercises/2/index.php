@@ -32,7 +32,7 @@
 <pre class="line-numbers language-markup" data-type="html"><code class="language-markup">&lt;form action="http://webshare.mah.se/ctfroh/da158a/formtest.php"&gt;
     &lt;fieldset&gt;
         &lt;legend&gt;Ansök om bostad&lt;/legend&gt;
-        &lt;input type="button" value="Ansök"&gt;
+        &lt;input type="submit" value="Ansök"&gt;
     &lt;/fieldset&gt;
 &lt;/form&gt;</code></pre>
 <p>Från detta kan det utläsas att:</p>
@@ -112,9 +112,9 @@
 <h4>7.2. Bygg ett formulär till gästboken</h4>
 <p>Ditt formulär ska ha följande information:</p>
 <ul>
-    <li>Formuläret ska skickas till adressen: <a href="https://guestbook.ia-mau.se">https://guestbook.ia-mau.se</a>
+    <li>Formuläret ska skickas till adressen: <a href="https://guestbook.ia-mau.se/new-post">https://guestbook.ia-mau.se/new-post</a>
     </li>
-    <li>Formuläret ska skickas genom metoden <code>POST</code></li>
+    <li>Formuläret ska skickas genom metoden <code>GET</code></li>
     <li>Formuläret ska ha följande komponenter:
         <ul>
             <li>Ett textfält för namn (textfältets namn ska vara <code>name</code>)</li>
