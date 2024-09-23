@@ -14,11 +14,9 @@
 
 <a href="/resources/pdf/5-2023.pdf">Ladda ner föreläsningen här</a>
 
-<!--
-
 <h3>Dagens exempel</h3>
 
-<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/5/5-2023-ex.zip">här</a></p>
+<p> Ni kan ladda ner alla exempel i ZIP-format <a href="/lectures/5/layout-ht24.zip">här</a></p>
 
 <h4>Exempel 1 - Boxar (HTML)</h4>
 <pre class="language-markup line-numbers" data-type="html"><code class="language-markup line-numbers">
@@ -30,31 +28,85 @@
         &lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;
     &lt;/head&gt;
     &lt;body&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-        &lt;div&gt;Box&lt;/div&gt;
-
+        &lt;div id=&quot;special-box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
+        &lt;div class=&quot;box&quot;&gt;Box&lt;/div&gt;
     &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
 
 <h4>Exempel 1 - Boxar (CSS)</h4>
 <pre class="language-css line-numbers" data-type="css"><code class="language-css line-numbers">
-div {
+body {
     background-color: aqua;
-    width: 50px;
-    height: 50px;
+}
+
+#special-box {
+    background-color: burlywood;
+    padding: 25px;
+    border: 5px solid white;
+    width: 100px;
+    box-sizing: border-box;
+
+    position: fixed;
+    left: 150px;
+    top: 150px;
+}
+
+.box {
+    background-color: yellow;
+    padding: 25px;
+    border: 5px solid green;
+    width: 100px;
+
+    box-sizing: border-box;
+
+    float: left; 
+
     margin: 5px;
-    margin-left: 500px;
+
 }
 </code></pre>
 
@@ -104,36 +156,16 @@ div {
 		&lt;/div&gt;
 		
 		&lt;div class=&quot;star-wars-box&quot;&gt;
-			&lt;div class=&quot;stars&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-			&lt;/div&gt;
 			&lt;h2&gt;Star Wars: Episode IV&lt;/h2&gt;
 			&lt;img src=&quot;images/4.png&quot; alt=&quot;Star Wars poster&quot;&gt;
 		&lt;/div&gt;
 		
 		&lt;div class=&quot;star-wars-box&quot;&gt;
-			&lt;div class=&quot;stars&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-			&lt;/div&gt;
 			&lt;h2&gt;Star Wars: Episode V&lt;/h2&gt;
 			&lt;img src=&quot;images/5.png&quot; alt=&quot;Star Wars poster&quot;&gt;
 		&lt;/div&gt;
 		
 		&lt;div class=&quot;star-wars-box&quot;&gt;
-			&lt;div class=&quot;stars&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-				&lt;img src=&quot;images/star.png&quot; alt=&quot;Star&quot;&gt;
-			&lt;/div&gt;
 			&lt;h2&gt;Star Wars: Episode VI&lt;/h2&gt;
 			&lt;img src=&quot;images/6.png&quot; alt=&quot;Star Wars poster&quot;&gt;
 		&lt;/div&gt;
@@ -151,24 +183,22 @@ body {
 }
 
 h1 {
-    font-family: 'Star Jedi', arial;
+    font-family: "Star Jedi", arial;
     background-color: black;
     color: white;
     text-align: center;
     padding: 20px;
-    margin: 0px;
+    margin: 0px 0px 25px 0px;
 }
 
 .star-wars-box {
+    position: relative;
     width: 50%;
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
+    margin: 10px auto;
     background-color: #eee;
     box-shadow: 0 0 10px black;
+
     overflow: hidden;
-    position: relative;
 }
 
 .star-wars-box > img {
@@ -178,21 +208,23 @@ h1 {
 
 .star-wars-box > h2 {
     float: left;
+    padding-left: 20px;
     line-height: 100px;
     margin: 0px;
-    padding-left: 20px;
 }
 
 .stars {
     position: absolute;
     right: 0px;
-    bottom: 0px;
+    top: 0px;
+    background-color: #eeeeeea5;
+    min-width: 100px;
 }
 
 .stars > img {
-    width: 10px;
+    width: 13px;
+    float: right;
 }
-
 </code></pre>
 
 <h4>Exemepel 3 - Layout (HTML)</h4>
@@ -205,9 +237,14 @@ h1 {
         &lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;
     &lt;/head&gt;
     &lt;body&gt;
-        &lt;div id=&quot;container&quot;&gt;
+        &lt;div id=&quot;wrapper&quot;&gt;
             &lt;header&gt;
-                &lt;h1&gt;Webbsida&lt;/h1&gt;
+                &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiREw-C885pdG2CLEzLSLxKDa5CyV2frME5g&amp;s&quot; alt=&quot;Malm&ouml; universitet logotyp&quot;&gt;
+                &lt;h1&gt;Min webbsida&lt;/h1&gt;
+                &lt;form action=&quot;#&quot;&gt;
+                    &lt;input type=&quot;search&quot; placeholder=&quot;S&ouml;k h&auml;r...&quot; &gt;
+                    &lt;input type=&quot;submit&quot; name=&quot;query&quot;&gt;
+                &lt;/form&gt;
             &lt;/header&gt;
             &lt;nav&gt;
                 &lt;h2&gt;Meny&lt;/h2&gt;
@@ -216,23 +253,25 @@ h1 {
                     &lt;li&gt;&lt;a href=&quot;#&quot;&gt;L&auml;nk&lt;/a&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;a href=&quot;#&quot;&gt;L&auml;nk&lt;/a&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;a href=&quot;#&quot;&gt;L&auml;nk&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href=&quot;#&quot;&gt;L&auml;nk&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/nav&gt;
             &lt;main&gt;
                 &lt;h2&gt;Huvudinneh&aring;ll&lt;/h2&gt;
-                &lt;p&gt;Lite text...&lt;/p&gt;
-                &lt;p&gt;Lite text...&lt;/p&gt;
-                &lt;p&gt;Lite text...&lt;/p&gt;
-                &lt;p&gt;Lite text...&lt;/p&gt;
-                &lt;p&gt;Lite text...&lt;/p&gt;
-                &lt;p&gt;Lite text...&lt;/p&gt;
-                &lt;p&gt;Lite text...&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
+                &lt;p&gt;Lite text&lt;/p&gt;
             &lt;/main&gt;
             &lt;footer&gt;
-                &lt;h3&gt;Kontakta oss&lt;/h3&gt;
-                &lt;p&gt;
-                    &lt;a href=&quot;mailto:anton.tibblin@mau.se&quot;&gt;Maila oss h&auml;r&lt;/a&gt;
-                &lt;/p&gt;
+                &lt;h2&gt;Kontakta oss&lt;/h2&gt;
+                &lt;p&gt;Vi finns p&aring; ....&lt;/p&gt;
             &lt;/footer&gt;
         &lt;/div&gt;
     &lt;/body&gt;
@@ -243,38 +282,63 @@ h1 {
 <pre class="language-css line-numbers" data-type="css"><code class="language-css line-numbers">
 body {
     background-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#container {
-    background-color: burlywood;
+#wrapper > main > h2, #wrapper > footer > h2 {
+    text-align: center;
+}
+
+#wrapper {
     width: 80%;
-    margin: auto;
+    margin: 20px auto;
+    background-color: #2E86AB;
 }
 
-#container > header {
-    background-color: beige;
+#wrapper > * {
+    min-height: 100px;
     overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px;
 }
 
-#container > nav {
-    background-color: burlywood;
+#wrapper > header {
+    background-color:#F5F749;
+}
+
+#wrapper > header > img {
+    float: left;
+    height: 100px;
+    margin-right: 20px;
+}
+
+#wrapper > header > h1 {
+    line-height: 100px;
+    margin: 0px;
+    float: left;
+}
+
+#wrapper > header > form {
+    float: right;
+    line-height: 100px;
+}
+
+form > input {
+    height: 30px;
+}
+
+#wrapper > nav {
+    background-color: #2E86AB;
     float: left;
     width: 20%;
-    overflow: hidden;
 }
 
-#container > main {
-    background-color: white;
+#wrapper > main {
+    background-color: #F24236;
     width: 80%;
-    float: right;
-    border-left: 5px solid black;
-    box-sizing: border-box;
 }
 
-#container > footer {
-    background-color: beige;
-    clear: both;
+#wrapper > footer {
+    background-color: #F5F749;
 }
 </code></pre>
-
--->

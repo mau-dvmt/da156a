@@ -11,7 +11,7 @@
     <li>Genom <code>flex</code></li>
 </ul>
 
-<p>Laborationen börjar med att vi testar på <code>float</code>, vilket är den älsta tenkiken. <strong>För att bli godkänd på labben behöver ni göra layouten om beskrivs nedan genom båda teknikerna: <code>float</code> och <code>grid</code></strong>. Bonus (och väldigt bra träning) är att även göra den genom tekniken <code>flex</code></p>
+<p>Laborationen börjar med att vi testar på <code>float</code>, vilket är den älsta tekniken. <strong>För att bli godkänd på labben behöver ni göra layouten om beskrivs nedan genom båda teknikerna: <code>float</code> och <code>grid</code></strong>. Bonus (och väldigt bra träning) är att även göra den genom tekniken <code>flex</code></p>
 
 <h3>1. Uppgift</h3>
 <p>Målet är att producera en layout, som likt många webbplatser på Internet består utav ett sidhuvud, en menykolumn, en innehållskolumn och en sidfot. Följande bild illustrerar målet:</p>
