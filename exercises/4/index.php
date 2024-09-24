@@ -7,7 +7,7 @@
 
 <ol>
   <li>Börja med att skapa ett html dokument. Skapa sedan en enkel layout med en <code>header</code>, en <code>main</code> och en <code>footer</code>.</li>
-  <li>Skapa två <code>section</code> i <code>main</code>. Lägg in en <code>h2</code>, en paragraph och en bild i den ordningen för de två sektionerna.</li>
+  <li>Skapa två <code>section</code> i <code>main</code>. Lägg in en <code>h2</code>, en paragraph (<code>p</code>) och en bild (<code>img</code>) i den ordningen för de två sektionerna.</li>
   <li>Skapa en enkel css-fil och styla din layout. Använd dig av flexbox för att skapa en enkel layout.</li>
 </ol>
 
@@ -36,7 +36,7 @@ Exempel på hur det bör se ut:
         &lt;section id="second"&gt;
             &lt;h2&gt;Sektion 2&lt;/h2&gt;
             &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit
-                &lt;a&gt; href="#"&gt;link&lt;/a&gt;
+                &lt;a href="#"&gt;link&lt;/a&gt;
             &lt;/p&gt;
             &lt;img src="https://via.placeholder.com/300" alt="placeholder"&gt;
         &lt;/section&gt;
