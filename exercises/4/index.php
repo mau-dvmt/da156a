@@ -29,7 +29,7 @@ Exempel på hur det bör se ut:
         &lt;section id="first"&gt;
             &lt;h2&gt;Sektion 1&lt;/h2&gt;
             &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit
-                &lt;a&gt; href="#"&gt;link&lt;/a&gt;
+                &lt;a href="#"&gt;link&lt;/a&gt;
             &lt;/p&gt;
             &lt;img src="https://via.placeholder.com/300" alt="placeholder"&gt;
         &lt;/section&gt;
