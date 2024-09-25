@@ -69,7 +69,7 @@
 				</tr>
 				<tr>
 					<td>8</td>
-					<td>Tutorial, att bygga en webbsida</td>
+					<td><a href="/lectures.php?nr=8">Tutorial, att bygga en webbsida</a></td>
 					<td>Anton</td>
 				</tr>
 				<tr>
