@@ -44,6 +44,7 @@ Exempel på hur det bör se ut:
     &lt;footer&gt;
         &lt;p&gt;Malmö universitet&lt;/p&gt;
     &lt;/footer&gt;
+&lt;/body&gt;
 &lt;/html&gt;</code></pre>
 
 <p>Exempel på css:</p>
@@ -101,7 +102,7 @@ body {
   <li>Ändra storleken på webbläsaren och se hur sidan beter sig.</li>
   <li>Testa att centrera bilderna i sektionerna i mobilläget. Detta kan vi lösa med <code>flex</code> och <code>align-items</code>.
     <pre class="line-numbers language-markup" data-type="html"><code class="language-css">
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   main {
     display: flex;
     flex-direction: column-reverse;
@@ -117,7 +118,7 @@ body {
     <li>Testa att ändra storleken på webbläsaren och se hur sidan beter sig.</li>
     <li>Ser du att texten inte har blivit centrerad i sektionerna om sidan är smalare än 400 pixlar? Men <code>align-items</code> borde ju centrera både text och bild? Nja, inte riktigt. <code>align-items</code> centrera element. För att centrera texten i sektionerna kan vi använda <code>text-align</code>.
       <pre class="line-numbers language-markup" data-type="html"><code class="language-css">
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   main {
     display: flex;
     flex-direction: column-reverse;
@@ -143,4 +144,4 @@ body {
 
 
 <h3>5. Avslutande övning</h3>
-<p>Använd nu en din layout från labb 3 - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! 😊<p>
+<p>Använd nu din layout från labb 3 - och mobilanpassa denna efter eget tycke och smak. Tänk på att försöka att ha användbarhet och tillgänglighet i fokus! 😊<p>
