@@ -44,6 +44,7 @@ Exempel på hur det bör se ut:
     &lt;footer&gt;
         &lt;p&gt;Malmö universitet&lt;/p&gt;
     &lt;/footer&gt;
+&lt;/body&gt;
 &lt;/html&gt;</code></pre>
 
 <p>Exempel på css:</p>
