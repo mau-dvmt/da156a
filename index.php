@@ -4,7 +4,7 @@ include "_header.php";
 <div class="row">
 	<div class="col-lg-8">
 		<h2>Introduktion till webbutveckling</h2>
-		<p>Denna webbplats innehåller material från en grundkurs i webbutveckling. De som läser <a href="http://edu.mah.se/sv/Course/DA106A#Syllabus" target="_blanc">kursen</a> är den primära målgruppen, men mycket kan förhoppningsvis vara användbart även för andra. Allt material är publicerat under en <a href="http://creativecommons.org/licenses/by/4.0/deed.sv">fri licens</a>, vilket gör att det kan återanvändas av andra, så länge upphovsman anges.</p>
+		<p>Denna webbplats innehåller material från en grundkurs i webbutveckling. De som läser <a href="https://mau.se/sok-utbildning/kurser/DA106A/TS021-20252" target="_blanc">kursen</a> är den primära målgruppen, men mycket kan förhoppningsvis vara användbart även för andra. Allt material är publicerat under en <a href="http://creativecommons.org/licenses/by/4.0/deed.sv">fri licens</a>, vilket gör att det kan återanvändas av andra, så länge upphovsman anges.</p>
 
 		<h3>Syfte</h3>
 		<p>I den bakomliggande kursplanen beskrivs syfte och mål:</p>
@@ -25,12 +25,13 @@ include "_header.php";
 		<div class="list-group">
 			<a class="list-group-item" href="http://www.mau.se/" target="_blank">Malmö universitet</a>
 			<a class="list-group-item" href="https://canvas.mau.se" target="_blank">Canvas</a>
-			<a class="list-group-item" href="https://utbildningsinfo.mau.se/kurs/kursplan/DA106A/20242" target="_blank">Kursplan</a>
+			<a class="list-group-item" href="https://utbildningsinfo.mau.se/kurs/kursplan/sv/90f5a7ad-910f-11ef-a8a1-f662fabf4d6e/20252" target="_blank">Kursplan</a>
 		</div>
 
 		<h2>Senaste händelser</h2>
 		
 		<div class="list-group">
+			<!--
 			<a class="list-group-item" href="/exercises.php?title=6">L6: Bonus: one.com</a>
 			
 			<a class="list-group-item" href="/lectures.php?nr=12">F12: Användbarhet(2)</a>
@@ -55,6 +56,7 @@ include "_header.php";
 			<a class="list-group-item" href="/exercises.php?title=2">L2a: Tabeller &amp; formulär</a>
 			<a class="list-group-item" href="/lectures.php?nr=2">F2: Intro HTML</a>			
 			<a class="list-group-item" href="/lectures.php?nr=1">F1: Kursintroduktion</a>
+-->
 			<a class="list-group-item" href="/exercises.php?title=1">L1: En första webbsida</a>
 		</div>
 	</div>

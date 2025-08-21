@@ -29,16 +29,16 @@
 			        <th>Inlämningsuppgift</th>
 			    </tr>
 			    <tr>
-					<td>29/9</td>
+					<td>28/9</td>
                     <td><a href="assignments.php?nr=1">Inlämningsuppgift 1 - Grundläggande HTML &amp; CSS</a></td>
 			    </tr>
 				<tr>
-					<td>13/10</td>
-                    <td><a href="assignments.php?nr=2">Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</a></td>
+					<td>12/10</td>
+                    <td>Inlämningsuppgift 2 - Layout med CSS &amp; JavaScript</td>
 			    </tr>
 				<tr>
-					<td>27/10</td>
-                    <td><a href="assignments.php?nr=3">Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</a></td>
+					<td>26/10</td>
+                    <td>Inlämningsuppgift 3 - Användbarhet &amp; förnyelse av befintlig webbplats</td>
 			    </tr>
 			</table>
 		</div>

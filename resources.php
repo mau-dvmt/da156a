@@ -15,15 +15,6 @@ include "_header.php";
 		<p>
 			I just <a href="http://edu.mah.se/sv/Course/da106a#Syllabus">denna kurs</a> rekommenderas ytterligare två böcker:
 		</p>
-		<ul>
-			<li>
-				<a href="http://www.abookapart.com/products/responsive-web-design/">Responsive Web Design</a> av Ethan Marcotte, som beskriver en viktig designansats för att hantera varierande plattformer.
-			</li>
-			<li>
-				<a href="http://www.sensible.com/dmmt.html">Don't Make Me Think!</a> av Steve Krug, som ger en klassisk introduktion till användbarhet.
-			</li>
-		</ul>
-
 
 		<h3>2. Referensverk och tutorials</h3>
 		<p>
@@ -34,7 +25,7 @@ include "_header.php";
 		</p>
 		<ul>
 			<li>
-				<a href="http://reference.sitepoint.com/">SitePoint</a> driver en informativ referenssajt, där man kan slå upp de flesta aspekter för grundläggande HTML och CSS.
+				<a href="https://www.sitepoint.com/html/">SitePoint</a> driver en informativ referenssajt, där man kan slå upp de flesta aspekter för grundläggande HTML och CSS.
 			</li>
 			<li>
 				<a href="https://developer.mozilla.org/en-US/docs">Mozilla Developer Network</a> fyller samma syfte som SitePoint, men kan vara mer utförlig för avancerade ämnen.
@@ -60,7 +51,6 @@ include "_header.php";
 			<h4>3.1. macOS</h4>
 			<ul>
 				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis) - <strong>Rekommenderas</strong></li>
-				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
 			</ul>
 		</div>
@@ -69,7 +59,6 @@ include "_header.php";
 			<h4>3.2. Windows</h4>
 			<ul>
 				<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (gratis) - <strong>Rekommenderas</strong></li>
-				<li><a href="https://atom.io/">Atom</a> (gratis)</li>
 				<li><a href="http://brackets.io/">Brackets</a> (gratis)</li>
 				<li><a href="http://notepad-plus-plus.org">Notepad++</a> (gratis)</li>
 			</ul>

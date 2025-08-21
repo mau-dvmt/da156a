@@ -2,6 +2,8 @@
 <div class="row">
     <div class="col-lg-8 create-submenu">
         <h2>Om kursens tentamen</h2>
+        <p>Mer information om tentamen publiceras under kursens gång.</p>
+        <!--
         <p>Förutom de praktiska inlämningsuppgifterna, så examineras kursen med en skriftlig tentamen. Den fångar upp många av de viktiga kunskaper och ställningstaganden man behöver känna till. Tentamen är också det moment som är VG-grundande för kursen.</p>
         <p>Första tentamenstillfället är i slutet av kursen. Vid missad skrivning, eller icke godkänt betyg, finns flera möjligheter till omtentamen. Den första omtentan sker redan under höstterminen.</p>
         <h3>Exempeltentor</h3>
@@ -21,7 +23,7 @@
         <h3>Anmälan</h3>
         <p>Anmälan till tentamen är <strong>obligatorisk</strong> och görs via <a href="https://schema.mau.se/">Kronox</a> (senast 8 dagar innan tentamen).</p>
         <p><a href="https://student.mau.se/mina-studier/tentamen/">Mer information om anmälan till tenamen hittar ni här</a></p>
-
+        -->
     </div>
     <div class="col-lg-4 submenu-area">
     </div>
