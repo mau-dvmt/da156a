@@ -141,12 +141,14 @@ $(document).ready(function(){
 
 <h3>5. Redovisning</h3>
 
-<p>Ni lämnar in ert resultat på Canvas via följande länk <a href="https://mau.instructure.com/courses/14521/assignments/101602">https://mau.instructure.com/courses/14521/assignments/101602</a>. <strong>OBS.</strong> Lämna in <strong>alla filer</strong> som tillhör er lösning d.v.s. HTML, CSS, ev. bilder, etc.</p>
+<p>Ni lämnar in ert resultat på Canvas via följande länk <a href="https://mau.instructure.com/courses/16815/assignments/123806">https://mau.instructure.com/courses/16815/assignments/123806</a>. <strong>OBS.</strong> Lämna in <strong>alla filer</strong> som tillhör er lösning d.v.s. HTML, CSS, ev. bilder, etc.</p>
 
 
 <h3>6. Notis om individuellt genomförande</h4>
 <div class="well">
     <p>Det inlämnade resultatet ska vara skapat av dig och ska representera ditt individuellt utförda arbete. Samarbete (gemensamt skapande av resultat) är inte tillåtet.</p>
+
+    <p>Det är förbjudet att använda hjälpmedel för att skapa/generera kod och/eller lösningar (eller delar av lösning) för uppgiften genom verktyg som t.ex. ChatGPT, Github Copilot, eller liknande/motsvarande verktyg, på exeminerande uppgifter (som denna) i denna kurs. Skulle detta ske betraktas det som misstanke om fusk, vilket kommer leda till en anmälan till disciplinnämnden och ev. avstängning från studier.</p>
 
     <p>Plagiat kan leda till anmälning för fusk enligt högskoleförordningens 10 kap om disciplinära åtgärder för studenter. Med plagiat menas kopiering/avskrift från böcker, artiklar, studentarbeten (egna eller andras), eller andra källor utan korrekt hänvisning, i syfte att få det att framstå som du själv har skapat resultatet. Såväl text som källkod kan plagieras.</p>
 </div>

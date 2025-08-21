@@ -51,12 +51,12 @@
                 </tr>
                 <tr>
                     <td>5</td>
-                    <td>JavaScript och ramverk</td>
+                    <td><a href="/exercises.php?title=5">JavaScript och ramverk</a></td>
                     <td>Anton & lärarassistent</td>
                 </tr>
                 <tr>
                     <td>6</td>
-                    <td>Bonus</td>
+                    <td><a href="/exercises.php?title=6">Att publicera webbsidor - Webbhotell</a></td>
                     <td>Anton</td>
                 </tr>
 			</table>
